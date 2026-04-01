@@ -81,3 +81,23 @@ export default function App() {
     </div>
   )
 }
+
+export default function App() {
+  const [state, setState] = useState(null);
+
+  useEffect(() => {
+    fetch("/state.json")
+      .then((res) => res.json())
+      .then((data) => setState(data));
+  }, []);
+
+  if (!state) return <div>Loading state...</div>;
+
+  return (
+    <div style={{ padding: "2rem", fontFamily: "DM Sans" }}>
+      <p>{state.timestamp}</p>
+      <h1>{state.headline}</h1>
+      <p>Intensity: {state.intensity}</p>
+    </div>
+  );
+}
