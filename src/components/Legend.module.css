@@ -1,4 +1,3 @@
-/* Estilos para el componente Legend */
 .bar {
   height: 38px;
   display: flex;
@@ -41,4 +40,17 @@
 .item.active {
   color: var(--accent);
   background: var(--accent-dim);
-  border-color: rgba
+  border-color: rgba(200, 169, 110, 0.2);
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 2px;
+  flex-shrink: 0;
+  background-color: var(--accent);
+}
+
+.label {
+  font-size: 10px;
+}
