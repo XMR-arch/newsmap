@@ -1,5 +1,5 @@
 import styles from './Legend.module.css'
-import { REGIONS } from '../hooks/papers.js'
+import { REGIONS } from '../data/papers.js'
 
 export default function Legend({ activeCat, onToggle }) {
   return (
