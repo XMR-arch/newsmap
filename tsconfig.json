@@ -23,7 +23,7 @@
     "jsx": "react-jsx",
 
     "isolatedModules": true,
-    "skipLibCheck": true
+    
   },
   "include": ["src"]
 }
