@@ -18,6 +18,8 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
 
       <form className={styles.searchForm} onSubmit={handleSearch}>
         <input
+          id="search"
+          name="search"
           className={styles.searchInput}
           value={search}
           onChange={e => setSearch(e.target.value)}
@@ -28,6 +30,8 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
 
       <div className={styles.controls}>
         <input
+          id="datePicker"
+          name="datePicker"
           type="date"
           className={styles.datePicker}
           value={date}
