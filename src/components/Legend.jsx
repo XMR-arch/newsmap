@@ -1,19 +1,51 @@
-import styles from './Legend.module.css'
-import { REGIONS } from '../data/papers.js'
-
-export default function Legend({ activeCat, onToggle }) {
-  return (
-    <div className={styles.bar}>
-      {Object.entries(REGIONS).map(([key, cat]) => (
-        <button
-          key={key}
-          className={`${styles.item} ${activeCat === key ? styles.active : ''}`}
-          onClick={() => onToggle(key)}
-        >
-          <span className={styles.dot} style={{ background: cat.accent }} />
-          <span className={styles.label}>{cat.label}</span>
-        </button>
-      ))}
-    </div>
-  )
+.bar {
+  height: 38px;
+  display: flex;
+  align-items: center;
+  padding: 0 8px;
+  gap: 2px;
+  background: var(--surface);
+  border-top: 0.5px solid var(--border);
+  flex-shrink: 0;
+  overflow-x: auto;
 }
+
+.bar::-webkit-scrollbar { display: none; }
+
+.item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 26px;
+  padding: 0 10px;
+  border-radius: var(--radius);
+  font-size: 10px;
+  font-family: var(--font-mono);
+  letter-spacing: 0.03em;
+  color: var(--muted);
+  border: 0.5px solid transparent;
+  transition: all 0.2s;
+  flex-shrink: 0;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.item:hover {
+  color: var(--text);
+  background: rgba(255,255,255,0.05);
+}
+
+.item.active {
+  color: var(--accent);
+  background: var(--accent-dim);
+  border-color: rgba(200,169,110,0.2);
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+.label { font-size: 10px; }
