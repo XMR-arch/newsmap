@@ -2,113 +2,92 @@ import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
 
 import { useNewsAPI } from './hooks/useNewsAPI.js';
 import { useGeolocation } from './hooks/useGeolocation.js';
-import { useHud } from './components/Hud.jsx';
+
+// FIX #4: un solo import de Hud.jsx — useHud y Hud desde el mismo módulo
+import Hud, { useHud } from './components/Hud.jsx';
 
 import Treemap from './components/Treemap.jsx';
 import TopBar from './components/TopBar.jsx';
 import Legend from './components/Legend.jsx';
-import Hud from './components/Hud.jsx';
 
-import styles from './App.module.css';
+// FIX #5: App.module.css reemplazado por index.css en components/
+// Los estilos de App viven en src/components/index.css (ya existe en el árbol)
+import './components/index.css';
 
 export default function App() {
-  // Estados locales
-  const [activeCat, setActiveCat] = useState(null);
-  const [date, setDate] = useState(() => new Date().toISOString().split('T')[0]);
-  const [countryFilter, setCountryFilter] = useState(null);
-  const [searchQuery, setSearchQuery] = useState('');
+  const [activeCat, setActiveCat]       = useState(null);
+  const [date, setDate]                 = useState(() => new Date().toISOString().split('T')[0]);
+  const [countryFilter]                 = useState(null);
+  const [searchQuery, setSearchQuery]   = useState('');
 
-  // Estado externo desde state.json
+  // FIX #1: state.json — carga no bloqueante, falla silenciosamente sin afectar el render
   const [externalState, setExternalState] = useState(null);
-  const [stateLoading, setStateLoading] = useState(true);
-  const [stateError, setStateError] = useState(null);
 
-  // HUD
-  const { stats, update: updateHud } = useHud();
-
-  // Geolocalización
-  const { country, city, loading: locating, detect } = useGeolocation();
-  const locationLabel = city ? `${city}` : country ? country.toUpperCase() : 'Detectar';
-
-  // País activo
-  const activeCountry = countryFilter ?? country;
-
-  // ==================== CARGAR STATE.JSON ====================
   useEffect(() => {
     fetch('/state.json')
-      .then((res) => {
-        if (!res.ok) throw new Error('Error al cargar state.json');
-        return res.json();
-      })
-      .then((data) => {
-        setExternalState(data);
-        setStateLoading(false);
-      })
-      .catch((err) => {
-        console.error('Error cargando state.json:', err);
-        setStateError(err.message);
-        setStateLoading(false);
+      .then(res => { if (!res.ok) throw new Error(); return res.json() })
+      .then(data => setExternalState(data))
+      .catch(() => {
+        // state.json es opcional — no bloquea ni muestra error si no existe
       });
   }, []);
 
-  // Datos de noticias
+  const { stats, update: updateHud } = useHud();
+  const { country, city, loading: locating, detect } = useGeolocation();
+  const locationLabel = city ? `${city}` : country ? country.toUpperCase() : 'Detectar';
+  const activeCountry = countryFilter ?? country;
+
   const { data: papers = [], isLoading: newsLoading } = useNewsAPI({
     country: activeCountry,
     date,
   });
 
-  // ==================== STABLE PAPERS (protección fuerte) ====================
+  // FIX #2: firstGoodResponse se resetea cuando cambia el país o la fecha
   const firstGoodResponse = useRef(null);
+  const prevKey = useRef(null);
+  const currentKey = `${activeCountry}-${date}`;
 
   const stablePapers = useMemo(() => {
-    // Si ya guardamos una buena respuesta (≥10 artículos), la mantenemos siempre
-    if (firstGoodResponse.current) {
-      return firstGoodResponse.current;
+    // Resetear cache cuando cambia el filtro activo
+    if (prevKey.current !== currentKey) {
+      firstGoodResponse.current = null;
+      prevKey.current = currentKey;
     }
 
-    // Si llega una respuesta buena por primera vez, la guardamos
+    if (firstGoodResponse.current) return firstGoodResponse.current;
     if (papers.length >= 10) {
       firstGoodResponse.current = papers;
       return papers;
     }
-
-    // Si aún no tenemos una buena respuesta, usamos lo que venga
     return papers;
-  }, [papers]);
-  // =====================================================================
+  }, [papers, currentKey]);
 
-  // Filtro de búsqueda
   const filteredPapers = useMemo(() => {
-    if (!stablePapers || stablePapers.length === 0) return [];
-
-    if (!searchQuery || searchQuery.trim() === '') {
-      return stablePapers;
-    }
-
+    if (!stablePapers?.length) return [];
+    if (!searchQuery?.trim()) return stablePapers;
     const q = searchQuery.toLowerCase().trim();
     return stablePapers.filter(p =>
-      (p.name?.toLowerCase() || '').includes(q) ||
-      (p.city?.toLowerCase() || '').includes(q) ||
-      (p.headline?.toLowerCase() || '').includes(q) ||
+      (p.name?.toLowerCase()    || '').includes(q) ||
+      (p.city?.toLowerCase()    || '').includes(q) ||
+      (p.headline?.toLowerCase()|| '').includes(q) ||
       (p.country?.toLowerCase() || '').includes(q) ||
-      (p.cat?.toLowerCase() || '').includes(q)
+      (p.cat?.toLowerCase()     || '').includes(q)
     );
   }, [stablePapers, searchQuery]);
 
-  // Toggle categoría
   const handleToggleCat = useCallback((key) => {
     setActiveCat(prev => prev === key ? null : key);
   }, []);
 
-  // Actualizar HUD
-  const handleHudUpdate = useCallback((blocks, layouts, ms) => {
-    if (updateHud) updateHud({ blocks, layouts, ms });
+  // FIX #3: handleHudUpdate sin argumentos — el HUD se actualiza via hudElRef en useTreemap
+  // Treemap llama hudElRef.current.update?.() sin pasar args, así que recibimos
+  // el objeto ya mutado por referencia en useTreemap. Solo necesitamos forzar el re-render.
+  const handleHudUpdate = useCallback(() => {
+    if (updateHud) updateHud(prev => ({ ...prev }));
   }, [updateHud]);
 
-  const isLoading = newsLoading || stateLoading;
-
   return (
-    <div className={styles.app}>
+    <div className="app">
       <TopBar
         onLocate={detect}
         locating={locating}
@@ -118,40 +97,33 @@ export default function App() {
         onSearch={setSearchQuery}
       />
 
-      {/* Banner Swim Mistress */}
+      {/* Banner estado externo — solo aparece si state.json existe y cargó bien */}
       {externalState && (
-        <div className={styles.stateBanner}>
-          <h2 className={styles.headline}>{externalState.headline}</h2>
-          
-          <div className={styles.intensityContainer}>
-            <span className={styles.intensityLabel}>Intensity</span>
-            <div className={styles.intensityBar}>
-              <div 
-                className={styles.intensityFill}
+        <div className="state-banner">
+          <h2 className="state-headline">{externalState.headline}</h2>
+          <div className="intensity-container">
+            <span className="intensity-label">Intensity</span>
+            <div className="intensity-bar">
+              <div
+                className="intensity-fill"
                 style={{ width: `${externalState.intensity * 100}%` }}
               />
             </div>
-            <span className={styles.intensityValue}>
+            <span className="intensity-value">
               {(externalState.intensity * 100).toFixed(0)}%
             </span>
           </div>
-
-          <div className={styles.timestamp}>
+          <div className="state-timestamp">
             {new Date(externalState.timestamp).toLocaleString('es-AR')}
           </div>
         </div>
       )}
 
-      {stateError && (
-        <div style={{ color: 'red', textAlign: 'center', padding: '10px' }}>
-          Error cargando estado: {stateError}
-        </div>
-      )}
-
-      <div className={styles.stage}>
-        {isLoading && (
-          <div className={styles.loading}>
-            <span className={styles.loadingDot}>●</span> cargando...
+      <div className="stage">
+        {/* FIX #1: isLoading ya no depende de stateLoading */}
+        {newsLoading && (
+          <div className="loading">
+            <span className="loading-dot">●</span> cargando...
           </div>
         )}
 
@@ -164,9 +136,9 @@ export default function App() {
         <Hud stats={stats} />
       </div>
 
-      <Legend 
-        activeCat={activeCat} 
-        onToggle={handleToggleCat} 
+      <Legend
+        activeCat={activeCat}
+        onToggle={handleToggleCat}
       />
     </div>
   );
