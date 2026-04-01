@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import App from './components/App.jsx'
+import App from './src/App.jsx'
 import './components/index.css' // Ruta corregida según tu estructura de archivos
 
 // Configuración del cliente de caché para las noticias
