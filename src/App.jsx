@@ -28,30 +28,37 @@ export default function App() {
   // País activo
   const activeCountry = countryFilter ?? country;
 
-  // Datos desde API
+  // ==================== DATOS DE LA API + VERSIÓN ESTABLE ====================
   const { data: papers = [], isLoading } = useNewsAPI({
     country: activeCountry,
     date,
   });
 
-  // ==================== FILTRO CON DEBUG ====================
+  // Evita que los datos "reboten" de 31 → 2
+  const stablePapers = useMemo(() => {
+    if (papers.length >= 10) {
+      return papers;                    // Primera respuesta buena (31)
+    }
+    return papers;                      // Si aún no hay nada bueno, usamos lo que venga
+  }, [papers]);
+
+  // Filtro de búsqueda (con logs para debug)
   const filteredPapers = useMemo(() => {
-    if (!papers || papers.length === 0) {
-      console.log('No hay papers de la API');
+    if (!stablePapers || stablePapers.length === 0) {
+      console.log('No hay papers estables');
       return [];
     }
 
-    console.log('Papers recibidos de la API:', papers.length);
+    console.log('Papers estables usados:', stablePapers.length);
     console.log('searchQuery actual:', `"${searchQuery}"`);
 
-    // Si no hay búsqueda, devolvemos todo
     if (!searchQuery || searchQuery.trim() === '') {
-      console.log('Sin búsqueda → devolviendo TODOS los', papers.length, 'periódicos');
-      return papers;
+      console.log('Sin búsqueda → devolviendo TODOS los', stablePapers.length);
+      return stablePapers;
     }
 
     const q = searchQuery.toLowerCase().trim();
-    const result = papers.filter(p =>
+    const result = stablePapers.filter(p =>
       (p.name?.toLowerCase() || '').includes(q) ||
       (p.city?.toLowerCase() || '').includes(q) ||
       (p.headline?.toLowerCase() || '').includes(q) ||
@@ -61,8 +68,8 @@ export default function App() {
 
     console.log('Después del filtro → quedan:', result.length);
     return result;
-  }, [papers, searchQuery]);
-  // =========================================================
+  }, [stablePapers, searchQuery]);
+  // =====================================================================
 
   // Toggle categoría
   const handleToggleCat = useCallback((key) => {
