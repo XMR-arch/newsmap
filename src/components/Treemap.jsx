@@ -1,6 +1,5 @@
 import { useRef, useEffect, useCallback, useImperativeHandle, forwardRef } from 'react'
-// CAMBIO AQUÍ: Apuntamos a la carpeta hooks donde está papers.js
-import { REGIONS } from '../hooks/papers.js' 
+import { REGIONS } from '../hooks/papers.js' // Cambia data
 import { useTreemap } from '../hooks/useTreemap.js'
 
 // Attach region data to each paper for fast lookup in the loop

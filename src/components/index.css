@@ -17,13 +17,10 @@
 
 html, body, #root {
   height: 100%;
-  width: 100%;
-  overflow: hidden;
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--font-body);
-  -webkit-font-smoothing: antialiased;
-  cursor: crosshair;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  overflow: hidden; /* Evita scrolls raros en el mapa */
 }
 
 ::-webkit-scrollbar { width: 4px; }

@@ -1,5 +1,5 @@
 import { useQuery } from '@tanstack/react-query'
-import { DEMO_PAPERS } from '../data/papers.js'
+import { DEMO_PAPERS } from '../hooks/papers.js'
 
 const API_KEY = import.meta.env.VITE_WORLD_NEWS_API_KEY
 const BASE_URL = 'https://api.worldnewsapi.com'
