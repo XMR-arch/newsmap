@@ -4,17 +4,11 @@ import Treemap from './Treemap';
 import Hud from './Hud';
 import Legend from './Legend';
 
-const { data: papers, isLoading } = useNewsAPI(); // O como se llame tu hook
-if (isLoading) return <div>Cargando Mapa...</div>;
-if (!papers) return <div>Error al cargar noticias</div>;
-return <Treemap papers={papers} ... />;
-
-// Este es el componente principal que Vite no está encontrando
 function App() {
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div style={{ minHeight: '100vh', backgroundColor: 'black', color: 'white' }}>
       <TopBar />
-      <main className="relative h-[calc(100-64px)] w-full">
+      <main style={{ position: 'relative', height: 'calc(100vh - 64px)', width: '100%' }}>
         <Treemap />
         <Hud />
       </main>
