@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo, useEffect } from 'react';
+import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
 
 import { useNewsAPI } from './hooks/useNewsAPI.js';
 import { useGeolocation } from './hooks/useGeolocation.js';
@@ -43,7 +43,6 @@ export default function App() {
       .then((data) => {
         setExternalState(data);
         setStateLoading(false);
-        console.log('Estado externo cargado:', data);
       })
       .catch((err) => {
         console.error('Error cargando state.json:', err);
@@ -51,17 +50,32 @@ export default function App() {
         setStateLoading(false);
       });
   }, []);
-  // =========================================================
 
-  // Datos de noticias (versión estable)
+  // Datos de noticias
   const { data: papers = [], isLoading: newsLoading } = useNewsAPI({
     country: activeCountry,
     date,
   });
 
+  // ==================== STABLE PAPERS (protección fuerte) ====================
+  const firstGoodResponse = useRef(null);
+
   const stablePapers = useMemo(() => {
-    return papers.length >= 10 ? papers : papers;
+    // Si ya guardamos una buena respuesta (≥10 artículos), la mantenemos siempre
+    if (firstGoodResponse.current) {
+      return firstGoodResponse.current;
+    }
+
+    // Si llega una respuesta buena por primera vez, la guardamos
+    if (papers.length >= 10) {
+      firstGoodResponse.current = papers;
+      return papers;
+    }
+
+    // Si aún no tenemos una buena respuesta, usamos lo que venga
+    return papers;
   }, [papers]);
+  // =====================================================================
 
   // Filtro de búsqueda
   const filteredPapers = useMemo(() => {
@@ -86,7 +100,7 @@ export default function App() {
     setActiveCat(prev => prev === key ? null : key);
   }, []);
 
-  // Actualizar HUD desde Treemap
+  // Actualizar HUD
   const handleHudUpdate = useCallback((blocks, layouts, ms) => {
     if (updateHud) updateHud({ blocks, layouts, ms });
   }, [updateHud]);
@@ -104,7 +118,7 @@ export default function App() {
         onSearch={setSearchQuery}
       />
 
-      {/* Banner Swim Mistress — State 02 */}
+      {/* Banner Swim Mistress */}
       {externalState && (
         <div className={styles.stateBanner}>
           <h2 className={styles.headline}>{externalState.headline}</h2>
