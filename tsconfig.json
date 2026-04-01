@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "rewriteRelativeImportExtensions": true,
+    "skipLibCheck": true,
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.bin/tsconfig.app.tsbuildinfo",
     "target": "ESNext",
