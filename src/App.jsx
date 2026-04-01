@@ -10,9 +10,7 @@ import Treemap from './components/Treemap.jsx';
 import TopBar from './components/TopBar.jsx';
 import Legend from './components/Legend.jsx';
 
-// FIX #5: App.module.css reemplazado por index.css en components/
-// Los estilos de App viven en src/components/index.css (ya existe en el árbol)
-import './components/index.css';
+import styles from './App.module.css';
 
 export default function App() {
   const [activeCat, setActiveCat]       = useState(null);
@@ -87,7 +85,7 @@ export default function App() {
   }, [updateHud]);
 
   return (
-    <div className="app">
+    <div className={styles.app}>
       <TopBar
         onLocate={detect}
         locating={locating}
@@ -99,31 +97,30 @@ export default function App() {
 
       {/* Banner estado externo — solo aparece si state.json existe y cargó bien */}
       {externalState && (
-        <div className="state-banner">
-          <h2 className="state-headline">{externalState.headline}</h2>
-          <div className="intensity-container">
-            <span className="intensity-label">Intensity</span>
-            <div className="intensity-bar">
+        <div className={styles.stateBanner}>
+          <h2 className={styles.headline}>{externalState.headline}</h2>
+          <div className={styles.intensityContainer}>
+            <span className={styles.intensityLabel}>Intensity</span>
+            <div className={styles.intensityBar}>
               <div
-                className="intensity-fill"
+                className={styles.intensityFill}
                 style={{ width: `${externalState.intensity * 100}%` }}
               />
             </div>
-            <span className="intensity-value">
+            <span className={styles.intensityValue}>
               {(externalState.intensity * 100).toFixed(0)}%
             </span>
           </div>
-          <div className="state-timestamp">
+          <div className={styles.timestamp}>
             {new Date(externalState.timestamp).toLocaleString('es-AR')}
           </div>
         </div>
       )}
 
-      <div className="stage">
-        {/* FIX #1: isLoading ya no depende de stateLoading */}
+      <div className={styles.stage}>
         {newsLoading && (
-          <div className="loading">
-            <span className="loading-dot">●</span> cargando...
+          <div className={styles.loading}>
+            <span className={styles.loadingDot}>●</span> cargando...
           </div>
         )}
 
