@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo } from 'react';
+import { useState, useCallback, useMemo, useEffect } from 'react';
 
 import { useNewsAPI } from './hooks/useNewsAPI.js';
 import { useGeolocation } from './hooks/useGeolocation.js';
@@ -18,6 +18,11 @@ export default function App() {
   const [countryFilter, setCountryFilter] = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
 
+  // Estado externo desde state.json
+  const [externalState, setExternalState] = useState(null);
+  const [stateLoading, setStateLoading] = useState(true);
+  const [stateError, setStateError] = useState(null);
+
   // HUD
   const { stats, update: updateHud } = useHud();
 
@@ -28,60 +33,65 @@ export default function App() {
   // País activo
   const activeCountry = countryFilter ?? country;
 
-  // ==================== DATOS DE LA API + VERSIÓN ESTABLE ====================
-  const { data: papers = [], isLoading } = useNewsAPI({
+  // ==================== CARGAR STATE.JSON ====================
+  useEffect(() => {
+    fetch('/state.json')
+      .then((res) => {
+        if (!res.ok) throw new Error('Error al cargar state.json');
+        return res.json();
+      })
+      .then((data) => {
+        setExternalState(data);
+        setStateLoading(false);
+        console.log('Estado externo cargado:', data);
+      })
+      .catch((err) => {
+        console.error('Error cargando state.json:', err);
+        setStateError(err.message);
+        setStateLoading(false);
+      });
+  }, []);
+  // =========================================================
+
+  // Datos de noticias (estable)
+  const { data: papers = [], isLoading: newsLoading } = useNewsAPI({
     country: activeCountry,
     date,
   });
 
-  // Evita que los datos "reboten" de 31 → 2
   const stablePapers = useMemo(() => {
-    if (papers.length >= 10) {
-      return papers;                    // Primera respuesta buena (31)
-    }
-    return papers;                      // Si aún no hay nada bueno, usamos lo que venga
+    return papers.length >= 10 ? papers : papers;
   }, [papers]);
 
-  // Filtro de búsqueda (con logs para debug)
+  // Filtro de búsqueda
   const filteredPapers = useMemo(() => {
-    if (!stablePapers || stablePapers.length === 0) {
-      console.log('No hay papers estables');
-      return [];
-    }
-
-    console.log('Papers estables usados:', stablePapers.length);
-    console.log('searchQuery actual:', `"${searchQuery}"`);
+    if (!stablePapers || stablePapers.length === 0) return [];
 
     if (!searchQuery || searchQuery.trim() === '') {
-      console.log('Sin búsqueda → devolviendo TODOS los', stablePapers.length);
       return stablePapers;
     }
 
     const q = searchQuery.toLowerCase().trim();
-    const result = stablePapers.filter(p =>
+    return stablePapers.filter(p =>
       (p.name?.toLowerCase() || '').includes(q) ||
       (p.city?.toLowerCase() || '').includes(q) ||
       (p.headline?.toLowerCase() || '').includes(q) ||
       (p.country?.toLowerCase() || '').includes(q) ||
       (p.cat?.toLowerCase() || '').includes(q)
     );
-
-    console.log('Después del filtro → quedan:', result.length);
-    return result;
   }, [stablePapers, searchQuery]);
-  // =====================================================================
 
   // Toggle categoría
   const handleToggleCat = useCallback((key) => {
     setActiveCat(prev => prev === key ? null : key);
   }, []);
 
-  // Actualizar HUD desde Treemap
+  // Actualizar HUD
   const handleHudUpdate = useCallback((blocks, layouts, ms) => {
-    if (updateHud) {
-      updateHud({ blocks, layouts, ms });
-    }
+    if (updateHud) updateHud({ blocks, layouts, ms });
   }, [updateHud]);
+
+  const isLoading = newsLoading || stateLoading;
 
   return (
     <div className={styles.app}>
@@ -94,10 +104,35 @@ export default function App() {
         onSearch={setSearchQuery}
       />
 
+      {/* Mostrar información del state.json */}
+      {externalState && (
+        <div className={styles.stateInfo} style={{
+          padding: '12px 20px',
+          background: '#1a1a1a',
+          color: '#fff',
+          textAlign: 'center',
+          fontSize: '1.1rem',
+          borderBottom: '1px solid #333'
+        }}>
+          <strong>{externalState.headline}</strong> 
+          {' — '}
+          Intensity: <strong>{(externalState.intensity * 100).toFixed(0)}%</strong>
+          <small style={{ marginLeft: '12px', opacity: 0.7 }}>
+            {new Date(externalState.timestamp).toLocaleString()}
+          </small>
+        </div>
+      )}
+
+      {stateError && (
+        <div style={{ color: 'red', textAlign: 'center', padding: '10px' }}>
+          Error cargando estado: {stateError}
+        </div>
+      )}
+
       <div className={styles.stage}>
         {isLoading && (
           <div className={styles.loading}>
-            <span className={styles.loadingDot}>●</span> cargando portadas...
+            <span className={styles.loadingDot}>●</span> cargando...
           </div>
         )}
 
