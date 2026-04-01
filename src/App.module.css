@@ -1,6 +1,108 @@
 /* src/App.module.css */
+
+/* ====================== ESTILOS BASE ====================== */
+.app {
+  min-height: 100vh;
+  background: #0a0a0a;
+  color: #fff;
+  font-family: 'DM Sans', system-ui, sans-serif;
+}
+
+.stage {
+  position: relative;
+  padding: 20px;
+  min-height: 70vh;
+}
+
+/* Loading */
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1.1rem;
+  color: #888;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  z-index: 10;
+}
+
+.loadingDot {
+  animation: pulse 1.5s infinite;
+  color: #ff00aa;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}
+
+/* ====================== BANNER SWIM MISTRESS ====================== */
+.stateBanner {
+  background: linear-gradient(135deg, #1a0033, #330066);
+  color: white;
+  padding: 20px 24px;
+  text-align: center;
+  border-bottom: 4px solid #ff00aa;
+  box-shadow: 0 4px 15px rgba(255, 0, 170, 0.15);
+}
+
+.headline {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin: 0 0 14px 0;
+  letter-spacing: -0.02em;
+  color: #ffccff;
+}
+
+.intensityContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  margin: 12px 0;
+}
+
+.intensityLabel {
+  font-size: 1rem;
+  font-weight: 500;
+  opacity: 0.9;
+  min-width: 70px;
+}
+
+.intensityBar {
+  height: 10px;
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 9999px;
+  width: 260px;
+  overflow: hidden;
+}
+
+.intensityFill {
+  height: 100%;
+  background: linear-gradient(to right, #ff00aa, #ff66dd);
+  transition: width 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.intensityValue {
+  font-size: 1.45rem;
+  font-weight: 700;
+  color: #ffccff;
+  min-width: 65px;
+}
+
+.timestamp {
+  font-size: 0.92rem;
+  opacity: 0.75;
+  margin-top: 8px;
+}
+
+/* ====================== OTROS ESTILOS (puedes agregar más aquí) ====================== */
 .container {
   max-width: 1200px;
   margin: 0 auto;
   padding: 20px;
 }
+
+/* Si necesitas estilos para TopBar, Legend, etc., agrégalos aquí */

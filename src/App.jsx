@@ -53,7 +53,7 @@ export default function App() {
   }, []);
   // =========================================================
 
-  // Datos de noticias (estable)
+  // Datos de noticias (versión estable)
   const { data: papers = [], isLoading: newsLoading } = useNewsAPI({
     country: activeCountry,
     date,
@@ -86,7 +86,7 @@ export default function App() {
     setActiveCat(prev => prev === key ? null : key);
   }, []);
 
-  // Actualizar HUD
+  // Actualizar HUD desde Treemap
   const handleHudUpdate = useCallback((blocks, layouts, ms) => {
     if (updateHud) updateHud({ blocks, layouts, ms });
   }, [updateHud]);
@@ -104,22 +104,27 @@ export default function App() {
         onSearch={setSearchQuery}
       />
 
-      {/* Mostrar información del state.json */}
+      {/* Banner Swim Mistress — State 02 */}
       {externalState && (
-        <div className={styles.stateInfo} style={{
-          padding: '12px 20px',
-          background: '#1a1a1a',
-          color: '#fff',
-          textAlign: 'center',
-          fontSize: '1.1rem',
-          borderBottom: '1px solid #333'
-        }}>
-          <strong>{externalState.headline}</strong> 
-          {' — '}
-          Intensity: <strong>{(externalState.intensity * 100).toFixed(0)}%</strong>
-          <small style={{ marginLeft: '12px', opacity: 0.7 }}>
-            {new Date(externalState.timestamp).toLocaleString()}
-          </small>
+        <div className={styles.stateBanner}>
+          <h2 className={styles.headline}>{externalState.headline}</h2>
+          
+          <div className={styles.intensityContainer}>
+            <span className={styles.intensityLabel}>Intensity</span>
+            <div className={styles.intensityBar}>
+              <div 
+                className={styles.intensityFill}
+                style={{ width: `${externalState.intensity * 100}%` }}
+              />
+            </div>
+            <span className={styles.intensityValue}>
+              {(externalState.intensity * 100).toFixed(0)}%
+            </span>
+          </div>
+
+          <div className={styles.timestamp}>
+            {new Date(externalState.timestamp).toLocaleString('es-AR')}
+          </div>
         </div>
       )}
 
