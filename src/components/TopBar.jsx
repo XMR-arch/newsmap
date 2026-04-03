@@ -9,7 +9,7 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
   useEffect(() => {
     const fetchPulse = () => {
       // Usamos path relativo './' para asegurar que encuentre el archivo en public/
-      fetch('./state.json?v=' + Date.now())
+      fetch(`${window.location.origin}/state.json?v=${Date.now()}`)
         .then(res => {
           if (!res.ok) throw new Error("Archivo no encontrado");
           return res.json();
