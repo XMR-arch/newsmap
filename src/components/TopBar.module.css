@@ -121,3 +121,39 @@
   .locLabel { display: none; }
   .datePicker { display: none; }
 }
+
+/* Contenedor para manejar la barra absoluta */
+.barContainer {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+.bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background: rgba(0, 0, 0, 0.8); /* Fondo semi-transparente para ver el mapa */
+  backdrop-filter: blur(10px);
+}
+
+/* Estilo de la barra de intensidad */
+.swimBar {
+  height: 2px;
+  width: 100%;
+  transform-origin: left;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+/* Opcional: Hacer que el título palpite levemente con el color de la barra */
+.title {
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  font-weight: 300;
+  transition: color 1s ease;
+}
