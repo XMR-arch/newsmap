@@ -1,159 +1,56 @@
-.bar {
-  height: 48px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 0 16px;
-  background: var(--surface);
-  border-bottom: 0.5px solid var(--border);
-  flex-shrink: 0;
-  z-index: 10;
-}
-
-.brand {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  flex-shrink: 0;
-}
-
-.logo {
-  width: 26px;
-  height: 26px;
-  border-radius: 4px;
-  border: 1px solid var(--accent);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-display);
-  font-size: 14px;
-  color: var(--accent);
-  line-height: 1;
-}
-
-.title {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  letter-spacing: 0.14em;
-  color: var(--muted);
-}
-
-.searchForm {
-  flex: 1;
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  background: rgba(255,255,255,0.04);
-  border: 0.5px solid var(--border);
-  border-radius: var(--radius);
-  padding: 0 10px;
-  max-width: 340px;
-}
-
-.searchInput {
-  flex: 1;
-  height: 32px;
-  font-size: 12px;
-  color: var(--text);
-  background: none;
-  border: none;
-  outline: none;
-  font-family: var(--font-body);
-}
-
-.searchInput::placeholder { color: var(--muted); }
-
-.searchBtn {
-  color: var(--muted);
-  font-size: 14px;
-  padding: 0 2px;
-  cursor: pointer;
-  transition: color 0.2s;
-}
-.searchBtn:hover { color: var(--accent); }
-
-.controls {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-left: auto;
-}
-
-.datePicker {
-  height: 32px;
-  padding: 0 8px;
-  font-size: 11px;
-  font-family: var(--font-mono);
-  color: var(--muted);
-  background: rgba(255,255,255,0.04);
-  border: 0.5px solid var(--border);
-  border-radius: var(--radius);
-  cursor: pointer;
-}
-
-.datePicker:focus { outline: none; border-color: var(--accent); }
-
-.locateBtn {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  height: 32px;
-  padding: 0 12px;
-  font-size: 12px;
-  font-family: var(--font-mono);
-  color: var(--accent);
-  background: var(--accent-dim);
-  border: 0.5px solid rgba(200,169,110,0.3);
-  border-radius: var(--radius);
-  cursor: pointer;
-  transition: background 0.2s;
-  white-space: nowrap;
-}
-
-.locateBtn:hover { background: rgba(200,169,110,0.22); }
-.locateBtn:disabled { opacity: 0.5; cursor: not-allowed; }
-
-.locLabel { font-size: 11px; }
-
-@media (max-width: 600px) {
-  .title { display: none; }
-  .searchForm { max-width: unset; }
-  .locLabel { display: none; }
-  .datePicker { display: none; }
-}
-
-/* Contenedor para manejar la barra absoluta */
 .barContainer {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 100;
+  z-index: 9999;
 }
 
 .bar {
+  height: 48px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0.5rem 1rem;
-  background: rgba(0, 0, 0, 0.8); /* Fondo semi-transparente para ver el mapa */
+  gap: 12px;
+  padding: 0 16px;
+  background: rgba(0, 0, 0, 0.85);
   backdrop-filter: blur(10px);
+  
+  /* ESTADO INICIAL: El borde inferior es el que tendrá el "glow" */
+  border-bottom: 2px solid transparent; 
+  transition: border-color 1s ease, box-shadow 1s ease;
+  
+  flex-shrink: 0;
 }
 
-/* Estilo de la barra de intensidad */
-.swimBar {
-  height: 2px;
-  width: 100%;
-  transform-origin: left;
-  position: absolute;
-  bottom: 0;
-  left: 0;
+/* ── ELEMENTOS INTERNOS (Sin cambios) ────────────────────────────────── */
+
+.brand { display: flex; align-items: center; gap: 8px; }
+.logo { 
+  width: 26px; height: 26px; border-radius: 4px; 
+  border: 1px solid var(--accent); display: flex; 
+  align-items: center; justify-content: center; 
+  font-family: var(--font-display); font-size: 14px; color: var(--accent); 
+}
+.title { 
+  font-family: var(--font-mono); font-size: 11px; 
+  letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; 
 }
 
-/* Opcional: Hacer que el título palpite levemente con el color de la barra */
-.title {
-  font-size: 0.7rem;
-  letter-spacing: 0.2em;
-  font-weight: 300;
-  transition: color 1s ease;
+.searchForm { 
+  flex: 1; display: flex; align-items: center; gap: 6px; 
+  background: rgba(255,255,255,0.04); border: 0.5px solid var(--border); 
+  border-radius: var(--radius); padding: 0 10px; max-width: 340px; 
+}
+.searchInput { 
+  flex: 1; height: 32px; font-size: 12px; color: var(--text); 
+  background: none; border: none; outline: none; 
+}
+.controls { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+
+/* ── RESPONSIVE ──────────────────────────────────────────────────────── */
+
+@media (max-width: 600px) {
+  .title, .locLabel, .datePicker { display: none; }
+  .searchForm { max-width: unset; }
 }

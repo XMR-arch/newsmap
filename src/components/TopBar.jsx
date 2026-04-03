@@ -5,7 +5,7 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
   const [search, setSearch] = useState('')
   const [pulse, setPulse] = useState(null)
 
-  // ── Sincronización con el "Ritual Digital" ──────────────────────────────
+  // ── Sincronización con el "Ritual Digital" (state.json) ────────────────
   useEffect(() => {
     const fetchPulse = () => {
       fetch('/state.json?v=' + Date.now())
@@ -15,7 +15,7 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
     };
 
     fetchPulse();
-    const interval = setInterval(fetchPulse, 60000); // Actualiza cada minuto
+    const interval = setInterval(fetchPulse, 60000); 
     return () => clearInterval(interval);
   }, []);
 
@@ -24,9 +24,17 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
     onSearch(search)
   }
 
+  // ── Un solo return con la lógica de estilo integrada ───────────────────
   return (
-    <div className={styles.barContainer}> {/* Contenedor padre necesario para la barra absoluta */}
-      <div className={styles.bar}>
+    <div className={styles.barContainer}>
+      <div 
+        className={styles.bar}
+        style={pulse ? { 
+          borderBottom: `2px solid ${pulse.ui_theme.bar_color}`,
+          boxShadow: `0 4px 20px ${pulse.ui_theme.bar_glow}`,
+          backgroundColor: `rgba(0, 0, 0, 0.9)` 
+        } : {}}
+      >
         <div className={styles.brand}>
           <span className={styles.logo}>N</span>
           <span className={styles.title}>
@@ -67,19 +75,6 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
           </button>
         </div>
       </div>
-
-      {/* ── LA BARRA SWIM MISTRESS (El Pulso Metabólico) ───────────────────── */}
-      {pulse && (
-        <div 
-          className={styles.swimBar}
-          style={{ 
-            backgroundColor: pulse.ui_theme.bar_color,
-            boxShadow: `0 0 15px ${pulse.ui_theme.bar_glow}`,
-            transform: `scaleX(${pulse.intensity})`,
-            transition: `transform ${pulse.ui_theme.transition_speed} ease-in-out, background-color 1s ease`
-          }} 
-        />
-      )}
     </div>
   )
 }
