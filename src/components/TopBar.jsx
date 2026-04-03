@@ -8,8 +8,12 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
   // ── Sincronización con el "Ritual Digital" (state.json) ────────────────
   useEffect(() => {
     const fetchPulse = () => {
-      fetch('/state.json?v=' + Date.now())
-        .then(res => res.json())
+      // Usamos path relativo './' para asegurar que encuentre el archivo en public/
+      fetch('./state.json?v=' + Date.now())
+        .then(res => {
+          if (!res.ok) throw new Error("Archivo no encontrado");
+          return res.json();
+        })
         .then(data => setPulse(data))
         .catch(err => console.error("Error en el pulso:", err));
     };
@@ -24,16 +28,19 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
     onSearch(search)
   }
 
-  // ── Un solo return con la lógica de estilo integrada ───────────────────
   return (
     <div className={styles.barContainer}>
       <div 
         className={styles.bar}
         style={pulse ? { 
-          borderBottom: `2px solid ${pulse.ui_theme.bar_color}`,
+          // Si hay datos, aplicamos el color del ritual (Verde/Cian/Naranja)
+          borderBottom: `3px solid ${pulse.ui_theme.bar_color}`,
           boxShadow: `0 4px 20px ${pulse.ui_theme.bar_glow}`,
-          backgroundColor: `rgba(0, 0, 0, 0.9)` 
-        } : {}}
+          backgroundColor: `rgba(0, 0, 0, 0.95)` 
+        } : {
+          // Si NO hay datos (pulse === null), mostramos el fucsia de error
+          borderBottom: `2px solid #ff00ff`
+        }}
       >
         <div className={styles.brand}>
           <span className={styles.logo}>N</span>
@@ -71,7 +78,7 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
             title="Usar mi ubicación"
           >
             {locating ? '⟳' : '◎'}
-            <span className={styles.locLabel}>{locationLabel ?? 'Detectar'}</span>
+            <span className={styles.locLabel}>{locationLabel ?? 'Posicionar'}</span>
           </button>
         </div>
       </div>

@@ -1,27 +1,21 @@
-// scripts/generate-state.js
-// Genera public/state.json con estado publicable + layout precalculado
-// Uso: node scripts/generate-state.js
-// GitHub Actions: cada 5 min via cron
-
 const fs = require("fs");
 const path = require("path");
 
-// ── Frases de estado ───────────────────────────────────────────────────────
+// ── 1. Configuración de Estados y Estética ──────────────────────────────
 
 const STATES = [
-  "Surface tension rising",
-  "Fragments drifting",
-  "Density increasing",
-  "Calm field",
-  "Turbulence detected",
-  "Signal noise ratio high",
-  "Attention fragmented",
-  "Convergence point",
-  "Pressure building",
-  "Still waters",
+  "Surface tension rising", "Fragments drifting", "Density increasing",
+  "Calm field", "Turbulence detected", "Signal noise ratio high",
+  "Attention fragmented", "Convergence point", "Pressure building", "Still waters",
 ];
 
-// ── Papers base (mirrors papers.js — fuente de verdad para el script) ──────
+const PALETTE = {
+  calm: { bar: "#00f2ff", glow: "rgba(0, 242, 255, 0.5)", speed: "2s" },   // Cian
+  medium: { bar: "#2a9d8f", glow: "rgba(42, 157, 143, 0.4)", speed: "1s" }, // Verde
+  high: { bar: "#e76f51", glow: "rgba(231, 111, 81, 0.6)", speed: "0.4s" }  // Naranja
+};
+
+// ── 2. Datos Base (Papers) ──────────────────────────────────────────────
 
 const PAPERS = [
   { id: "nyt",   cat: "namerica", name: "New York Times",    weight: 24 },
@@ -38,7 +32,7 @@ const PAPERS = [
   { id: "nat",   cat: "africa",   name: "Daily Nation",      weight: 9  },
 ];
 
-// ── Squarified treemap (mismo algoritmo que useTreemap.js) ─────────────────
+// ── 3. Algoritmo Squarified Treemap ─────────────────────────────────────
 
 function calcWorst(row, shorter, rowArea) {
   if (!rowArea || !shorter) return Infinity;
@@ -58,12 +52,10 @@ function buildLayout(papers, W, H) {
   const sorted = [...blocks].sort((a, b) => b._w - a._w);
   const totalW = sorted.reduce((s, b) => s + b._w, 0);
   if (!totalW) return [];
-
   let w = W, h = H;
   const rows = [];
   let rem = [...sorted];
   let aLeft = totalW;
-
   while (rem.length > 0) {
     const sh = Math.min(w, h);
     let row = [rem[0]];
@@ -82,12 +74,10 @@ function buildLayout(papers, W, H) {
     aLeft -= rw2;
     rem = rem.slice(row.length);
   }
-
   const res = [];
   let x = 0, y = 0;
   w = W; h = H;
   let wLeft = totalW;
-
   for (const row of rows) {
     const rw2 = row.items.reduce((s, b) => s + b._w, 0);
     const frac = rw2 / wLeft;
@@ -117,39 +107,47 @@ function buildLayout(papers, W, H) {
   return res;
 }
 
-// ── Generar estado ─────────────────────────────────────────────────────────
+// ── 4. Función Principal de Generación ──────────────────────────────────
 
 function generateState() {
   const now = new Date();
   const phrase = STATES[Math.floor(Math.random() * STATES.length)];
+  const intensity = parseFloat(Math.random().toFixed(2));
 
-  // Pesos con variación aleatoria ±20% para animar el treemap entre estados
+  // Lógica estética
+  let visualStyle;
+  if (intensity < 0.3) visualStyle = PALETTE.calm;
+  else if (intensity < 0.7) visualStyle = PALETTE.medium;
+  else visualStyle = PALETTE.high;
+
+  // Variación aleatoria de pesos para el mapa
   const papersWithVariation = PAPERS.map(p => ({
     ...p,
     weight: Math.max(3, Math.round(p.weight * (0.8 + Math.random() * 0.4))),
   }));
 
-  // Pesos por región (suma normalizada de weights)
   const regionWeights = {};
   for (const p of papersWithVariation) {
     regionWeights[p.cat] = (regionWeights[p.cat] || 0) + p.weight;
   }
-  const maxRegion = Math.max(...Object.values(regionWeights));
-  for (const k in regionWeights) {
-    regionWeights[k] = parseFloat((regionWeights[k] / maxRegion).toFixed(2));
-  }
 
   const state = {
-    timestamp:      now.toISOString(),
-    headline:       `Swim Mistress — ${phrase}`,
-    intensity:      parseFloat(Math.random().toFixed(2)),
+    timestamp: now.toISOString(),
+    headline: `Swim Mistress — ${phrase}`,
+    intensity: intensity,
+    ui_theme: {
+      bar_color: visualStyle.bar,
+      bar_glow: visualStyle.glow,
+      transition_speed: visualStyle.speed
+    },
     region_weights: regionWeights,
-    layout:         buildLayout(papersWithVariation, 1280, 720),
+    layout: buildLayout(papersWithVariation, 1280, 720),
   };
 
-  const outPath = path.join(__dirname, "..", "public", "state.json");
+  const outPath = path.join(process.cwd(), "public", "state.json");
   fs.writeFileSync(outPath, JSON.stringify(state, null, 2));
-  console.log(`[${now.toISOString()}] State updated: ${state.headline} (intensity: ${state.intensity})`);
+  
+  console.log(`[${now.toISOString()}] Update complete: ${visualStyle.bar} (Intensity: ${intensity})`);
 }
 
 generateState();

@@ -18,7 +18,7 @@
   
   /* ESTADO INICIAL: El borde inferior es el que tendrá el "glow" */
   border-bottom: 2px solid transparent; 
-  transition: border-color 1s ease, box-shadow 1s ease;
+  transition: all 0.8s ease;
   
   flex-shrink: 0;
 }
