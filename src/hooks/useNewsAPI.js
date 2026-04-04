@@ -14,20 +14,36 @@ import { DEMO_PAPERS } from '../data/papers.js';
  */
 
 /**
- * Obtiene portadas de periódicos.
- * TODO: reemplazar con llamada real a backend cuando esté disponible.
+ * Obtiene titulares frescos de /headlines.json (generado por GitHub Actions via RSS)
+ * y los mergea sobre DEMO_PAPERS. Si el fetch falla, usa los titulares de demo.
  *
  * @param {string|null} country - Código ISO del país
  * @param {string|null} date    - Fecha YYYY-MM-DD (reservado para API real)
  * @returns {Promise<Newspaper[]>}
  */
 async function fetchFrontPages(country, date) {
-  return new Promise(resolve => {
-    setTimeout(() => {
-      const filtered = DEMO_PAPERS.filter(p => !country || p.country === country)
-      resolve(filtered)
-    }, 500)
-  })
+  let headlineMap = {};
+
+  try {
+    const res = await fetch(`/headlines.json?v=${Date.now()}`);
+    if (res.ok) {
+      const data = await res.json();
+      headlineMap = data.headlines ?? {};
+    }
+  } catch {
+    // headlines.json no disponible — se usan titulares de demo silenciosamente
+  }
+
+  const merged = DEMO_PAPERS.map(paper => ({
+    ...paper,
+    headline: headlineMap[paper.id] ?? paper.headline,
+  }));
+
+  const filtered = country
+    ? merged.filter(p => p.country === country)
+    : merged;
+
+  return filtered;
 }
 
 /**
@@ -39,9 +55,9 @@ async function fetchFrontPages(country, date) {
  */
 export function useNewsAPI({ country = null, date = null } = {}) {
   return useQuery({
-    queryKey:       ['front-pages', country, date],
-    queryFn:        () => fetchFrontPages(country, date),
+    queryKey:        ['front-pages', country, date],
+    queryFn:         () => fetchFrontPages(country, date),
     placeholderData: DEMO_PAPERS,
     staleTime:       1000 * 60 * 5, // 5 minutos
-  })
+  });
 }
