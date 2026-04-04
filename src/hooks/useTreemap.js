@@ -135,7 +135,7 @@ export function useTreemap({ containerRef, papers, activeCat }) {
 
       const el = document.createElement('div')
       el.className = 'tm-block'
-      el.style.cssText = 'position:absolute;left:0;top:0;overflow:hidden;padding:6px 8px;border:0.5px solid rgba(255,255,255,0.07);will-change:transform;contain:layout style paint;'
+      el.style.cssText = 'position:absolute;left:0;top:0;overflow:hidden;padding:6px 8px;border:0.5px solid rgba(255,255,255,0.07);will-change:transform;contain:layout style paint;transition:box-shadow 0.3s ease;'
       el.innerHTML = `
         <div class="bk-region"   style="font-size:7px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;opacity:.35;white-space:nowrap;overflow:hidden;font-family:var(--font-mono)"></div>
         <div class="bk-name"     style="font-size:10px;font-weight:700;line-height:1.2;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-family:var(--font-display)"></div>
@@ -221,8 +221,19 @@ export function useTreemap({ containerRef, papers, activeCat }) {
         if (b._hover !== hov) {
           // lerpRgb uses pre-parsed arrays — no parseInt on this frame
           b.el.style.background   = intense > 0 ? lerpRgb(b.bgRgb, b.bgHoverRgb, intense) : b.paper._cat.bg
-          b.el.style.borderColor  = intense > 0 ? b.paper._cat.border + '55' : 'rgba(255,255,255,0.07)'
+          b.el.style.borderColor  = intense > 0 ? b.paper._cat.border : 'rgba(255,255,255,0.07)'
           b.el.style.zIndex       = intense > 0 ? String(10 + Math.round(intense * 10)) : '0'
+          // Neón glow — escala con intensidad del cursor
+          if (intense > 0) {
+            const glowSize  = Math.round(8  + intense * 24) // 8–32px
+            const glowSize2 = Math.round(16 + intense * 40) // 16–56px
+            const alpha1    = (0.5  + intense * 0.5).toFixed(2)
+            const alpha2    = (0.15 + intense * 0.2).toFixed(2)
+            const col = b.paper._cat.border
+            b.el.style.boxShadow = `0 0 ${glowSize}px ${col}${Math.round(alpha1*255).toString(16).padStart(2,'0')}, 0 0 ${glowSize2}px ${col}${Math.round(alpha2*255).toString(16).padStart(2,'0')}, inset 0 0 8px ${col}22`
+          } else {
+            b.el.style.boxShadow = 'none'
+          }
           b._hover = hov
         }
 
@@ -247,9 +258,11 @@ export function useTreemap({ containerRef, papers, activeCat }) {
           name.style.display      = tier >= 1 ? '' : 'none'
           name.style.fontSize     = tier >= 4 ? Math.min(15, 10 + area / 9000) + 'px' : '10px'
           name.style.color        = cat.fg
+          name.style.textShadow   = tier >= 2 ? `0 0 8px ${cat.accent}99` : 'none'
           readers.style.display   = tier >= 2 ? '' : 'none'
           readers.style.fontSize  = tier >= 4 ? Math.min(20, 12 + area / 6000) + 'px' : '12px'
           readers.style.color     = cat.accent
+          readers.style.textShadow = tier >= 2 ? `0 0 12px ${cat.accent}cc, 0 0 24px ${cat.accent}66` : 'none'
           headline.style.display  = tier >= 4 ? '' : 'none'
           headline.style.maxHeight = tier >= 4 ? Math.max(0, rh - 56) + 'px' : '0'
           city.style.display      = tier >= 3 ? '' : 'none'

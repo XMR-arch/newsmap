@@ -1,3 +1,10 @@
+/* ── Variable neón central — se sobreescribe vía inline style desde state.json ── */
+:root {
+  --neon: #39ff14;
+  --neon-glow: rgba(57, 255, 20, 0.5);
+  --neon-dim: rgba(57, 255, 20, 0.15);
+}
+
 .barContainer {
   position: fixed;
   top: 0;
@@ -13,44 +20,183 @@
   align-items: center;
   gap: 12px;
   padding: 0 16px;
-  background: rgba(0, 0, 0, 0.85);
-  backdrop-filter: blur(10px);
-  
-  /* ESTADO INICIAL: El borde inferior es el que tendrá el "glow" */
-  border-bottom: 2px solid transparent; 
+  background: rgba(0, 0, 0, 0.92);
+  backdrop-filter: blur(12px);
+
+  border-bottom: 2px solid var(--neon);
+  box-shadow:
+    0 0 8px var(--neon-glow),
+    0 4px 24px var(--neon-glow),
+    inset 0 -1px 0 var(--neon-dim);
+
   transition: all 0.8s ease;
-  
   flex-shrink: 0;
 }
 
-/* ── ELEMENTOS INTERNOS (Sin cambios) ────────────────────────────────── */
+/* ── BRAND ───────────────────────────────────────────────────────────── */
 
 .brand { display: flex; align-items: center; gap: 8px; }
-.logo { 
-  width: 26px; height: 26px; border-radius: 4px; 
-  border: 1px solid var(--accent); display: flex; 
-  align-items: center; justify-content: center; 
-  font-family: var(--font-display); font-size: 14px; color: var(--accent); 
-}
-.title { 
-  font-family: var(--font-mono); font-size: 11px; 
-  letter-spacing: 0.14em; color: var(--muted); text-transform: uppercase; 
+
+.logo {
+  width: 26px; height: 26px; border-radius: 4px;
+  border: 1px solid var(--neon);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display); font-size: 14px;
+  color: var(--neon);
+  box-shadow:
+    0 0 6px var(--neon-glow),
+    inset 0 0 6px var(--neon-dim);
+  text-shadow: 0 0 8px var(--neon);
+  transition: box-shadow 0.4s ease;
 }
 
-.searchForm { 
-  flex: 1; display: flex; align-items: center; gap: 6px; 
-  background: rgba(255,255,255,0.04); border: 0.5px solid var(--border); 
-  border-radius: var(--radius); padding: 0 10px; max-width: 340px; 
+.logo:hover {
+  box-shadow:
+    0 0 14px var(--neon-glow),
+    inset 0 0 10px var(--neon-dim);
 }
-.searchInput { 
-  flex: 1; height: 32px; font-size: 12px; color: var(--text); 
-  background: none; border: none; outline: none; 
+
+.title {
+  font-family: var(--font-mono); font-size: 11px;
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--neon);
+  text-shadow:
+    0 0 6px var(--neon),
+    0 0 12px var(--neon-glow);
+  opacity: 0.9;
 }
+
+/* ── SEARCH ──────────────────────────────────────────────────────────── */
+
+.searchForm {
+  flex: 1; display: flex; align-items: center; gap: 6px;
+  background: var(--neon-dim);
+  border: 0.5px solid var(--neon);
+  border-radius: var(--radius);
+  padding: 0 10px; max-width: 340px;
+  box-shadow: 0 0 8px var(--neon-glow), inset 0 0 4px var(--neon-dim);
+  transition: box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.searchForm:focus-within {
+  box-shadow: 0 0 16px var(--neon-glow), inset 0 0 8px var(--neon-dim);
+  border-color: var(--neon);
+}
+
+.searchInput {
+  flex: 1; height: 32px; font-size: 12px;
+  color: var(--neon);
+  background: none; border: none; outline: none;
+  caret-color: var(--neon);
+}
+
+.searchInput::placeholder {
+  color: rgba(57, 255, 20, 0.4);
+}
+
+.searchBtn {
+  background: none;
+  border: none;
+  color: var(--neon);
+  font-size: 16px;
+  cursor: pointer;
+  padding: 2px 4px;
+  text-shadow: 0 0 8px var(--neon);
+  transition: text-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.searchBtn:hover {
+  text-shadow: 0 0 16px var(--neon), 0 0 30px var(--neon-glow);
+  transform: translateX(2px);
+}
+
+/* ── CONTROLS ────────────────────────────────────────────────────────── */
+
 .controls { display: flex; align-items: center; gap: 8px; margin-left: auto; }
+
+.datePicker {
+  background: var(--neon-dim);
+  border: 0.5px solid var(--neon);
+  border-radius: var(--radius);
+  color: var(--neon);
+  font-size: 12px;
+  padding: 4px 8px;
+  outline: none;
+  box-shadow: 0 0 6px var(--neon-glow);
+  cursor: pointer;
+  transition: box-shadow 0.3s ease;
+}
+
+.datePicker:focus {
+  box-shadow: 0 0 14px var(--neon-glow);
+}
+
+.datePicker::-webkit-calendar-picker-indicator {
+  filter: invert(1) sepia(1) saturate(5) hue-rotate(60deg);
+  cursor: pointer;
+}
+
+.locateBtn {
+  display: flex; align-items: center; gap: 5px;
+  background: var(--neon-dim);
+  border: 0.5px solid var(--neon);
+  border-radius: var(--radius);
+  color: var(--neon);
+  font-size: 13px;
+  padding: 4px 10px;
+  cursor: pointer;
+  box-shadow: 0 0 6px var(--neon-glow);
+  text-shadow: 0 0 6px var(--neon);
+  transition: box-shadow 0.3s ease, background 0.3s ease;
+}
+
+.locateBtn:hover:not(:disabled) {
+  background: rgba(57, 255, 20, 0.22);
+  box-shadow: 0 0 16px var(--neon-glow), 0 0 32px var(--neon-dim);
+}
+
+.locateBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.locLabel {
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
 
 /* ── RESPONSIVE ──────────────────────────────────────────────────────── */
 
 @media (max-width: 600px) {
-  .title, .locLabel, .datePicker { display: none; }
-  .searchForm { max-width: unset; }
+  .bar {
+    height: auto;
+    flex-wrap: wrap;
+    padding: 8px 12px;
+    gap: 8px;
+  }
+
+  .brand {
+    flex: 0 0 auto;
+  }
+
+  .title {
+    font-size: 9px;
+    letter-spacing: 0.1em;
+  }
+
+  .searchForm {
+    order: 3;
+    flex: 1 1 100%;
+    max-width: unset;
+  }
+
+  .controls {
+    flex: 0 0 auto;
+    margin-left: 0;
+    gap: 6px;
+  }
+
+  .datePicker { display: none; }
+  .locLabel { display: none; }
 }

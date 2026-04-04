@@ -13,6 +13,14 @@
   --font-mono: 'DM Mono', monospace;
   --radius: 4px;
   --hud-color: rgba(200,169,110,0.5);
+
+  /* Neón */
+  --neon-green:       #39ff14;
+  --neon-green-glow:  rgba(57, 255, 20, 0.5);
+  --neon-gold:        #c8a96e;
+  --neon-gold-glow:   rgba(200, 169, 110, 0.45);
+  --neon-cyan:        #00ffe7;
+  --neon-cyan-glow:   rgba(0, 255, 231, 0.35);
 }
 
 html, body, #root {
@@ -25,7 +33,11 @@ html, body, #root {
 
 ::-webkit-scrollbar { width: 4px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.15); border-radius: 2px; }
+::-webkit-scrollbar-thumb {
+  background: rgba(57, 255, 20, 0.3);
+  border-radius: 2px;
+  box-shadow: 0 0 6px rgba(57, 255, 20, 0.5);
+}
 
 button {
   background: none;

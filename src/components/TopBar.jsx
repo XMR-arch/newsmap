@@ -29,7 +29,7 @@ export default function TopBar({ onLocate, locating, locationLabel, onDateChange
   }
 
   return (
-    <div className={styles.barContainer}>
+    <div className={styles.barContainer} id="top-bar">
       <div 
         className={styles.bar}
         style={pulse ? { 

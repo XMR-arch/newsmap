@@ -106,3 +106,10 @@
 }
 
 /* Si necesitas estilos para TopBar, Legend, etc., agrégalos aquí */
+.app {
+  min-height: 100vh;
+  background: #0a0a0a;
+  color: #fff;
+  font-family: 'DM Sans', system-ui, sans-serif;
+  padding-top: 48px; /* ← agregar esto */
+}

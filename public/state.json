@@ -3,8 +3,8 @@
   "headline": "Swim Mistress — Surface tension rising",
   "intensity": 0.61,
   "ui_theme": {
-    "bar_color": "#2a9d8f",
-    "bar_glow": "rgba(42, 157, 143, 0.4)",
+    "bar_color": "#39ff14",
+    "bar_glow": "rgba(57, 255, 20, 0.5)",
     "transition_speed": "1s"
   },
   "region_weights": {
