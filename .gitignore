@@ -6,3 +6,5 @@ dist-ssr/
 .vite/
 .envdist/
 _backup/
+dist/
+_backup/
