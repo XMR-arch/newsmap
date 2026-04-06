@@ -4,7 +4,7 @@ import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 // import { ReactQueryDevtools } from '@tanstack/react-query-devtools'; // Descomenta solo en desarrollo
 
 import App from './App.jsx';
-import './components/index.css';
+import './index.css';
 
 // ==================== CONFIGURACIÓN RECOMENDADA ====================
 const queryClient = new QueryClient({
