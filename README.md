@@ -73,7 +73,8 @@ newsmap/
 │   ├── data/
 │   │   └── papers.js          ← datos de demo + definición de regiones
 │   ├── App.jsx
-│   └── main.jsx
+│   ├── main.jsx
+│   └── App.module.css
 ├── .env.example
 ├── vercel.json
 └── vite.config.js
