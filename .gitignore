@@ -4,7 +4,5 @@ dist-ssr/
 *.tsbuildinfo
 .DS_Store
 .vite/
-.envdist/
-_backup/
-dist/
+.env
 _backup/
