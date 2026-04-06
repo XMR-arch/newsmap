@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-04-06T19:34:54.329Z",
+  "fetched": 23,
+  "failed": [
+    "wapo",
+    "terc",
+    "com",
+    "chos",
+    "mav",
+    "taus",
+    "haar",
+    "arab"
+  ],
+  "headlines": {
+    "nyt": "The Latest Blows to Iran’s Leadership",
+    "lat": "Spencer Pratt&#x27;s move to Santa Barbara County after his Palisades house burned raises eligibility questions in L.A. mayor&#x27;s race",
+    "glob": "Artemis II astronauts break distance record from Earth set by Apollo 13 in 1970",
+    "clar": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, lunes 06 de abril",
+    "lnac": "Dólar hoy y dólar blue hoy, precio en vivo: a cuánto cotizan este lunes 6 de abril",
+    "folh": "Globo divulga primeira foto de Leticia Colin como protagonista de &apos;Quem Ama Cuida&apos;",
+    "tiemp": "Preocupación por mujer desaparecida en Barranquilla: salió de su casa en Alameda del Río y presuntamente fue vista desorientada y desnuda en Soledad",
+    "univ": "Diputada propone hasta 8 años de cárcel a quien genere deepfakes pornográficos; busca frenar violencia sexual generada con IA",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient : le peuple iranien « devrait » se soulever, estime Donald Trump à la veille de l’expiration de son ultimatum contre l’Iran",
+    "spieg": "Donald Trump Has Run Out of Options in Iran",
+    "guar": "People of Burkina Faso should forget about democracy, says military ruler",
+    "elpais": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que los iraníes “quieren” que EE UU bombardee el país: “Están dispuestos a sufrir”",
+    "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
+    "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
+    "asahi": "女性の遺体を長野の山に遺棄した疑い、宮崎の男を逮捕　母が所在不明",
+    "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
+    "hindu": "TNSTC bus digital route display hacked, shows TVK as one of the destinations",
+    "str": "Trump says reopening Hormuz must be in Iran ceasefire deal",
+    "nat": "Wetang&apos;ula&apos;s Damascus moment as MPs defy Ruto order to grant firm tax waivers, diplomatic immunities",
+    "lmaf": "Au Maroc, la situation kafkaïenne de Maati Monjib, historien interdit de voyager à l’étranger depuis 2020",
+    "smh": "Australian sport’s top earners: Counting down from 50 to 26",
+    "nzh": "Boil water notice for Auckland suburbs until 'further notice'",
+    "alj": "Rescuers search for survivors after strikes hit homes in Iran"
+  }
+}
