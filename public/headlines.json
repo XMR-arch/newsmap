@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-07T23:21:40.019Z",
+  "timestamp": "2026-04-07T23:57:27.271Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,15 +12,15 @@
     "arab"
   ],
   "headlines": {
-    "nyt": "To Boost Military Budget, Trump Targets Popular Programs at Home",
+    "nyt": "With Threat to Wipe Out Iran’s Civilization, Trump’s Rhetoric Goes Beyond Bluster",
     "lat": "&#x27;Gladiator fight&#x27; cases against L.A. juvenile hall staffers are falling apart",
     "glob": "In Vancouver’s Stanley Park, clearing dead trees ignites a fiery debate",
-    "clar": "Qué dice el mensaje de Donald Trump que confirmó el alto al fuego con Irán",
-    "lnac": "Independiente Petrolero vs. Racing, en vivo: el minuto a minuto del partido por la Copa Sudamericana",
-    "folh": "Leticia Colin e Antonio Fagundes aparecem juntos como protagonistas de &apos;Quem Ama Cuida&apos;",
-    "tiemp": "Llega el VIII Torneo de Ajedrez del Caribe a la Rueda Rueda 2026: la competencia gratuita más grande del país espera reunir a 7.000 ajedrecistas",
-    "univ": "Transportistas suspenden bloqueos tras \"represión\" y advierten nuevas acciones; \"ya no queremos seguir enterrando a los nuestros\"",
-    "lemon": "EN DIRECT, guerre en Iran : Trump reporte son ultimatum de deux semaines, se disant « proche d’un accord définitif » avec Téhéran",
+    "clar": "Uno por uno, los ultimátums de Trump a Irán y las postergaciones: del inicio de la guerra al anuncio de la tregua",
+    "lnac": "Los detalles del acuerdo de 10 puntos entre Estados Unidos e Irán para alcanzar la paz",
+    "folh": "C�mara aprova projeto que amplia fiscaliza��o sobre combust�veis",
+    "tiemp": "Tribunal abre incidente de desacato al Invias por caso del antiguo Puente Pumarejo: investigan presunto incumplimiento de medida cautelar",
+    "univ": "Dan hasta 24 años de prisión a tres integrantes de \"La Barredora\"; son señalados por narcotráfico y delincuencia organizada",
+    "lemon": "EN DIRECT, guerre en Iran : Trump reporte son ultimatum de deux semaines, Téhéran annonce rouvrir le détroit d’Ormuz sous la surveillance de l’armée iranienne",
     "spieg": "Donald Trump Has Run Out of Options in Iran",
     "guar": "US seeks to deport Kilmar Ábrego García to Liberia despite new Costa Rica deal",
     "elpais": "Trump suspende el ultimátum a Irán y declara un alto el fuego de dos semanas",
@@ -28,12 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "新たに1人死亡確認、死者3人に　不明者の捜索再開　川崎・足場崩落",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Iran-Israel war LIVE: Trump agrees to suspend attack on Iran by two weeks",
+    "hindu": "Iran-Israel war LIVE: Passage through Strait of Hormuz allowed next two weeks under Iranian military management, says Araghchi",
     "str": "US soldier's wife freed from ICE detention as deportation attempt continues",
-    "nat": "‘Broad-based deal’ to blame for ODM woes",
+    "nat": "Property manager jailed 3 years over Sh6.1m rent theft",
     "lmaf": "Ahmed Gadalla, le financier de l’ombre du clan Haftar en Libye",
-    "smh": "Trump backs down from Iran threats at eleventh hour, agrees to ceasefire",
+    "smh": "Ben Roberts-Smith to remain behind bars over multiple alleged war crimes",
     "nzh": "'Damaging, potentially life-threatening' Cyclone Vaianu increasingly likely to hit NZ",
-    "alj": "Billionaire investor Ackman makes $64bn bid for Universal Music Group"
+    "alj": "Trump agrees to pause attacks on Iran if Strait of Hormuz opens"
   }
 }
