@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-04-07T23:57:19.035Z",
-  "headline": "Swim Mistress — Fragments drifting",
-  "intensity": 0.58,
+  "timestamp": "2026-04-08T02:34:33.832Z",
+  "headline": "Swim Mistress — Surface tension rising",
+  "intensity": 0.26,
   "ui_theme": {
-    "bar_color": "#2a9d8f",
-    "bar_glow": "rgba(42, 157, 143, 0.4)",
-    "transition_speed": "1s"
+    "bar_color": "#00f2ff",
+    "bar_glow": "rgba(0, 242, 255, 0.5)",
+    "transition_speed": "2s"
   },
   "region_weights": {
-    "namerica": 48,
-    "europe": 56,
+    "namerica": 44,
+    "europe": 61,
     "latam": 37,
     "asia": 40,
     "mideast": 18,
-    "oceania": 14,
-    "africa": 8
+    "oceania": 17,
+    "africa": 10
   },
   "layout": [
     {
       "id": "nyt",
       "cat": "namerica",
       "name": "New York Times",
-      "weight": 28,
+      "weight": 26,
       "x": 0,
       "y": 0,
-      "w": 290,
-      "h": 403
+      "w": 271,
+      "h": 390
     },
     {
-      "id": "guar",
+      "id": "lemon",
       "cat": "europe",
-      "name": "The Guardian",
+      "name": "Le Monde",
       "weight": 22,
       "x": 0,
-      "y": 403,
-      "w": 290,
-      "h": 317
+      "y": 390,
+      "w": 271,
+      "h": 330
+    },
+    {
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 22,
+      "x": 271,
+      "y": 0,
+      "w": 248,
+      "h": 360
     },
     {
       "id": "peop",
       "cat": "asia",
       "name": "People's Daily",
       "weight": 22,
-      "x": 290,
+      "x": 271,
+      "y": 360,
+      "w": 248,
+      "h": 360
+    },
+    {
+      "id": "guar",
+      "cat": "europe",
+      "name": "The Guardian",
+      "weight": 21,
+      "x": 519,
       "y": 0,
-      "w": 243,
-      "h": 377
+      "w": 321,
+      "h": 265
     },
     {
       "id": "wapo",
       "cat": "namerica",
       "name": "Washington Post",
-      "weight": 20,
-      "x": 290,
-      "y": 377,
-      "w": 243,
-      "h": 343
+      "weight": 18,
+      "x": 519,
+      "y": 265,
+      "w": 321,
+      "h": 227
     },
     {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 19,
-      "x": 533,
-      "y": 0,
-      "w": 319,
-      "h": 249
-    },
-    {
-      "id": "lemon",
+      "id": "spieg",
       "cat": "europe",
-      "name": "Le Monde",
+      "name": "Der Spiegel",
       "weight": 18,
-      "x": 533,
-      "y": 249,
-      "w": 319,
-      "h": 236
-    },
-    {
-      "id": "folh",
-      "cat": "latam",
-      "name": "Folha de S.Paulo",
-      "weight": 18,
-      "x": 533,
-      "y": 484,
-      "w": 319,
-      "h": 236
+      "x": 519,
+      "y": 493,
+      "w": 321,
+      "h": 227
     },
     {
       "id": "asahi",
       "cat": "asia",
       "name": "Asahi Shimbun",
       "weight": 18,
-      "x": 851,
+      "x": 840,
       "y": 0,
-      "w": 214,
-      "h": 350
+      "w": 220,
+      "h": 332
     },
     {
       "id": "alj",
       "cat": "mideast",
       "name": "Al Jazeera",
       "weight": 18,
-      "x": 1066,
+      "x": 1060,
       "y": 0,
-      "w": 214,
-      "h": 350
-    },
-    {
-      "id": "spieg",
-      "cat": "europe",
-      "name": "Der Spiegel",
-      "weight": 16,
-      "x": 851,
-      "y": 350,
-      "w": 338,
-      "h": 197
+      "w": 220,
+      "h": 332
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
-      "weight": 14,
-      "x": 851,
-      "y": 547,
-      "w": 338,
-      "h": 173
+      "weight": 17,
+      "x": 840,
+      "y": 332,
+      "w": 335,
+      "h": 206
+    },
+    {
+      "id": "folh",
+      "cat": "latam",
+      "name": "Folha de S.Paulo",
+      "weight": 15,
+      "x": 840,
+      "y": 538,
+      "w": 335,
+      "h": 182
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 8,
-      "x": 1190,
-      "y": 350,
-      "w": 90,
-      "h": 370
+      "weight": 10,
+      "x": 1175,
+      "y": 332,
+      "w": 105,
+      "h": 388
     }
   ]
 }
