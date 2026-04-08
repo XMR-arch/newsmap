@@ -1,56 +1,67 @@
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 :root {
-  --bg: #0c0c0c;
-  --surface: #141414;
-  --border: rgba(255,255,255,0.07);
-  --text: #e8e4dc;
-  --muted: rgba(232,228,220,0.4);
-  --accent: #c8a96e;
-  --accent-dim: rgba(200,169,110,0.15);
-  --font-display: 'Playfair Display', Georgia, serif;
-  --font-body: 'DM Sans', system-ui, sans-serif;
-  --font-mono: 'DM Mono', monospace;
+  --background: #0a190c;
+  --surface: #112211;
+  --primary: #00ff9d;
+  --text: #e0e0e0;
+  --muted: #aaaaaa;
+  --border: rgba(0, 255, 157, 0.3);
   --radius: 4px;
-  --hud-color: rgba(200,169,110,0.5);
-
-  /* Neón */
-  --neon-green:       #39ff14;
-  --neon-green-glow:  rgba(57, 255, 20, 0.5);
-  --neon-gold:        #c8a96e;
-  --neon-gold-glow:   rgba(200, 169, 110, 0.45);
-  --neon-cyan:        #00ffe7;
-  --neon-cyan-glow:   rgba(0, 255, 231, 0.35);
 }
 
-html, body, #root {
-  height: 100%;
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: black;
-  overflow: hidden; /* Evita scrolls raros en el mapa */
 }
 
-::-webkit-scrollbar { width: 4px; }
-::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb {
-  background: rgba(57, 255, 20, 0.3);
-  border-radius: 2px;
-  box-shadow: 0 0 6px rgba(57, 255, 20, 0.5);
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background-color: var(--surface);
+  border-bottom: 1px solid var(--border);
 }
 
-button {
-  background: none;
-  border: none;
-  cursor: pointer;
-  color: inherit;
-  font-family: inherit;
+.status-bar {
+  height: 4px;
+  background: linear-gradient(90deg, transparent, var(--primary), transparent);
+  animation: loading 2s infinite;
 }
 
-input {
-  font-family: inherit;
-  background: none;
-  border: none;
-  outline: none;
-  color: inherit;
+.status-cards {
+  display: flex;
+  gap: 16px;
+  padding: 16px;
+}
+
+.status-card {
+  background-color: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px;
+  min-width: 120px;
+  text-align: center;
+}
+
+.activity-log {
+  padding: 16px;
+}
+
+.activity-item {
+  display: flex;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.activity-item:last-child {
+  border-bottom: none;
+}
+
+@keyframes loading {
+  0% { background-position: -100% 0; }
+  100% { background-position: 100% 0; }
 }
