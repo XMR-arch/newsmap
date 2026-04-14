@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-04-14T20:04:49.435Z",
-  "fetched": 21,
+  "timestamp": "2026-04-14T21:05:09.294Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
-    "str",
     "nat",
     "mav",
     "taus",
@@ -15,13 +14,13 @@
   ],
   "headlines": {
     "nyt": "A Divided America Processes a War With Iran",
-    "lat": "Ex-UCLA doctor admits to sexually abusing 5 patients after previous conviction overturned",
-    "glob": "P.E.I. Finance Minister tables budget with record $410-million deficit",
-    "clar": "\"Hay mucha preocupación\": alerta máxima en un sector por el brote de una enfermedad mortal exótica",
-    "lnac": "Atlético de Madrid vs. Barcelona, en vivo: el minuto a minuto del desquite de los cuartos de la Champions League",
-    "folh": "1926: In�cio das obras para amplia��o do porto de Santos � autorizado",
-    "tiemp": "&#039;Estoy avergonzado&#039;: &#039;influencer&#039; ofreció disculpas por video en el que mostró maniobras de stunt con moto de un agente de Movilidad Cali",
-    "univ": "Morenistas denuncian a Alessandra Rojo de la Vega ante el INE; acusa promoción personalizada y uso indebido de recursos",
+    "lat": "Commentary: Chaos is the leader in California&#x27;s hot mess of a governor&#x27;s race",
+    "glob": "Vancouver mayor Ken Sim moves to launch bid for MLB expansion team",
+    "clar": "Israel y el Líbano acuerdan volver a reunirse tras su primera ronda de diálogo en Washington",
+    "lnac": "Javier Milei y sus medidas, en vivo: se conoce la inflación de marzo y Adorni se prepara para asistir al Congreso",
+    "folh": "Setor de cart�es defende abordagem ampla para reduzir endividamento das fam�lias",
+    "tiemp": "Barranquilla | ¿Extorsión o conflictos por tierras? Las hipótesis detrás del asesinato de padrastro e hijastro en Las Estrellas; madre resultó herida",
+    "univ": "MC en San Lázaro propone cinco días de descanso personal al año; trabajadores podrían utilizarlos para asistir al Mundial, sugiere",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : Israël et le Liban d’accord pour entamer des négociations directes après des « discussions productives »",
     "spieg": "Trump's Blockade: The Lights Are Going Out in Cuba",
     "guar": "Survivors ask why busy market bombed in Nigerian anti-terror campaign",
@@ -30,10 +29,11 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "銃所持許可取り消し訴訟　最高裁で勝訴のハンターの猟銃、地検が廃棄",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Reservation ruse: On women’s quota and delimitation",
+    "hindu": "Two students dead after taking drugs at concertin Mumbai, say police",
+    "str": "Lebanon, Israel agree to direct negotiations after ‘historic’ Washington talks",
     "lmaf": "Restitution des biens culturels pillés en Afrique : que font les autres pays européens ?",
-    "smh": "ASX to rally; Wall Street edges near all-time high; oil eases",
-    "nzh": "Far North Mayor Moko Tepania says council 'unfairly targeted'",
-    "alj": "FIFA faces pressure to call on Trump to stop ICE raids at 2026 World Cup"
+    "smh": "Thaiday tips luckless gun for Origin",
+    "nzh": "MSD document says there's 'no evidence' hundreds of New Zealanders are without shelter",
+    "alj": "Israeli attack kills several people in Gaza refugee camp"
   }
 }
