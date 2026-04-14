@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-14T03:40:45.367Z",
+  "timestamp": "2026-04-14T05:50:04.450Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "arab"
   ],
   "headlines": {
-    "nyt": "Amid War, G.O.P. Puts Off Testimony From Senior Pentagon Commanders",
-    "lat": "Swalwell supporters scramble after he drops out of governor&#x27;s race. Who will benefit?",
-    "glob": "B.C. Premier backs down on confidence vote over Indigenous rights law",
-    "clar": "Clima hoy en Chivilcoy, Buenos Aires: el pronóstico del tiempo para este martes 14 abril de 2026",
-    "lnac": "6 parques nacionales para disfrutar especialmente en otoño",
-    "folh": "BBB 26: Leandro Boneco e Gabriela trocam farpas ap�s �ltimo Sincer�o da temporada",
+    "nyt": "U.S. Is Negotiating an Iran Deal That Would Buy Time, Again",
+    "lat": "Attorneys used AI to write court filings, cited fake legal decisions, State Bar alleges",
+    "glob": "Seven Toronto police officers facing charges in Project South probe suspended without pay",
+    "clar": "Daniella De Luca, la voz detrás de una de las series más vistas de MTV",
+    "lnac": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, martes 14 de abril",
+    "folh": "BBB 26: Jordana e Gabriela discutem no quarto do l�der",
     "tiemp": "Los millonarios pagos detrás de los métodos de fraude descubiertos en los exámenes de admisión para especializaciones en la Universidad de Antioquia",
-    "univ": "Canciller Velasco revisa con Emiratos Árabes relación comercial e inversiones; destaca cooperación con Panamá",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : « La balle est dans le camp » des Iraniens, déclare le vice-président américain, J. D. Vance",
+    "univ": "Estudiantes de FES Cuautitlán llaman a paro de 48 horas; exigen seguridad, atención a corrupción y mejora de instalaciones",
+    "lemon": "Attaques contre le pape, photomontage en Christ : Donald Trump ouvre une crise avec les catholiques américains et choque sa base",
     "spieg": "Donald Trump Has Run Out of Options in Iran",
     "guar": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
-    "elpais": "El juez Peinado propone juzgar a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",
+    "elpais": "El Gobierno ayudará a los inmigrantes a certificar que carecen de antecedentes penales para que la regularización sea masiva",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "薬師寺の国宝「仏足石」に液体の跡　文化財保護法違反容疑で捜査",
+    "asahi": "盗撮画像共有、神奈川の元教員に懲役2年の実刑判決　名古屋地裁",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Over 5,000 properties acquired in Hyderabad for road widening over the past two decades",
-    "str": "Dozens detained in New York City protest over US arms sales to Israel",
+    "hindu": "Nitish holds his last Cabinet meeting, as Bihar gears up for a new CM | LIVE updates",
+    "str": "Greenpeace warns of potential ‘catastrophic’ collapse at defunct Chernobyl nuclear power station",
     "nat": "We can’t afford repeat poll violence",
     "lmaf": "Au Bénin, le candidat de la majorité Romuald Wadagni élu président avec plus de 94 % des voix",
-    "smh": "‘Hayley was deeply loved’: Man charged over death of pregnant partner",
-    "nzh": "Timetable tested as Auckland's City Rail Link moves closer",
-    "alj": "US military kills two men in new strike on vessel in eastern Pacific"
+    "smh": "‘Quite bizarre’: WA premier lashes ‘opportunistic’ Qantas after Busselton to Sydney flights scrapped",
+    "nzh": "FENZ at scene of Muriwai landslide",
+    "alj": "Asia’s stock markets surge, oil falls on hopes for US-Iran talks"
   }
 }
