@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-15T09:46:54.240Z",
+  "timestamp": "2026-04-15T10:48:17.804Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "arab"
   ],
   "headlines": {
-    "nyt": "Trump’s Blockade Risks Upending an Emerging Détente With China",
-    "lat": "A chunk of dirty ice crashed through the roof of a Whittier home. FAA is asked to investigate",
-    "glob": "Mexican construction worker in Ontario fights deportation order",
-    "clar": "Oda a los trenes del mundo",
+    "nyt": "Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion",
+    "lat": "Iran war helped freeze L.A.&#x27;s housing market. Some hope ceasefire will bring more sales",
+    "glob": "Morning Update: The world’s largest census is finally under way",
+    "clar": "Otra denuncia contra Agostina Páez, pero esta vez en Argentina: su ex novio la demandó por robarle el auto",
     "lnac": "Tormenta en el AMBA: calles inundadas y complicaciones para transitar",
-    "folh": "Fl�vio rifa aliada em disputa ao TCU ap�s ter defendido uma mulher para o cargo, e Michelle lamenta",
-    "tiemp": "¡Ojo, conductor! Pico y placa en Bucaramanga para el miércoles 15 de abril de 2026 de 2026",
-    "univ": "Nuevo derrame afecta a Veracruz",
+    "folh": "Navio chin�s d� meia-volta ap�s sair de Hormuz; Ir� diz ter furado bloqueio",
+    "tiemp": "Temblor hoy en Colombia | Reportan sismo en la madrugada de este 15 de abril; epicentro, magnitud y profundidad",
+    "univ": "Falsa, información que la vincula a negocios de Juan José Reyes Domínguez",
     "lemon": "Aux Etats-Unis, l’impopularité d’Israël provoque un vif débat sur la poursuite de l’aide militaire",
     "spieg": "Trump's Blockade: The Lights Are Going Out in Cuba",
     "guar": "Justice denied: why families of apartheid victims are still searching for answers",
     "elpais": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que la guerra con Irán está “cerca de terminar” y vuelve a cargar contra la OTAN",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "同級生「一緒に6年になれればよかった」　京都・南丹の男児遺棄事件",
+    "asahi": "郵便受けに現金1千万円入り紙袋…回収してだまし取った疑い、男逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "PM Narendra Modi recalls Adichunchanagiri seer’s role in peacock conservation",
-    "str": "Pope Leo, attacked again by Trump, flies to Cameroon on Africa tour",
-    "nat": "Ichung’wah: Gen Z protests forced government to &apos;do things differently&apos;",
+    "hindu": "Debar Edappadi K. Palaniswami from election campaign, insists plea at Madras High Court",
+    "str": "Tanzania investigates death of American social media influencer",
+    "nat": "Gamblers who sued betting firms over unpaid winnings",
     "lmaf": "Après trois ans de guerre au Soudan, des donateurs internationaux se réunissent en Allemagne",
-    "smh": "Rat poison, dog poo and bleach within children’s reach at day care",
-    "nzh": "Scottish island where Kiwi monk Justin Evans went missing not entirely isolated - local councillor",
-    "alj": "North Korea boosting ability to manufacture nuclear arms, IAEA chief warns"
+    "smh": "Family share relief after elderly grandmother survives freezing night in the bush",
+    "nzh": "Marine farmers using AI to find out what's happening under water",
+    "alj": "Italy suspends long-standing defence agreement with Israel"
   }
 }
