@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-04-16T05:52:02.419Z",
-  "fetched": 23,
+  "timestamp": "2026-04-16T07:14:37.706Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar",
@@ -15,9 +16,9 @@
     "nyt": "Trump’s Portrayal of the War in Iran Collides With Reality",
     "lat": "Former Trump lawyer John Eastman disbarred for trying to overturn 2020 election",
     "glob": "Canadian lab explains puzzling link between semaglutide, better liver health",
-    "clar": "Nayib Bukele promulgó la ley que permite aplicar cadena perpetua a menores desde los 12 años",
-    "lnac": "River: Eduardo Coudet reconoció la deuda de juego antes del superclásico y tiene un nuevo lesionado",
-    "folh": "BBB 26: Milena recebe mensagem de Alfonso Herrera, do RBD, nas redes sociais",
+    "clar": "Masacre de pingüinos: el máximo tribunal de Justicia de Chubut define una condena que puede tener alto impacto internacional",
+    "lnac": "¿Tenés humedad en casa y no sabés por qué? Las claves para identificarla",
+    "folh": "STF quer impor regras mais r�gidas sobre quebras de sigilo e provas em CPIs ap�s embate com relator",
     "tiemp": "Alerta por una granada en una casa ubicada en el sur de Cali: el explosivo fue detonado de manera controlada en zona del Valle del Lili",
     "univ": "Fiscalía de Tamaulipas dio contratos a empresa sancionada por EU; destina 1 millón 200 mil pesos a módulos LED y pantalla",
     "lemon": "Grasset : après le limogeage d’Olivier Nora, la prestigieuse maison d’édition confrontée à l’hémorragie de ses auteurs",
@@ -26,14 +27,13 @@
     "elpais": "Lula: “Trump no tiene derecho a levantarse por la mañana y amenazar a un país”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "中東の海峡封鎖、銭湯や地場産業にも試練　 原油高で社会の転換も？",
+    "asahi": "少女を誘拐した容疑で男逮捕、トー横で誘ったか　「パパ活、教えた」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "CM Stalin burns copy of Delimitation Bill in Namakkal",
-    "str": "Trump says Israel, Lebanon leaders to hold talks on April 16",
-    "nat": "City Hall must get rid of Nairobi parking cartels",
+    "hindu": "Delimitation cannot be an excuse for domination: Siddaramaiah",
+    "str": "US pilots under probe for meowing and barking over air traffic control radio",
     "lmaf": "« Il faut briser les chaînes de la corruption » : à son arrivée à Yaoundé, Léon XIV tance les élites camerounaises",
-    "smh": "He’s tall and runs, but that is about 10 per cent of the Blicavs story",
-    "nzh": "Police memo on bargaining campaign attempt to 'intimidate members' - union",
-    "alj": "The pope has shown the world how to stand up to Trump"
+    "smh": "Ask Gus: Is Gus Using the ‘Moneyball’ Playbook for the Bulldogs? Six Tackles with Gus",
+    "nzh": "Nelson footbridge graffitied with hate speech targetting Jewish people",
+    "alj": "US military kills three in new Eastern Pacific boat strike"
   }
 }
