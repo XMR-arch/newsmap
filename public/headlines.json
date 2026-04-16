@@ -1,26 +1,31 @@
 {
-  "timestamp": "2026-04-15T23:24:39.157Z",
-  "fetched": 22,
+  "timestamp": "2026-04-16T00:04:45.934Z",
+  "fetched": 17,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "str",
     "nat",
     "mav",
+    "lmaf",
+    "smh",
     "taus",
+    "nzh",
+    "alj",
     "haar",
     "arab"
   ],
   "headlines": {
-    "nyt": "S&P 500 Hits Record High as Stock Market Looks Beyond Iran War",
-    "lat": "Police responding to reports of shooting near Sepulveda Middle School",
+    "nyt": "Trump’s Portrayal of the War in Iran Collides With Reality",
+    "lat": "Two cousins admit to a double-booking rental scam to steal $8.5 million and disrupt travel nationwide",
     "glob": "Ontario looks to incentivize high school attendance as numbers fall",
-    "clar": "Copa Argentina: Gimnasia y Tiro de Salta eliminó a Gimnasia de Mendoza por penales en una definición de locos",
-    "lnac": "Javier Milei y sus medidas, en vivo: repercusiones de la inflación de mazo y cómo continúan las denuncias contra Adorni",
-    "folh": "Alta na importa��o de m�quina agr�cola e rodovi�ria preocupa setor",
-    "tiemp": "Federico Gutiérrez reaccionó al nombramiento del exalcalde Daniel Quintero como Superintendente Nacional de Salud: &#039;Esto es de no creer&#039;",
-    "univ": "Senado avala nueva Ley Federal de Cine para regular uso de IA; turna al Ejecutivo",
+    "clar": "Cumbre en Buenos Aires sobre cómo combatir la injerencia extranjera en la información",
+    "lnac": "Detuvieron a un policía bonaerense que integraba la banda que asaltó y golpeó a un juez",
+    "folh": "Ex-escravizados afro-brasileiros inspiram Carnaval em Lago",
+    "tiemp": "Temblor en Colombia | Reportan sismo durante la tarde de este miércoles 15 de abril: epicentro, profundidad y detalles",
+    "univ": "VIDEO: Andrea Chávez pide licencia de maternidad en el Senado; la despiden con abrazos y aplausos",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : les objectifs d’Israël et des Etats-Unis sont « identiques » concernant l’Iran, affirme Benyamin Nétanyahou",
     "spieg": "Defense in Orbit: Germany Goes Big in the Military Space Race",
     "guar": "More than £1bn pledged for Sudan as humanitarian crisis deepens",
@@ -29,11 +34,6 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "陸にいた被告、事故予見できたか　知床遊覧船沈没事故、きょう求刑",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Chhattisgarh cabinet forms committee to prepare UCC draft",
-    "str": "Pakistani mediators arrive in Iran in bid to keep peace talks alive",
-    "lmaf": "« Il faut briser les chaînes de la corruption » : à son arrivée à Yaoundé, Léon XIV tance les élites camerounaises",
-    "smh": "Prince Harry and Meghan Markle in Melbourne for third day of Aussie visit",
-    "nzh": "Community urges retail crime group to focus on youth offences before dissolution",
-    "alj": "Peru’s ballot count drags on amid frustration with presidential election"
+    "hindu": "Women’s Commission sets up panel to probe alleged sexual harassment at TCS Nashik"
   }
 }
