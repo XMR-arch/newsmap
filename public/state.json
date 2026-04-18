@@ -1,31 +1,31 @@
 {
-  "timestamp": "2026-04-18T11:52:43.227Z",
-  "headline": "Swim Mistress — Surface tension rising",
-  "intensity": 0.9,
+  "timestamp": "2026-04-18T12:35:26.019Z",
+  "headline": "Swim Mistress — Calm field",
+  "intensity": 0.67,
   "ui_theme": {
-    "bar_color": "#e76f51",
-    "bar_glow": "rgba(231, 111, 81, 0.6)",
-    "transition_speed": "0.4s"
+    "bar_color": "#2a9d8f",
+    "bar_glow": "rgba(42, 157, 143, 0.4)",
+    "transition_speed": "1s"
   },
   "region_weights": {
-    "namerica": 46,
-    "europe": 53,
-    "latam": 37,
-    "asia": 40,
+    "namerica": 47,
+    "europe": 54,
+    "latam": 40,
+    "asia": 39,
     "mideast": 21,
     "oceania": 14,
-    "africa": 8
+    "africa": 9
   },
   "layout": [
     {
       "id": "nyt",
       "cat": "namerica",
       "name": "New York Times",
-      "weight": 25,
+      "weight": 27,
       "x": 0,
       "y": 0,
-      "w": 286,
-      "h": 367
+      "w": 291,
+      "h": 381
     },
     {
       "id": "clar",
@@ -33,28 +33,18 @@
       "name": "Clarín",
       "weight": 24,
       "x": 0,
-      "y": 367,
-      "w": 286,
-      "h": 353
+      "y": 381,
+      "w": 291,
+      "h": 339
     },
     {
-      "id": "wapo",
-      "cat": "namerica",
-      "name": "Washington Post",
-      "weight": 21,
-      "x": 286,
-      "y": 0,
-      "w": 245,
-      "h": 360
-    },
-    {
-      "id": "guar",
+      "id": "lemon",
       "cat": "europe",
-      "name": "The Guardian",
+      "name": "Le Monde",
       "weight": 21,
-      "x": 286,
-      "y": 360,
-      "w": 245,
+      "x": 291,
+      "y": 0,
+      "w": 240,
       "h": 360
     },
     {
@@ -62,80 +52,90 @@
       "cat": "mideast",
       "name": "Al Jazeera",
       "weight": 21,
-      "x": 532,
+      "x": 291,
+      "y": 360,
+      "w": 240,
+      "h": 360
+    },
+    {
+      "id": "wapo",
+      "cat": "namerica",
+      "name": "Washington Post",
+      "weight": 20,
+      "x": 531,
       "y": 0,
-      "w": 357,
-      "h": 248
+      "w": 343,
+      "h": 240
+    },
+    {
+      "id": "guar",
+      "cat": "europe",
+      "name": "The Guardian",
+      "weight": 20,
+      "x": 531,
+      "y": 240,
+      "w": 343,
+      "h": 240
     },
     {
       "id": "asahi",
       "cat": "asia",
       "name": "Asahi Shimbun",
       "weight": 20,
-      "x": 532,
-      "y": 248,
-      "w": 357,
-      "h": 236
+      "x": 531,
+      "y": 480,
+      "w": 343,
+      "h": 240
     },
     {
       "id": "peop",
       "cat": "asia",
       "name": "People's Daily",
-      "weight": 20,
-      "x": 532,
-      "y": 484,
-      "w": 357,
-      "h": 236
+      "weight": 19,
+      "x": 874,
+      "y": 0,
+      "w": 220,
+      "h": 355
     },
     {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 17,
-      "x": 888,
+      "id": "folh",
+      "cat": "latam",
+      "name": "Folha de S.Paulo",
+      "weight": 16,
+      "x": 1095,
       "y": 0,
-      "w": 208,
-      "h": 344
-    },
-    {
-      "id": "spieg",
-      "cat": "europe",
-      "name": "Der Spiegel",
-      "weight": 15,
-      "x": 1096,
-      "y": 0,
-      "w": 184,
-      "h": 344
+      "w": 185,
+      "h": 355
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
       "weight": 14,
-      "x": 888,
-      "y": 344,
-      "w": 302,
-      "h": 195
+      "x": 874,
+      "y": 355,
+      "w": 304,
+      "h": 189
     },
     {
-      "id": "folh",
-      "cat": "latam",
-      "name": "Folha de S.Paulo",
+      "id": "spieg",
+      "cat": "europe",
+      "name": "Der Spiegel",
       "weight": 13,
-      "x": 888,
-      "y": 539,
-      "w": 302,
-      "h": 181
+      "x": 874,
+      "y": 544,
+      "w": 304,
+      "h": 176
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 8,
-      "x": 1190,
-      "y": 344,
-      "w": 90,
-      "h": 376
+      "weight": 9,
+      "x": 1179,
+      "y": 355,
+      "w": 101,
+      "h": 365
     }
   ]
 }
