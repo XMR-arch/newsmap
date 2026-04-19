@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-19T20:20:59.548Z",
+  "timestamp": "2026-04-19T20:59:15.354Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,15 +12,15 @@
     "arab"
   ],
   "headlines": {
-    "nyt": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
+    "nyt": "Energy Secretary Says Gas Prices May Stay Above $3 Until 2027",
     "lat": "San Fernando Valley burglaries: Two more homes targeted amid LAPD patrol surge",
     "glob": "Rising waters endanger Gatineau homes as spring flood concerns grow in Quebec, Ontario",
-    "clar": "Corea del Sur y Argentina, una alianza estratégica y un potencial por desplegar",
-    "lnac": "Superclásico hoy: hora y cómo ver la transmisión en vivo del River vs. Boca del Torneo Apertura",
-    "folh": "&apos;N�o somos todos iguais&apos;, diz ex-BBB Marciele Albuquerque no Dia dos Povos Ind�genas",
-    "tiemp": "Barranquilla: tragedia sacude al barrio La Sierrita; joven de 26 años muere tras recibir descarga eléctrica de un cable desprendido",
-    "univ": "Canciller Velasco inicia gira de trabajo en Bruselas; dará seguimiento al Acuerdo Global Modernizado con la UE, detalla",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : l’Iran ne compte pas se rendre à Islamabad pour le moment, selon la télévision d’Etat, après l’annonce de Donald Trump de nouvelles négociations",
+    "clar": "Detuvieron a dos adolescentes que robaron una moto en Belgrano, escaparon por General Paz y chocaron contra un auto en Camino Negro",
+    "lnac": "River vs. Boca, en vivo: el minuto a minuto del partido por el Torneo Apertura 2026",
+    "folh": "Blue Origin aterrissa pela 1� vez foguete reutilizado New Glenn, aumentando rivalidade com SpaceX",
+    "tiemp": "Barranquilla vibró en el concierto de celebración de sus 213 años",
+    "univ": "Senadora impulsa regulación nacional para plataformas digitales de transporte; pide garantizar condiciones de seguridad y equidad",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient : le président iranien soupçonne les Etats-Unis de chercher à « trahir la diplomatie » ; Téhéran maintient le flou sur la tenue de négociations à Islamabad",
     "spieg": "Defense in Orbit: Germany Goes Big in the Military Space Race",
     "guar": "Kenyan firm sacks more than 1,000 workers after losing Meta contract",
     "elpais": "Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan",
@@ -28,11 +28,11 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "東北道にクマ、軽乗用車と衝突　大衡IC付近、運転男性はけがなし",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Police arrest 11 history-sheeters in Pulianthope ahead of elections",
-    "str": "Ukraine pushes for Europe to build defense system against ballistic weapons",
+    "hindu": "Fifty years ago | Meteors used for radio link",
+    "str": "Trump says US destroyer hit Iran cargo ship trying to evade blockade",
     "nat": "‘Give me time’: Gaucho breaks silence on Nairobi hospital board role",
     "lmaf": "La RDC conclut un accord avec le M23 pour faciliter l’aide humanitaire et libérer des prisonniers sous dix jours",
-    "smh": "One Nation support dips, poll says",
+    "smh": "City beats Arsenal in blockbuster",
     "nzh": "Live Weather: Flooding in Wellington as more downpours hit central NZ overnight",
     "alj": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade"
   }
