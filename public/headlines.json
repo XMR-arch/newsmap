@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20T18:44:07.947Z",
-  "fetched": 22,
+  "timestamp": "2026-04-20T19:47:19.815Z",
+  "fetched": 24,
   "failed": [
     "wapo",
     "terc",
@@ -8,20 +8,18 @@
     "chos",
     "mav",
     "taus",
-    "alj",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
-    "nyt": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
-    "lat": "L.A. Mayor Bass offers a hold-the-line budget, with no layoffs and few increases in services",
-    "glob": "Alberta to ditch twice-a-year clock change, Smith says",
-    "clar": "El papa en Angola: denunció que toda forma de opresión, violencia o explotación niega el cristianismo",
-    "lnac": "El paso a paso para cambiar tu usuario de Gmail",
-    "folh": "Empres�rio diz ser alvo de &apos;a��o truculenta&apos; de Moraes e nega vazamento de dados",
-    "tiemp": "Barranquilla | ‘Viene de un preso de la cárcel El Barne’: la información que tiene el Gobierno sobre el origen de la amenaza contra el alcalde Char",
-    "univ": "Sheinbaum prepara inauguración del tren Lechería-AIFA; será el próximo domingo 26 de abril, confirma",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : le second cycle de pourparlers entre Etats-Unis et Iran en suspens, Téhéran laissant planer le doute sur sa participation",
+    "nyt": "U.S. Has Turned Back 27 Ships Since Strait of Hormuz Blockade Started",
+    "lat": "Plane crashes upside down in SoCal auto store parking lot, pilot hospitalized",
+    "glob": "Doug Ford says he reversed course on private jet purchase after hearing public’s concerns",
+    "clar": "El motivo por el que cada vez más expertos recomiendan ventilar la casa incluso en otoño",
+    "lnac": "Hezbollah rechaza el desarme y exige la salida total de Israel para sostener la tregua",
+    "folh": "Gabrielzinho vence o Laureus de melhor atleta com defici�ncia do ano",
+    "tiemp": "Con fusil modificado fueron capturados dos integrantes de &#039;La Terraza&#039; en Medellín: Policía incautó elementos ligados a operación de microtráfico",
+    "univ": "Sheinbaum instruye al Gabinete de Seguridad investigar a fondo detonaciones en Teotihuacán; lamenta hecho",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient : le second cycle de pourparlers entre les Etats-Unis et l’Iran en suspens, Téhéran laissant planer le doute sur sa participation",
     "spieg": "Defense in Orbit: Germany Goes Big in the Military Space Race",
     "guar": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
     "elpais": "Luis Bárcenas apunta contra el PP de Rajoy en el juicio de Kitchen: “Esta operación empieza en el partido”",
@@ -29,11 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "津波偵察中の陸自ヘリ、無線不具合で北海道の牧場に「予防着陸」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Bhumi puja performed for 56 power facilities worth ₹97 cr",
-    "str": "US tariff refund system launches as thousands of companies file claims",
-    "nat": "Kenya&apos;s John Korir shatters Boston Marathon course record",
+    "hindu": "HC dismisses petitions seeking ED cases against former Ministers",
+    "str": "Over $90 billion needed over next decade to rebuild Gaza, study says",
+    "nat": "KIM dismisses closure notice as panic hits thousands of students",
     "lmaf": "Guerre au Moyen-Orient : le Maroc confronté au risque d’un choc inflationniste",
-    "smh": "GetUp throwing $600k at Trump-themed byelection campaign to defeat Hanson",
-    "nzh": "Wellington residents prepare for worst as red rain warning continues"
+    "smh": "FBI director sues over article portraying him as MIA, problem drinker",
+    "nzh": "Police search street, streams as man reported missing in Wellington storm",
+    "alj": "Report finds Gaza needs more than $71bn in next decade for recovery",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
