@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-20T15:52:36.619Z",
-  "fetched": 23,
+  "timestamp": "2026-04-20T16:51:52.724Z",
+  "fetched": 24,
   "failed": [
     "wapo",
     "terc",
@@ -8,32 +8,32 @@
     "chos",
     "mav",
     "taus",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
     "nyt": "The Iran War Sent Shock Waves Through Asia That Are Likely to Spread",
-    "lat": "California&#x27;s newest solar project isn&#x27;t powering homes. It&#x27;s powering your water",
-    "glob": "B2Gold cuts gold production forecast after fire at Nunavut Goose Mine",
-    "clar": "Cartas inéditas del Papa Francisco a un año de su muerte revelan secretos sobre sus vínculos con Cristina, Macri, Alberto Fernández y Milei",
-    "lnac": "Alerta de tsunami en Japón, en vivo: reportan una suba del mar y empiezan las evacuaciones",
-    "folh": "BBB 26: Leandro Boneco assiste cr�ticas de Edilson pelas costas e dispara : &apos;Lament�vel&apos;",
-    "tiemp": "Gobierno nacional ofrece $1.000 millones de recompensa por información para frenar plan criminal contra el alcalde de Barranquilla, Alejandro Char",
-    "univ": "Sheinbaum: operativo donde murieron en accidente agentes de EU fue decisión de Chihuahua; revisa si hubo violación a ley de seguridad",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : l’Iran n’a pas encore annoncé sa participation aux pourparlers avec les Etats-Unis au Pakistan",
+    "lat": "Gunfight in Santa Ana ends with 2 men dead, 1 wounded",
+    "glob": "Cosmic catcher: At 25, the iconic Canadarm2 has quietly become an all-star on the International Space Station",
+    "clar": "Cuándo es la Feria del Libro y cómo será la celebración de sus 50 años en Buenos Aires",
+    "lnac": "Guerra de Estados Unidos e Israel contra Irán, en vivo: tensión en Medio Oriente hoy, lunes 20 de abril",
+    "folh": "Zema rebate Gilmar e diz que STF ter� que &apos;prender o Brasil inteiro&apos; para evitar cr�ticas",
+    "tiemp": "El Caribe se toma la FILBo 2026: Editorial Uninorte presenta 14 novedades y rinde tributo a Cepeda Samudio",
+    "univ": "Caen dos personas en Edomex por venta de medicamentos falsificados; aseguran 110 dosis de vacunas apócrifas para VPH",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient | Soldat tué au Liban : la France n’a pas été visée spécifiquement, selon Emmanuel Macron",
     "spieg": "Defense in Orbit: Germany Goes Big in the Military Space Race",
     "guar": "Charlize Theron joins chorus of disapproval over Timothée Chalamet’s ballet comments",
     "elpais": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán se plantea retomar las negociaciones de paz con Estados Unidos tras dialogar con Pakistán",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "北海道から千葉の182市町村に後発地震注意情報　津波注意報は解除",
+    "asahi": "津波偵察中の陸自ヘリ、無線不具合で北海道の牧場に「予防着陸」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Opposition turned Women’s Quota Amendment into ‘dark chapter’: Rajasthan CM",
-    "str": "Starmer apologises for Mandelson appointment amid vetting fury",
+    "hindu": "Summer camp in Vijayawada from April 25",
+    "str": "Peru reviews disputed election ballots with final result likely stalled until May",
     "nat": "Prison warden sues Platinum Credit for &apos;ghost&apos; loan deductions",
     "lmaf": "En Algérie, un ex-ministre condamné à cinq ans de prison et incarcéré pour corruption",
     "smh": "Coalition might keep negative gearing, CGT changes they oppose to pay for pledges",
     "nzh": "Weather: Lower North island residents urged to evacuate from low-lying, flood-prone areas",
-    "alj": "Iranian FM spokesman says ceasefire ‘violated’ by US in shipment seizure"
+    "alj": "Iran expands limited internet access but restrictions remain for most",
+    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
   }
 }
