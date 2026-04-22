@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-04-22T14:21:53.634Z",
-  "fetched": 24,
+  "timestamp": "2026-04-22T15:46:36.126Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,27 +14,26 @@
   "headlines": {
     "nyt": "Hoarding Is Driving Energy Prices Higher Everywhere",
     "lat": "Video shows black bear charging at a hiker on Mount Wilson",
-    "glob": "Tourist recalls Teotihuacan pyramids shooting",
-    "clar": "Se terminó el clima de \"veranito\" con humedad en el AMBA: bajó fuerte la temperatura y se viene el primer frío del año con mínimas de 7°C",
-    "lnac": "Qué se sabe de la nueva tregua de Trump con Irán en la guerra de Medio Oriente",
-    "folh": "BRB aprova aumento de capital de at� R$ 8,8 bi ap�s rombo deixado pelo caso Master",
-    "tiemp": "Acolgen advierte problemas sobre el servicio eléctrico durante fenómeno de El Niño: &#039;Podríamos no tener suficiente energía para atender a colombianos&#039;",
+    "glob": "Drake’s ice structure being melted down by Toronto fire after crowds try to heat it up",
+    "clar": "Grupo Chery acelera su desarrollo global y tendrá impacto en el país impulsado por Grupo Corven",
+    "lnac": "Detuvieron en la Ciudad a un sospechoso del crimen del precandidato a presidente de Colombia Miguel Uribe Turbay",
+    "folh": "Roni de &apos;Avenida Brasil&apos;, Daniel Rocha volta � Globo em &apos;Quem Ama Cuida&apos;",
+    "tiemp": "Video | Esto fue lo que dijo la Secretaría de Salud acerca del restaurante cerrado por graves fallas sanitarias en el aeropuerto de Barranquilla",
     "univ": "La mañanera de Sheinbaum, 22 de abril, minuto a minuto",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : un deuxième soldat français blessé au Liban samedi est mort, annonce Emmanuel Macron",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "Heatwaves, floods and wildfires pose rising threat to democracy, report finds",
-    "elpais": "El PP tumba en el Congreso la moción de Vox sobre la “prioridad nacional” en el acceso a las ayudas públicas",
+    "elpais": "Última hora de la actualidad política, en directo | El PP da a Vox la vicepresidencia y tres consejerías en el Gobierno de Aragón",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "岩手県大槌町で山林火災、民家も燃える　県が災害特別警戒本部を設置",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Environmentalists hail withdrawal of KSIC land transfer for stadium in T. Narsipura",
-    "str": "Over 62,000 Lebanon housing units damaged, destroyed in Israel war: Govt estimate",
-    "nat": "MTRH strike averted as workers, management sign deal",
-    "lmaf": "Kamel Daoud annonce avoir été condamné à trois ans de prison ferme en Algérie pour son roman « Houris »",
+    "hindu": "Teachers demand better facilities during census work",
+    "str": "Trump ballroom deal shields donor identities, limits conflict safeguards, contract shows",
+    "lmaf": "Rémy Rioux, directeur général de l’Agence française de développement : « L’AFD contribue à redéfinir la relation entre la France et le continent africain »",
     "smh": "Battery owners face thousands of dollars in losses under new scheme",
     "nzh": "Person rescued from property fire in Auckland’s Takanini",
-    "alj": "What is uranium enrichment and how quickly could Iran build a nuclear bomb?",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "alj": "Fires ignited by Ukrainian drones rage at Russian oil refinery",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
