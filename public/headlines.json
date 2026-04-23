@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-04-23T21:24:51.957Z",
-  "fetched": 24,
+  "timestamp": "2026-04-23T22:06:17.610Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,13 +14,13 @@
   "headlines": {
     "nyt": "Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster",
     "lat": "Effort to hold Uber legally responsible for sexual assaults by drivers heads to ballot",
-    "glob": "Beavers, moving deeper into the Far North, gnaw away at an Arctic way of life",
-    "clar": "Revolución urbana y deportes extremos al por mayor: un evento con 10 disciplinas para disfrutar en San Fernando",
-    "lnac": "Un adolescente golpeó y le pisó la cabeza a una chica en una calle de Nueva York",
-    "folh": "Primeiro pr�-reitor negro da USP v� nomea��o como simb�lica e quer melhora na rela��o com sociedade",
-    "tiemp": "Video | Brutal ataque en Itagüí: vigilante adulto mayor termina en cirugía tras ser agredido por un veedor en la Secretaría de Movilidad",
+    "glob": "Trudeau says U.S. auto tariffs threaten to push Canada closer to China",
+    "clar": "\"No soy dueño de la salud de Diego\": la nueva declaración de Luque en medio de fuertes cruces con la acusación",
+    "lnac": "Los videos de las fiestas con deportistas que organizó la agencia investigada por prostitución y drogas en Italia",
+    "folh": "O antirracismo � para todos (e seus benef�cios tamb�m)",
+    "tiemp": "A centro carcelario enviaron a sujeto señalado de matar a la perrita &#039;Kira&#039; en Bucaramanga, hecho que quedó grabado en video y ha causado conmoción",
     "univ": "Cae en Argentina contralmirante Fernando Farías, acusado de huachicol; inician trámite de extradición",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : Donald Trump assure avoir « tout le temps nécessaire » concernant l’Iran ; le porte-avions USS « George-H.-W.-Bush » navigue à proximité du Moyen-Orient",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce une prolongation de « trois semaines » du cessez-le-feu au Liban",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "British woman died in Ghana trying to recoup money from scammers, inquest told",
     "elpais": "Rajoy apoya a su cúpula de Interior en el juicio de Kitchen: “Estoy convencido de que esa operación policial se adecuó a la legalidad”",
@@ -28,12 +29,11 @@
     "asahi": "初任給、新入社員の本音　物価高で「不安」でも…使い道で目立つのは",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "State may witness close contests in many constituencies",
-    "str": "Trump says US in no rush but ‘clock is ticking’ for Iran",
-    "nat": "Chan scandal: Riskwell Insurance got Sh42m without bidding",
+    "str": "Fire brought under control at Russia's Tuapse oil terminal",
     "lmaf": "Une prière improvisée de pèlerins juifs à Marrakech met les réseaux sociaux marocains en ébullition",
     "smh": "US-Iran war live updates: Trump orders navy to ‘shoot and kill’ minelayers in Strait of Hormuz; US forces board oil tanker; talks between Lebanon and Israel at White House",
     "nzh": "Weather: Orange heavy rain warning for parts of North Island",
-    "alj": "War-driven demand boosts profits for weapons and aircraft manufacturers",
+    "alj": "Funeral held for journalist killed in targeted Israeli strike",
     "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
   }
 }
