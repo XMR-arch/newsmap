@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-24T21:04:23.510Z",
+  "timestamp": "2026-04-24T21:58:03.533Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -12,13 +12,13 @@
   ],
   "headlines": {
     "nyt": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
-    "lat": "Aggressive 10-foot shark postpones world surf competition in Huntington Beach",
-    "glob": "OpenAI’s Altman ‘deeply sorry’ company didn’t flag Tumbler Ridge shooter’s messages to police",
-    "clar": "Juan José Becerra ganó el Premio de la Crítica en la Feria del Libro por su libro ‘Un hombre’",
-    "lnac": "La resiliencia de los nacidos en los años 60 y 70: la fortaleza de una generación que creció sin protección",
-    "folh": "Conquistar a independ�ncia financeira � simples",
+    "lat": "Jake Reiner on parents Rob and Michele&#x27;s killings: &#x27;My world, as I knew it, had collapsed&#x27;",
+    "glob": "Repertory film pioneer Robert Huber helped establish a culture of cinephilia in Toronto",
+    "clar": "Faltazo de Máximo Kirchner en la asunción de Kicillof, su sucesor en el PJ bonaerense",
+    "lnac": "Peter Thiel, fundador de PayPal junto a Elon Musk: compró una mansión en Barrio Parque y pagó un precio récord",
+    "folh": "Moraes manda prender ex-diretor da PRF e outros quatro condenados por trama golpista",
     "tiemp": "Ya había alertas por fallas en la seguridad del Batallón Pichincha en Cali: atentado en el sur de la ciudad reabre debate y cuestionamientos internos",
-    "univ": "Gobernación y CNDH dan seguimiento a víctimas de la Guerra Sucia; \"cada expediente representa una vida\", señalan",
+    "univ": "Sheinbaum se reúne con Magda Chambriard, presidenta de Petrobras; acuerdan colaboración con Pemex",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, se rendront à Islamabad samedi ; l’Iran ne confirme pas sa participation à des pourparlers avec la délégation américaine",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "US millionaire big-game hunter dies after being crushed by elephants",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "「事実誤認」で逮捕後に釈放　大麻？の鑑定結果が陽性→陰性に　福岡",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Tamil Nadu election 2026: A poll boycott and blockade of EVMs in Harur constituency",
-    "str": "French teen gets 15-year jail term for killing teacher",
+    "hindu": "Israel-Iran war LIVE: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
+    "str": "Hypersonic weapon startup Castelion wins $105 million Navy contract for F/A-18 integration",
     "nat": "Omanyala does it again!",
     "lmaf": "Au Nigeria, la cour martiale se prépare à juger 36 officiers accusés de tentative de coup d’Etat en 2025",
-    "smh": "Staggs comment makes Thurston sick",
-    "nzh": "Bay of Plenty highway closed, one seriously injured after crash",
-    "alj": "Trump to again end legal status of people who entered US with CBP One app",
+    "smh": "Damp streets and deep silence: Brisbane remembers in the pre-dawn darkness",
+    "nzh": "Astronomers believe 'otherworldly' light seen in the sky linked to Chinese rocket launch",
+    "alj": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
     "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
