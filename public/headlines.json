@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-04-23T23:57:19.673Z",
-  "fetched": 24,
+  "timestamp": "2026-04-24T02:44:38.818Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
@@ -8,32 +8,32 @@
     "chos",
     "mav",
     "taus",
-    "haar"
+    "haar",
+    "arab"
   ],
   "headlines": {
-    "nyt": "Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster",
-    "lat": "Federal judge orders release of Pasadena man who is plaintiff in lawsuit against immigration raids",
-    "glob": "Ontario fast-tracks FOI changes that would shield Doug Ford’s phone records from public",
-    "clar": "El Gobierno denuncia un acto del Instituto Patria en un colegio secundario y advierte al rector de la Universidad de La Plata por adoctrinamiento político",
+    "nyt": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
+    "lat": "Two LAX workers arrested on suspicion of drug smuggling",
+    "glob": "Ontario introduces promised bill to take Toronto’s stake in Billy Bishop Airport",
+    "clar": "Chiche Gelblung habló sobre su salud tras ser internado: le colocaron dos stents",
     "lnac": "Javier Milei y sus medidas, en vivo: se reaviva la agenda parlamentaria y el Presidente vuelve al país",
-    "folh": "Dourados, em Mato Grosso do Sul, concentra 42% das mortes por chikungunya do pa�s",
-    "tiemp": "Asocapitales y OEI firman en Ibagué alianza para transformar 32 ciudades con economía circular: habla director Santamaría sobre el memorando",
-    "univ": "PAN califica como “positiva” reunión de Sheinbaum con Comisionado de la ONU; primer paso para reconocer la crisis de desapariciones, dice",
+    "folh": "Petrobras abre m�o de prefer�ncia na venda da Braskem e firma novo acordo de acionistas",
+    "tiemp": "Jamundí llora el asesinato de 4 de sus jóvenes",
+    "univ": "IPN llama al diálogo con estudiantes ante inconformidades; solicitudes de auditorías, una de las principales demandas",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce une prolongation de « trois semaines » du cessez-le-feu au Liban",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "British woman died in Ghana trying to recoup money from scammers, inquest told",
     "elpais": "Trump anuncia una prórroga de tres semanas del alto el fuego entre Israel y Líbano",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "和歌山のご当地グルメが「エッグ」い盛り上がり？　認定店が回復基調",
+    "asahi": "岩手・大槌の山林火災、焼損は1176ヘクタール　1日で6倍近くに",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Troubled waters: A.P., T.N. fishermen embroiled in a row",
-    "str": "How the war in Iran is shifting from bombardment to a test of wills",
+    "hindu": "Deliberations on partnerships, investment held at New Delhi roadshow for agritech meet",
+    "str": "In El Salvador, shackled prisoners watch their mass trial on a big screen",
     "nat": "Financing Kenya’s industrialisation",
     "lmaf": "Une prière improvisée de pèlerins juifs à Marrakech met les réseaux sociaux marocains en ébullition",
-    "smh": "‘Sitting ducks’: Hastie says overreliance on US has weakened Australia",
-    "nzh": "Investigators finish review into the way Oranga Tamariki dealt with info about murderer Nathan Boulter",
-    "alj": "US professors sue university over arrest during pro-Palestine protest",
-    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
+    "smh": "Footage captures firebombing of Sydney construction boss’ home",
+    "nzh": "Landslips in Auckland, Coromandel, homes evacuated amid heavy rain warnings",
+    "alj": "Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side"
   }
 }
