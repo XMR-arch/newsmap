@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-04-25T14:07:44.625Z",
-  "fetched": 23,
+  "timestamp": "2026-04-25T14:58:14.817Z",
+  "fetched": 24,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
-    "lat": "Lopez: Fraud is rampant, but good hospice care exists. Here&#x27;s a guide to making the right choice",
-    "glob": "The Globe’s Carrie Tait named journalist of the year by the National Newspaper Association",
-    "clar": "El Dibu Martínez no pudo evitar la derrota del Aston Villa, pero la clasificación a la Champions League por ahora no corre riesgo",
-    "lnac": "La actividad que recomiendan los neurocientíficos para “rejuvenecer” la memoria después de los 50",
-    "folh": "Wall Street ignora choque energ�tico, e a��es dos EUA disparam � frente das europeias",
-    "tiemp": "&#039;Consuelo Araujo ‘La cacica’ fue secuestrada por las Farc en una ‘pesca milagrosa’ y asesinada por orden del Secretariado de las Farc&#039;, JEP",
+    "lat": "Photos: A front row seat to the 2026 Stagecoach Music Festival",
+    "glob": "Wildland firefighters stare down another busy summer with aging aircraft, strained staff",
+    "clar": "El tour de legisladores y funcionarios por los despachos de Washington",
+    "lnac": "A qué hora juega River vs. Aldosivi, por el Torneo Apertura 2026",
+    "folh": "Aviso",
+    "tiemp": "Reportan ataque con drones contra radar aéreo en Cauca: ‘Policía y Ejército permanecen defendiendo la soberanía y los activos estratégicos del Estado’",
     "univ": "Agentes de la CIA no tenían permiso de operar en México; uno ingresó como visitante y el otro con pasaporte diplomático, señala Gabinete de Seguridad",
     "lemon": "En cartes : comment Donald Trump transforme Washington en scène de son pouvoir personnel",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
@@ -28,12 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "遮断機下りない踏切、電車はなぜ走ったのか　すり抜けた三つの「穴」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "23-year-old youth sentenced to 20 years of rigorous imprisonment in POCSO case",
+    "hindu": "Anakapalli to get Godavari water through Polavaram Left Main Canal by June, says A.P. Minister",
     "str": "Slovenian president tells lawmakers to nominate PM able to form coalition",
+    "nat": "How Nairobi travel firm was hit by Sh51m fake visa scam",
     "lmaf": "Au Mali, l’armée fait état d’attaques coordonnées de « groupes terroristes » près de Bamako et dans plusieurs villes",
     "smh": "Superquiz, Sunday, April 26",
     "nzh": "In pictures: Anzac Day commemorations around New Zealand and afar",
     "alj": "Israeli attacks kill four in southern Lebanon",
-    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
+    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
   }
 }
