@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-04-25T13:10:52.324Z",
-  "fetched": 24,
+  "timestamp": "2026-04-25T14:07:44.625Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,11 +15,11 @@
     "nyt": "Trump Seeks to Abolish Iran’s Atomic Stockpile, a Problem He Helped Create",
     "lat": "Lopez: Fraud is rampant, but good hospice care exists. Here&#x27;s a guide to making the right choice",
     "glob": "The Globe’s Carrie Tait named journalist of the year by the National Newspaper Association",
-    "clar": "River vs Aldosivi, por el Torneo Apertura EN VIVO: a qué hora es, probables formaciones y cómo ver en directo",
-    "lnac": "Colapinto en Buenos Aires: horarios y todos los detalles del Road Show",
-    "folh": "&apos;Tr�s Gra�as&apos; ter� casamento coletivo homoafetivo celebrado por homem gay",
-    "tiemp": "Nuevos detalles de la explosión con carro bomba en el batallón Agustín Codazzi en Palmira: &#039;No hay heridos&#039;",
-    "univ": "Sedena asigna 300 mdp para terminar tren al AIFA",
+    "clar": "El Dibu Martínez no pudo evitar la derrota del Aston Villa, pero la clasificación a la Champions League por ahora no corre riesgo",
+    "lnac": "La actividad que recomiendan los neurocientíficos para “rejuvenecer” la memoria después de los 50",
+    "folh": "Wall Street ignora choque energ�tico, e a��es dos EUA disparam � frente das europeias",
+    "tiemp": "&#039;Consuelo Araujo ‘La cacica’ fue secuestrada por las Farc en una ‘pesca milagrosa’ y asesinada por orden del Secretariado de las Farc&#039;, JEP",
+    "univ": "Agentes de la CIA no tenían permiso de operar en México; uno ingresó como visitante y el otro con pasaporte diplomático, señala Gabinete de Seguridad",
     "lemon": "En cartes : comment Donald Trump transforme Washington en scène de son pouvoir personnel",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "‘Astonishing’ discovery could help save children from deadly disfiguring condition",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "遮断機下りない踏切、電車はなぜ走ったのか　すり抜けた三つの「穴」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "AICTE clears four new engineering courses at Sharnbasva University",
-    "str": "Mali junta battles ‘terrorist groups’ amid intense fighting",
-    "nat": "Patrick Mukabi, famed painter of ‘gifted’ women, takes final bow",
-    "lmaf": "Au Mali, l’armée fait état de combats avec des « groupes terroristes » à Bamako et dans plusieurs villes",
-    "smh": "AFL LIVE: Brave Blues just fall short on Anzac Day after a Power surge shocks the Cats in Adelaide",
-    "nzh": "Man rescued after clinging to kayak in harbour for hours",
-    "alj": "‘Scale and coordination of Mali attacks appear unprecedented’",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "hindu": "23-year-old youth sentenced to 20 years of rigorous imprisonment in POCSO case",
+    "str": "Slovenian president tells lawmakers to nominate PM able to form coalition",
+    "lmaf": "Au Mali, l’armée fait état d’attaques coordonnées de « groupes terroristes » près de Bamako et dans plusieurs villes",
+    "smh": "Superquiz, Sunday, April 26",
+    "nzh": "In pictures: Anzac Day commemorations around New Zealand and afar",
+    "alj": "Israeli attacks kill four in southern Lebanon",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
