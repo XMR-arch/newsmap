@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-25T00:03:03.830Z",
+  "timestamp": "2026-04-25T03:27:23.316Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,29 +11,29 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
-    "lat": "FBI joins the probe into the disappearance of a SoCal grandpa linked to a crypto fortune",
-    "glob": "OpenAI’s Altman ‘deeply sorry’ company didn’t flag Tumbler Ridge shooter’s messages to police",
-    "clar": "Colapinto y la Feria del Libro: cortes de tránsito, accesos y cómo entrar a La Rural este fin de semana",
-    "lnac": "Murió Micaela Vogel, una exjugadora de la selección argentina de vóley",
-    "folh": "Michael Fran�a lan�a &apos;Guia da Gest�o P�blica Antirracista&apos; no Insper, em S�o Paulo",
-    "tiemp": "Las reacciones de Federico Gutiérrez y Andrés Julián Rendón a la decisión del Tribunal de Antioquia de frenar la intervención a la EPS Savia Salud",
-    "univ": "Sheinbaum supervisa obras del Tren México-Pachuca; \"le vamos a ganar a AMLO en kilómetros\", dice",
+    "nyt": "Rubio’s Absence From Iran Talks Highlights Stay-at-Home Role",
+    "lat": "Rebecca Grossman, ex-boyfriend were racing when 2 boys were killed in crosswalk, lawyer alleges",
+    "glob": "Here’s what to do if your flight is cancelled because of fuel costs",
+    "clar": "Así quedaron las tablas del Torneo Apertura 2026: Independiente y Racing comprometieron su clasificación a playoffs",
+    "lnac": "América invertebrada",
+    "folh": "Fachin suspende decis�o que barrava uso de im�veis para salvar BRB",
+    "tiemp": "Videos del atentado en Palmira: fuerte explosión cerca del batallón Agustín Codazzi sembró pánico y quedó grabada por testigos en varios sectores",
+    "univ": "\"Estado y sociedad tienen deuda con mujeres privadas de la libertad\": Yasmín Esquivel; busca rediseñar políticas públicas",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : les émissaires de Donald Trump, Steve Witkoff et Jared Kushner, se rendront à Islamabad samedi ; l’Iran ne confirme pas sa participation à des pourparlers avec la délégation américaine",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "US millionaire big-game hunter dies after being crushed by elephants",
     "elpais": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin es buscar “una polarización”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "同志社国際に校外活動自粛を要請　危機管理マニュアルに不備　京都府",
+    "asahi": "亡き人悼み、安全誓う　JR宝塚線脱線から21年、事故現場で慰霊式",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "YSRCP plans to strengthen its farmers’ wing",
-    "str": "Tunisia suspends Nobel Peace Prize-winning LTDH rights group",
+    "hindu": "T.N. records lowest increase in votes polled during Assembly elections over the last 15 years",
+    "str": "US military says it struck vessel in Eastern Pacific, killing two",
     "nat": "No money for us, billions for the presidency",
     "lmaf": "Kenya : la justice refuse de reconnaître l’avortement comme droit fondamental",
-    "smh": "The ‘ritual scapegoating’ of coaches is rife in sport. Does it achieve anything?",
-    "nzh": "Royal New Zealand Air Force completes medical evacuation from Antarctica",
-    "alj": "Police raid Peru’s election authorities after outcry over slow vote count",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "smh": "AFL removes appeals board chair days after Collard decision",
+    "nzh": "New measles case in Wellington - Health NZ",
+    "alj": "OpenAI’s Sam Altman apologises over failure to report Canadian mass shooter",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
