@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-26T17:58:17.233Z",
+  "timestamp": "2026-04-26T19:01:03.411Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,14 +11,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "California Man Identified as Cole Tomas Allen in Custody After Shooting at Dinner Attended by Trump",
-    "lat": "National parks brace for summer surge as Trump administration proposes more staff cuts",
-    "glob": "Quebec church becomes unlikely Habs playoff watch hub",
-    "clar": "Malvinas, Trump, Irán y Milei",
-    "lnac": "Cómo funcionan los bancos mañana, lunes 27 de abril",
-    "folh": "Filme sobre Michael Jackson estreia com maior bilheteria da hist�ria das cinebiografias",
+    "nyt": "What Our Reporter Saw During the D.C. Shooting",
+    "lat": "D.C. gala gunman wrote &#x27;manifesto,&#x27; traveled from California before attack, officials say",
+    "glob": "How a postcard helped curb absentee rates at a Northern Ontario school board",
+    "clar": "Acusan a una docente de plástica por ejercicio ilegal de la medicina: recetaba medicamentos y llegó a firmar actas de defunción",
+    "lnac": "Fervor por Colapinto: un multitud de fanáticos y familias revoluciona Palermo",
+    "folh": "Ex-primeiro bailarino do Royal Ballet, Thiago Soares apresenta &apos;Carmem&apos; em SP",
     "tiemp": "Atentado de disidencias en vía Panamericana, el segundo en un mes con cráter de 20 metros de diámetro y parálisis: más de 20 muertos, en ambos hechos",
-    "univ": "Temporada de huracanes 2026 en México; ¿cuándo inicia y cuáles serán los nombres de las tormentas?",
+    "univ": "\"¡Misión cumplida, pueblo de México!\"; Sheinbaum celebra \"infraestructura de primer orden\" al inaugurar Tren Felipe Ángeles",
     "lemon": "Coups de feu au gala de la presse à Washington : ce que l’on sait de l’homme suspecté d’avoir tiré",
     "spieg": "Terror Records in German Hands: ISIS and the Bureaucracy of Evil",
     "guar": "Militants and separatists launch coordinated attacks across Mali",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "斜面から落ちてきたクマに襲われ、ハンターけが　北海道島牧村",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Taiwan will not 'bow its head': FM hits out at China during visit to Eswatini",
-    "str": "Syrian court begins proceedings against Assad and allies",
-    "nat": "Linda Mwananchi: This is why we are taking a different direction",
+    "hindu": "You can get anything done out of me for the team: Venkatesh Iyer",
+    "str": "Iran minister leaves Pakistan, heads to Russia for more talks",
+    "nat": "Storm in Oburu camp over perceived sidelining of youths",
     "lmaf": "Taïwan dénonce des pressions de la Chine sur des pays africains après que son président a été contraint de reporter sa visite en Eswatini",
     "smh": "On board the European high-speed train zooming through Central Asia’s desert",
     "nzh": "Wellinton Water reports 'Minor discharge' of wastewater into Lyall Bay",
-    "alj": "Thai police arrest Indonesian wanted for $10m cyberfraud",
+    "alj": "Kenya’s Sawe shatters two-hour marathon barrier",
     "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
