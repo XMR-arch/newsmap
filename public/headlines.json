@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T18:03:57.210Z",
+  "timestamp": "2026-04-27T19:45:24.186Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Supreme Court Reviews Police Use of Cell Location Data to Find Criminals",
-    "lat": "California woman escapes kidnapping by texting 911 from gas station bathroom, deputies say",
-    "glob": "Globe Climate: Wildfire reflection and protection",
-    "clar": "Las 5 frutas para plantar en otoño en el balcón: fáciles, rápidas y con poco espacio",
-    "lnac": "Pamela Pombo denunció a su exmarido Patricio Albacete por violencia de género: el video en el que la golpea",
-    "folh": "&apos;Uma nova era&apos;: ex-atletas e treinadores preveem novos recordes na maratona",
-    "tiemp": "Policía desmiente la presencia de un cilindro explosivo en la vía Cali - Buenaventura: imágenes viralizadas no corresponden al Valle del Cauca",
-    "univ": "\"Tiempo al tiempo\"; será Ariadna Montiel quien informe si deja la Secretaría de Bienestar para dirigir Morena: Sheinbaum",
+    "nyt": "Cole Tomas Allen, Correspondents’ Dinner Shooting Suspect, Was Propelled by Outrage, Authorities Say",
+    "lat": "Here&#x27;s where and when it&#x27;s expected to rain in Southern California this week",
+    "glob": "First, there was Alberta’s health procurement controversy. Then the surveillance began",
+    "clar": "El frustrado ataque a Donald Trump: ¿Fallaron las medidas de seguridad para proteger al presidente?",
+    "lnac": "Cómo resguardarse de un ataque nuclear en el propio hogar, según un consejo crucial de tres pasos",
+    "folh": "Moraes concede pris�o domiciliar a F�tima de Tubar�o e outros 18 idosos condenados pelo 8/1",
+    "tiemp": "¿Transporte público colectivo en Cali, con los días contados? Concejales y transportadores exigen mesa de trabajo con urgencia",
+    "univ": "Ernestina Godoy se reúne con la Comisión de Justicia del Senado; analizarán el Plan de Procuración de Justicia 2026-2029",
     "lemon": "Le « rapport Alloncle » sur l’audiovisuel public adopté par les députés",
     "spieg": "Ten Years after the End of the One-Child Policy: A Visit to Ground Zero of China's Aging Population",
     "guar": "German tourist dies after being bitten at snake show on family holiday in Egypt",
@@ -28,12 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "旭山動物園の再開は5月1日　当初から2日延期　死体遺棄容疑で捜索",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Water supply disruption in Kerala’s Thiruvananthapuram on April 30",
-    "str": "French FM says Iran must make ‘major concessions’ to end crisis",
+    "hindu": "Woman found dead in decomposed state",
+    "str": "Iraq’s Shi’ite alliance names Ali al-Zaidi as PM nominee",
     "lmaf": "Mali : les rebelles touareg et les groupes djihadistes prennent le contrôle de Kidal",
-    "smh": "Trump calls for Jimmy Kimmel to be fired over ‘expectant widow’ joke",
-    "nzh": "Our Changing World: A taste for science",
-    "alj": "Gunmen kidnap 23 children from Nigerian orphanage",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "smh": "The Frens provide a sneak peak into opening Travel Guides episode",
+    "nzh": "State Highway 1 Desert Road between Rangipo and Waiouru closed after truck, car crash",
+    "alj": "What people in Beirut think about the Lebanon-Israel negotiations",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
