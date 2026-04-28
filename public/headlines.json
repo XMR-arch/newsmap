@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-27T23:31:05.855Z",
+  "timestamp": "2026-04-28T01:16:00.461Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,14 +11,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Charges Against Suspect in Trump Assassination Attempt Based on Shotgun Shell and a Screed",
-    "lat": "Trump administration pays wind developer to walk away from California offshore lease",
-    "glob": "Six-year-old girl dies after falling from apartment window, Toronto police say",
+    "nyt": "Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz",
+    "lat": "Boy, 13, on e-bike is killed by Amtrak train; community mourns teen with &#x27;unforgettable smile&#x27;",
+    "glob": "What is a sovereign wealth fund and how does it work?",
     "clar": "Arquitectura funeraria: el proyecto ganador del primer puesto para el Crematorio Parque 9 de Julio",
-    "lnac": "El secreto de Emma Morano: la dieta estricta y el “truco” que la llevaron a vivir 117 años",
-    "folh": "Rei Charles 3� � recebido por Trump em Washington em meio a atrito entre EUA e Reino Unido",
-    "tiemp": "Barranquilla: Silvia Gette retomó la rectoría de la Universidad Autónoma del Caribe tras 13 años y fallo judicial que dejó en firme su regreso",
-    "univ": "Auditoria Superior rechaza gestiones realizadas por intermediarios; pide denunciar conductas irregulares",
+    "lnac": "Freno al ICE: demandan al gobierno para cancelar la construcción de un centro de detención de migrantes en Arizona",
+    "folh": "O eterno retorno do diagn�stico equivocado",
+    "tiemp": "Entre velas y silencio, Cajibío despidió a las víctimas por el atentado perpetrado por disidencias de las Farc en la vía Panamericana",
+    "univ": "Dos personas mueren calcinadas durante enfrentamiento armado en Chiapas; víctimas aún no han sido identificadas",
     "lemon": "Le « rapport Alloncle » sur l’audiovisuel public adopté par les députés",
     "spieg": "Ten Years after the End of the One-Child Policy: A Visit to Ground Zero of China's Aging Population",
     "guar": "Gunmen kill at least 29 at football pitch in north-east Nigeria, governor says",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "「中学生のころから殺人衝動が明確に」　承諾殺人の罪に問われた被告",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Israel-Iran LIVE: Trump discussed new Iran proposal with national security aides, says White House",
-    "str": "Congressmen call for National Guard to address drone threats at the World Cup",
+    "hindu": "Morning Digest: India discussing Chabahar issue with Iran, U.S.; WH dinner shooter charged with attempted assassination of Trump, and more",
+    "str": "Trump unhappy with Iranian proposal, US official says",
     "nat": "Sabastian Sawe, super shoes and sub-2-hour marathon feat",
     "lmaf": "Au Nigeria, une trentaine de personnes tuées dans une attaque revendiquée par un groupe djihadiste",
-    "smh": "Driver charged over e-bike hit-and-run",
-    "nzh": "Large fire at West Auckland boat building facility",
-    "alj": "US Supreme Court reinstates Republican-favoured Texas electoral map",
-    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
+    "smh": "Stanley",
+    "nzh": "Parent prosecuted over child's school absence as part of government's truancy crackdown",
+    "alj": "Iran war live: Trump reviews peace plan; UN calls for Hormuz to reopen",
+    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
   }
 }
