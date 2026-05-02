@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-05-02T08:53:27.799Z",
-  "fetched": 24,
+  "timestamp": "2026-05-02T09:53:50.368Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,27 +14,26 @@
   "headlines": {
     "nyt": "U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says",
     "lat": "Thousands rally in L.A. for May Day to protest immigration sweeps, high cost of living",
-    "glob": "Airlines could face $1-million fines for passenger right violations under new rules proposed by Ottawa",
-    "clar": "La cosecha de soja dejó atrás las lluvias y el paro de transportistas, avanza a paso firme en todo el país y promete dejar más de US$ 21.250 millones en exportaciones",
+    "glob": "McKenna family announces $20-million scholarship donation to St. Francis Xavier University",
+    "clar": "Meryl Streep: del “no” a El diablo viste a la moda al llamado a Lady Gaga para la secuela",
     "lnac": "Cuánto cuesta ampliar una cocina en mayo 2026",
-    "folh": "Chuva diminui em Recife neste s�bado (2), mas deve aumentar em Jo�o Pessoa, Natal e Fortaleza",
+    "folh": "DNA mostra infiltra��o gradual e miscigena��o ap�s queda do Imp�rio Romano",
     "tiemp": "Simulando la lluvia en el asfalto: evaluación técnica del sistema de riego por gravedad bajo la estación Estadio del Metro de Medellín",
     "univ": "Alcalde de Culiacán solicita licencia por más de 10 días tras acusaciones de relación con narco; Ana Miriam Ramos lo sustituye",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : Israël mène de nouveaux bombardements meurtriers au Liban ; Donald Trump contourne le Congrès sur l’Iran",
+    "lemon": "EN DIRECT, guerre au Moyen-Orient : le retrait de 5 000 soldats américains était « attendu » par le ministère de la défense allemand ; Israël mène de nouveaux bombardements meurtriers au Liban",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
     "guar": "First malaria drug for babies is approved in ‘major public health milestone’",
     "elpais": "Trump agrava su cisma con la OTAN y retira 5.000 soldados de Alemania",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "茨城の海岸で水に流され、2人行方不明",
+    "asahi": "再審法案「提出断念は最悪手」　抗告の原則禁止「本則化」で妥結模索",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Kerala Assembly elections: Why IUML’s influence underscores its key role in UDF leadership choices, coalition stability",
-    "str": "Humpback whale stranded in Germany released into North Sea",
-    "nat": "Who has the priciest watch? Ruto allies trade jabs over luxury lifestyles",
+    "hindu": "Cordon and search operation held in Kurnool as part of Operation Vajraprahar",
+    "str": "Mali investigates soldiers over role in coordinated insurgent attacks",
     "lmaf": "Quand une journaliste cartographe du « Monde » se rend au Somaliland pour dessiner cet « Etat qui n’existe pas »",
-    "smh": "Liberals hope to hold on in byelection",
-    "nzh": "Bilingual singer Geneva AM: 'I just want to keep making music and uniting everybody'",
-    "alj": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "smh": "DCE posts first try of the game",
+    "nzh": "Vehicle crashes into house in central Auckland",
+    "alj": "Japan’s Takaichi pledges deeper energy cooperation with Vietnam",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
