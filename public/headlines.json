@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-02T19:58:39.217Z",
+  "timestamp": "2026-05-02T20:50:11.128Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -13,11 +13,11 @@
   "headlines": {
     "nyt": "U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners",
     "lat": "California, Arizona and Nevada announce new water-saving plan for dwindling Colorado River",
-    "glob": "In 2016, the Horse River wildfire tore through Fort McMurray. A decade later, what lessons did we learn?",
-    "clar": "De la cárcel al hospital: la Nobel de la Paz Narges Mohammadi, en estado crítico tras cinco meses detenida en Irán",
+    "glob": "Quebec ‘anti-patch’ law targets Hells Angels",
+    "clar": "En medio de los tironeos con la oposición, el oficialismo busca avanzar con la designación de jueces propuestos por Milei",
     "lnac": "Cuánto cuesta ampliar una cocina en mayo 2026",
-    "folh": "Copacabana tem f�s de Shakira acampados e batalh�o de vendedores � espera de show",
-    "tiemp": "Otro accidente fatal en Santander: camioneta se volcó y rodó a un abismo de 100 metros en Piedecuesta, conductor murió",
+    "folh": "Ivete Sangalo confirma participa��o em show de Shakira no Rio: &apos;Vai ser divertido&apos;",
+    "tiemp": "Giro en lío de basuras en Cali: suspenden al gerente comercial de Emcali, demanda contra distrito y dudas por Emsirva y pagos de ciudadanía por aseo",
     "univ": "Enrique Inzunza rechaza pedir licencia en el Senado; dice que acudirá con las autoridades si se lo solicitan",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : l’Iran se dit « prêt » à reprendre la guerre ou à privilégier la diplomatie, estimant que « la balle est dans le camp des Etats-Unis »",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
@@ -25,15 +25,15 @@
     "elpais": "Trump lanza una advertencia a toda Europa con la retirada de tropas de Alemania",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "8歳長女を殺害した容疑、母親を逮捕「生活苦しく、子育てに疲れた」",
+    "asahi": "最高裁長官、保釈に「不断の検討が必要」　生成AIは「猛獣」と表現",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "BFI tweaks assessment framework for selection",
-    "str": "Austrian police arrest man over poisoned baby food case",
-    "nat": "Woman held as person of interest as police probe Dr Obwaka’s sudden death",
+    "hindu": "What did the U.S. Supreme Court change in Louisiana?",
+    "str": "Russia, Ukraine give conflicting accounts of village in Sumy region",
+    "nat": "Atwoli defends 12pc general wage raise",
     "lmaf": "Mali : la Russie, alliée coûte que coûte de la junte militaire",
-    "smh": "Danger in the air: Fume events haunt flight crew",
-    "nzh": "ACT's plan to toughen immigration rules",
-    "alj": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
-    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
+    "smh": "Three people killed in attack in Sydney’s south-west",
+    "nzh": "Fish and Game not concerned about vigilantes flying drones at duck hunters",
+    "alj": "At least six dead in heavy rains in northeast Brazil, thousands displaced",
+    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
   }
 }
