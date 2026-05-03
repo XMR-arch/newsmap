@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-03T22:47:14.234Z",
+  "timestamp": "2026-05-03T23:31:02.451Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,13 +11,13 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "A Long, Strange Trip: How the G.O.P. Came to Embrace Psychedelic Drugs",
+    "nyt": "Trump Says U.S. Will Help Stranded Ships Leave Strait of Hormuz",
     "lat": "Deadly triple shooting outside L.A. County strip mall",
     "glob": "Poilievre endorses Billy Bishop airport expansion as critics pressure Liberals",
     "clar": "México 1986: de los Bosques de Palermo al Parque de las Estatuas de Oslo, la inusual preparación del campeón",
-    "lnac": "Tres pasajeros murieron por un brote de hantavirus en un crucero que salió desde la Argentina",
-    "folh": "Petr�leo abre em queda ap�s Trump dizer que vai revisar proposta do Ir� para fim do conflito",
-    "tiemp": "Video del momento exacto cuando conductora de ‘Monster Truck’ perdió control del vehículo y atropelló a al menos 15 personas en evento en Popayán",
+    "lnac": "Rudy Giuliani fue hospitalizado y su estado es crítico",
+    "folh": "A hist�ria extraordin�ria de H�rcules, o urso que um casal adotou e criou como parte da fam�lia",
+    "tiemp": "Video del momento exacto cuando conductora de ‘Monster Truck’ perdió control del vehículo y atropelló a al menos 20 personas en Popayán",
     "univ": "Una sombra llamada Rubén Rocha; crónica de un congreso morenista que lo relegó",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : Donald Trump annonce que la marine américaine va escorter des navires bloqués à travers le détroit d’Ormuz à partir de lundi",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
@@ -25,15 +25,15 @@
     "elpais": "Alemania se embarca en un rearme con dudas por los fantasmas del pasado",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "水俣病患者は「恵まれている」発言　被害者団体内で認識にずれ",
+    "asahi": "東日本と南西諸島で大気不安定　東北で4日夜にかけ暴風の恐れ",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "All set for counting; ECI promises transparency",
-    "str": "Spirit Airlines says most customers refunded, staff returned to home bases after sudden shutdown",
+    "hindu": "Israel-Iran war LIVE: Trump announces 'Project Freedom' to help stranded ships out of Strait of Hormuz",
+    "str": "ICE operation in Brooklyn sparks skirmishes and complaints",
     "nat": "Murkomen sacks alcoholic chief in renewed crackdown on illicit brews",
     "lmaf": "Le président de Taïwan réussit à se rendre en Eswatini, son dernier allié diplomatique en Afrique",
-    "smh": "Australia news LIVE: Ship attacked near Strait of Hormuz as Iran says it is reviewing US response to 14-point proposal to end war",
-    "nzh": "18 people killed on roads in 10 days",
-    "alj": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "smh": "Rudy Giuliani in critical condition in hospital",
+    "nzh": "Orca calf found washed up on Auckland's Orewa Beach",
+    "alj": "Thousands in India’s Manipur mark three years since ethnic clashes began",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
