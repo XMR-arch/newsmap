@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-05-10T23:06:34.733Z",
+  "timestamp": "2026-05-11T00:03:58.577Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -12,12 +12,12 @@
   ],
   "headlines": {
     "nyt": "After Virginia Redistricting Map Is Tossed, Democrats Search Desperately for a Response",
-    "lat": "Man shot and killed while breaking up fight at Wilmington pizza shop",
+    "lat": "Amazon halts high-speed e-bike sales in California following fatal crashes",
     "glob": "Nate Erskine-Smith loses Ontario Liberal nomination in Scarborough, denting leadership hopes",
-    "clar": "Mensaje del PRO en medio del escándalo Adorni: \"Frenan el cambio desde adentro con soberbia, arrogancia o pidiendo sacrificios que no  están dispuestos a hacer\"",
+    "clar": "Knicks vuelven a las finales del Este al aplastar 144-114 a 76ers y completar la barrida",
     "lnac": "River vs. San Lorenzo, en vivo: el minuto a minuto del partido por los octavos de final del Apertura",
-    "folh": "Petr�leo abre em alta ap�s Trump classificar proposta iraniana como inaceit�vel",
-    "tiemp": "Una de las más grandes incautaciones de drogas en el Pacífico: la Armada decomisó más de 5,8 toneladas y capturó a seis extranjeros",
+    "folh": "Felipe Castanhari debate educa��o digital no Rio2C",
+    "tiemp": "De película, video de cómo motociclistas armados iban a robar a otro en las calles de Medellín y la Policía lo evitó: el alcalde presentó la grabación",
     "univ": "INE Coahuila se deslinda de propaganda con códigos QR de \"Ubica tu Casilla\"; pide evitar confusión rumbo a elecciones",
     "lemon": "Hantavirus : l’évacuation des passagers du MV « Hondius » à Tenerife, un succès politique pour le gouvernement espagnol",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "職員が恐れた「ドスコイ案件」6千万円収賄容疑で逮捕、成松市議とは",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Congress’ wait to join the Tamil Nadu Cabinet continues",
-    "str": "US schools face a crisis as the number of children drops",
-    "nat": "Arsenal gun down West Ham to inch closer to EPL title",
+    "hindu": "Plane with U.K. citizens from hantavirus ship lands in Manchester",
+    "str": "Vance or Rubio? Trump muses on successor as the ‘kids’ fill bigger roles",
+    "nat": "End nominations to county assemblies and Parliament",
     "lmaf": "EN DIRECT, hantavirus : après des « symptômes » de l’un des croisiéristes français rapatriés, le gouvernement veut « briser les chaînes de transmission »",
-    "smh": "&#39;Sickening&#39; Richmond injury list grows",
-    "nzh": "What exactly is the hantavirus outbreak and how worried should we be?",
+    "smh": "The people of this town feel Britain is broken",
+    "nzh": "Dunedin bar owner surrenders liquor licences after drunk person locked in",
     "alj": "Barcelona beat Real Madrid 2-0 in El Clasico to retain La Liga title",
-    "arab": "EMEA ports have rating headroom to weather Hormuz closure: Fitch"
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
