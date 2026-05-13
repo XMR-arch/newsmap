@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-05-13T15:17:49.998Z",
-  "headline": "Swim Mistress — Surface tension rising",
-  "intensity": 0.2,
+  "timestamp": "2026-05-13T17:27:00.547Z",
+  "headline": "Swim Mistress — Density increasing",
+  "intensity": 0.95,
   "ui_theme": {
-    "bar_color": "#00f2ff",
-    "bar_glow": "rgba(0, 242, 255, 0.5)",
-    "transition_speed": "2s"
+    "bar_color": "#e76f51",
+    "bar_glow": "rgba(231, 111, 81, 0.6)",
+    "transition_speed": "0.4s"
   },
   "region_weights": {
-    "namerica": 45,
-    "europe": 63,
-    "latam": 41,
+    "namerica": 38,
+    "europe": 64,
+    "latam": 36,
     "asia": 43,
-    "mideast": 22,
-    "oceania": 15,
-    "africa": 9
+    "mideast": 20,
+    "oceania": 13,
+    "africa": 10
   },
   "layout": [
     {
       "id": "guar",
       "cat": "europe",
       "name": "The Guardian",
-      "weight": 26,
-      "x": 0,
-      "y": 0,
-      "w": 269,
-      "h": 374
-    },
-    {
-      "id": "peop",
-      "cat": "asia",
-      "name": "People's Daily",
       "weight": 24,
       "x": 0,
-      "y": 374,
+      "y": 0,
       "w": 269,
-      "h": 346
-    },
-    {
-      "id": "nyt",
-      "cat": "namerica",
-      "name": "New York Times",
-      "weight": 23,
-      "x": 269,
-      "y": 0,
-      "w": 242,
       "h": 368
-    },
-    {
-      "id": "wapo",
-      "cat": "namerica",
-      "name": "Washington Post",
-      "weight": 22,
-      "x": 269,
-      "y": 368,
-      "w": 242,
-      "h": 352
-    },
-    {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 22,
-      "x": 511,
-      "y": 0,
-      "w": 237,
-      "h": 360
-    },
-    {
-      "id": "alj",
-      "cat": "mideast",
-      "name": "Al Jazeera",
-      "weight": 22,
-      "x": 511,
-      "y": 360,
-      "w": 237,
-      "h": 360
-    },
-    {
-      "id": "spieg",
-      "cat": "europe",
-      "name": "Der Spiegel",
-      "weight": 19,
-      "x": 748,
-      "y": 0,
-      "w": 266,
-      "h": 276
-    },
-    {
-      "id": "folh",
-      "cat": "latam",
-      "name": "Folha de S.Paulo",
-      "weight": 19,
-      "x": 1014,
-      "y": 0,
-      "w": 266,
-      "h": 276
-    },
-    {
-      "id": "asahi",
-      "cat": "asia",
-      "name": "Asahi Shimbun",
-      "weight": 19,
-      "x": 748,
-      "y": 276,
-      "w": 323,
-      "h": 228
     },
     {
       "id": "lemon",
       "cat": "europe",
       "name": "Le Monde",
-      "weight": 18,
-      "x": 748,
-      "y": 504,
-      "w": 323,
-      "h": 216
+      "weight": 23,
+      "x": 0,
+      "y": 368,
+      "w": 269,
+      "h": 352
+    },
+    {
+      "id": "peop",
+      "cat": "asia",
+      "name": "People's Daily",
+      "weight": 23,
+      "x": 269,
+      "y": 0,
+      "w": 251,
+      "h": 376
+    },
+    {
+      "id": "nyt",
+      "cat": "namerica",
+      "name": "New York Times",
+      "weight": 21,
+      "x": 269,
+      "y": 376,
+      "w": 251,
+      "h": 344
+    },
+    {
+      "id": "asahi",
+      "cat": "asia",
+      "name": "Asahi Shimbun",
+      "weight": 20,
+      "x": 520,
+      "y": 0,
+      "w": 337,
+      "h": 244
+    },
+    {
+      "id": "alj",
+      "cat": "mideast",
+      "name": "Al Jazeera",
+      "weight": 20,
+      "x": 520,
+      "y": 244,
+      "w": 337,
+      "h": 244
+    },
+    {
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 19,
+      "x": 520,
+      "y": 488,
+      "w": 337,
+      "h": 232
+    },
+    {
+      "id": "wapo",
+      "cat": "namerica",
+      "name": "Washington Post",
+      "weight": 17,
+      "x": 857,
+      "y": 0,
+      "w": 211,
+      "h": 331
+    },
+    {
+      "id": "spieg",
+      "cat": "europe",
+      "name": "Der Spiegel",
+      "weight": 17,
+      "x": 1069,
+      "y": 0,
+      "w": 211,
+      "h": 331
+    },
+    {
+      "id": "folh",
+      "cat": "latam",
+      "name": "Folha de S.Paulo",
+      "weight": 17,
+      "x": 857,
+      "y": 331,
+      "w": 317,
+      "h": 221
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
-      "weight": 15,
-      "x": 1071,
-      "y": 276,
-      "w": 209,
-      "h": 277
+      "weight": 13,
+      "x": 857,
+      "y": 551,
+      "w": 317,
+      "h": 169
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 9,
-      "x": 1071,
-      "y": 554,
-      "w": 209,
-      "h": 166
+      "weight": 10,
+      "x": 1174,
+      "y": 331,
+      "w": 106,
+      "h": 389
     }
   ]
 }
