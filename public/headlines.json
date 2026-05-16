@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-05-16T21:58:44.936Z",
-  "fetched": 23,
+  "timestamp": "2026-05-16T22:53:24.680Z",
+  "fetched": 24,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,10 +14,10 @@
     "nyt": "Trump Calls Xi a ‘Friend.’ But He Left China Without Any Breakthroughs.",
     "lat": "Train cart found with 6 dead migrants inside came from Long Beach, officials say",
     "glob": "Canadian isolating in B.C. tests ‘presumptive positive’ for hantavirus",
-    "clar": "Quiniela de la Provincia: resultado del sorteo de la Vespertina de hoy, sábado 16 de mayo",
+    "clar": "Los videos del atropello masivo en Módena, del auto a toda velocidad hasta el violento intento de huida del conductor",
     "lnac": "River vs. Rosario Central, en vivo: la semifinal del Torneo Apertura",
-    "folh": "Fifa tem reuni�o &apos;positiva&apos; com a federa��o do Ir� antes da Copa do Mundo 2026",
-    "tiemp": "Barranquilla activa plan de seguridad y vigilancia para elecciones presidenciales con PMU y refuerzo militar en todos los puestos de votación locales",
+    "folh": "Caz�TV fecha contrato para exibir o Campeonato Espanhol com exclusividade at� 2032",
+    "tiemp": "Caída de alias ‘Cali’: el golpe maestro al bolsillo del Clan del Golfo en el nordeste de Antioquia",
     "univ": "Tribunal ordena a FGR compartir carpeta de investigación de capitán de la Marina; está implicado en huachicol fiscal",
     "lemon": "Au Liban sud, Israël étend son emprise au gré des bombardements et des ordres d’évacuation",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
@@ -28,12 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "部活バス事故、防ぐための親の役割　「圧力」にならない説明の求め方",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "PM Modi in Netherlands LIVE: India, Netherlands elevating ties to strategic partnership, says Modi",
+    "hindu": "Delhi Capitals runs into Rajasthan Royals in a must-win game",
     "str": "While You Were Sleeping: 5 stories you might have missed, May 17, 2026",
+    "nat": "Mbadi under fire from Odinga family over &apos;where is Raila now&apos; remark",
     "lmaf": "Félicien Kabuga, considéré comme le « grand argentier » du génocide rwandais en 1994, est mort",
-    "smh": "Graham Norton praises Delta Goodrem&#39;s Eurovision performance",
-    "nzh": "Call for people to install carbon monoxide alarms - but FENZ says smoke alarms enough",
-    "alj": "Poll shows Lula and Bolsonaro tied before Brazil’s presidential election",
+    "smh": "Delta Goodrem delivers stellar performance in Eurovision grand final",
+    "nzh": "What intimacy looks like with a disability",
+    "alj": "Two presidential campaign staffers killed in Colombia as elections near",
     "arab": "Malaysia appoints new anti-graft chief"
   }
 }
