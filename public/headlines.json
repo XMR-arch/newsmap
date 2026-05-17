@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-05-17T16:40:25.881Z",
-  "fetched": 24,
+  "timestamp": "2026-05-17T17:40:53.590Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "For Trump, Soaring Prices Test Voters’ Finances and Patience",
-    "lat": "Barabak: Californians on a confounding race for governor: &#x27;I haven&#x27;t ... a clue who I&#x27;m going to vote for&#x27;",
-    "glob": "Legendary junior hockey coach Ernie (Punch) McLean had an ‘unmatchable’ aura",
-    "clar": "Elecciones en Perú: confirman el balotaje entre Keiko Fujimori y Roberto Sánchez",
-    "lnac": "Mito o realidad: cuán cierto es que en ganadería más grasa representa más energía",
-    "folh": "Lula diz a aliados que vai reenviar ao Senado indica��o de Messias para vaga do STF",
-    "tiemp": "Restituyen tierras a lideresa social luego de 30 años de violencia y desplazamientos: su familia sobrevivió a un atentado con siete disparos",
-    "univ": "Yasmín Esquivel reitera llamado para cambiar fecha de elección judicial; pide examen nacional para candidatos a juzgadores",
+    "lat": "3 dead in Oakland after speeding driver crashes into crowd",
+    "glob": "Canadian isolating in B.C. tests ‘presumptive positive’ for hantavirus",
+    "clar": "Cadena de pizzerías a punto de quebrar vuelve a sus años de éxito: recupera su imagen y hace cambios que los clientes celebran",
+    "lnac": "La nueva norma del Uscis que entra en vigor este 29 de mayo e impone un pago de US$100 a migrantes",
+    "folh": "Virginia � retirada de mural da Copa ap�s t�rmino com Vini Jr.",
+    "tiemp": "Balacera en Altavista dejó dos muertos y dos heridos tras presunto procedimiento del Ejército en Medellín: estas son las identidades de las víctimas",
+    "univ": "CNTE rechaza aumento salarial del 9% y acuerda reanudar huelga nacional; advierte fortalecer movilizaciones rumbo al Mundial",
     "lemon": "Le patron de Canal+, premier financeur du cinéma français, annonce qu’il ne travaillera plus avec les 600 signataires d’une tribune contre son actionnaire Vincent Bolloré",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
     "guar": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "秋田市の民家敷地で「クマ目撃」　けが人なし　パトカー複数台で警戒",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Hopes rues PBKS bowlers’ inability to create early chances",
-    "str": "Around 10 ‘new’ victims come forward in France’s Epstein probe, prosecutor says",
-    "nat": "Museum of Illusions: A place that provokes the senses and tricks the mind",
+    "hindu": "DK organises protest against NEET in city",
+    "str": "US weighs drone threat from Cuba, report says",
     "lmaf": "Gérald Darmanin se rend en Algérie pour relancer la « coopération sécuritaire » après presque deux ans de crise diplomatique",
     "smh": "Superquiz, Monday, May 18",
     "nzh": "Two dead after Mt Aspiring helicopter crash",
-    "alj": "Three community kitchen workers among five killed by Israel in Gaza",
-    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
+    "alj": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
