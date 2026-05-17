@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-05-17T22:29:39.130Z",
-  "fetched": 24,
+  "timestamp": "2026-05-17T23:32:26.086Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,11 +14,11 @@
   "headlines": {
     "nyt": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
     "lat": "Bittersweet Pride: Joy at the Long Beach parade, outrage over canceled festival",
-    "glob": "Legendary junior hockey coach Ernie (Punch) McLean had an ‘unmatchable’ aura",
-    "clar": "Inter Miami con Lionel Messi vs Portland Timbers, por la MLS, EN VIVO: minuto a minuto, en directo",
-    "lnac": "Argentinos vs. Belgrano, en vivo por la semifinal del Torneo Apertura: el minuto a minuto del partido",
-    "folh": "Pre�o do petr�leo abre semana com maior valor desde mar�o ap�s Trump amea�ar aniquilar Ir�",
-    "tiemp": "Ganaderos del Caribe alertan crisis por fenómeno de El Niño: pequeños productores serían los más afectados por sequía y alza de costos",
+    "glob": "B.C. hantavirus case confirmed in laboratory test",
+    "clar": "Deslomados por Adorni y el Tesla, alertas que se pasan por alto",
+    "lnac": "Rechazo de la Iglesia al operativo policial en villas porteñas: “Tormenta negra se llama cuando el Estado se retira”",
+    "folh": "Alistamento de presidi�rios para guerra esvazia pris�es na R�ssia",
+    "tiemp": "Exclusivo: la Gobernación de Antioquia ha enviado 60 oficios al Gobierno Nacional solicitando intervención militar en Briceño desde 2024",
     "univ": "Dictan prisión preventiva a 13 detenidos en Sinaloa; enfrentaron a elementos de la Defensa",
     "lemon": "Le patron de Canal+, premier financeur du cinéma français, annonce qu’il ne travaillera plus avec les 600 signataires d’une tribune contre son actionnaire Vincent Bolloré",
     "spieg": "German Chancellor Friedrich Merz: \"I Am Dissatisfied with the Prevailing Atmosphere in Germany\"",
@@ -25,15 +26,14 @@
     "elpais": "Moreno pierde la mayoría absoluta en Andalucía y dependerá de Vox para gobernar",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "企業版ふるさと納税で、子育て世帯に食料品支援を　静岡県が制度化",
+    "asahi": "強盗殺人事件、3日後に逮捕された20代夫婦　残された0歳の娘",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "India, Sweden agree to elevate bilateral ties to Strategic Partnership | highlights",
-    "str": "While You Were Sleeping: 5 stories you might have missed, May 18, 2026",
-    "nat": "Looming shutdown: Transporters to begin strike over high fuel prices",
+    "hindu": "IPL 2026 DC vs RR: ‘Starc’s work ethic, preparation with his own plans, training are above par’, says Badani",
+    "str": "Nine hantavirus contact cases due to arrive in Britain",
     "lmaf": "Au Mali, dix civils tués dans des frappes de l’armée",
-    "smh": "Starc fires up with three wickets in an IPL over",
-    "nzh": "Cyclists commute at sunrise on the 'beautiful' Te Ara Tupua",
-    "alj": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+    "smh": "WA news LIVE: WA dairy workers strike for better pay",
+    "nzh": "St Bede's College commissions independent investigation as former priest jailed for sexual abuse",
+    "alj": "Trump holds prayer rally to ‘rededicate’ US as ‘one nation under God’",
     "arab": "Malaysia appoints new anti-graft chief"
   }
 }
