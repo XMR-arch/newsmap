@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-05-24T22:39:48.984Z",
+  "timestamp": "2026-05-24T23:41:53.329Z",
   "headline": "Swim Mistress — Fragments drifting",
-  "intensity": 0.66,
+  "intensity": 0.57,
   "ui_theme": {
     "bar_color": "#2a9d8f",
     "bar_glow": "rgba(42, 157, 143, 0.4)",
     "transition_speed": "1s"
   },
   "region_weights": {
-    "namerica": 42,
-    "europe": 60,
-    "latam": 33,
-    "asia": 43,
-    "mideast": 19,
+    "namerica": 41,
+    "europe": 61,
+    "latam": 38,
+    "asia": 42,
+    "mideast": 18,
     "oceania": 15,
     "africa": 9
   },
   "layout": [
     {
+      "id": "lemon",
+      "cat": "europe",
+      "name": "Le Monde",
+      "weight": 24,
+      "x": 0,
+      "y": 0,
+      "w": 274,
+      "h": 360
+    },
+    {
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 24,
+      "x": 0,
+      "y": 360,
+      "w": 274,
+      "h": 360
+    },
+    {
       "id": "peop",
       "cat": "asia",
       "name": "People's Daily",
-      "weight": 26,
-      "x": 0,
+      "weight": 24,
+      "x": 274,
       "y": 0,
-      "w": 290,
-      "h": 374
+      "w": 263,
+      "h": 376
+    },
+    {
+      "id": "wapo",
+      "cat": "namerica",
+      "name": "Washington Post",
+      "weight": 22,
+      "x": 274,
+      "y": 376,
+      "w": 263,
+      "h": 344
     },
     {
       "id": "nyt",
       "cat": "namerica",
       "name": "New York Times",
-      "weight": 24,
-      "x": 0,
-      "y": 374,
-      "w": 290,
-      "h": 346
-    },
-    {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 22,
-      "x": 290,
-      "y": 0,
-      "w": 348,
-      "h": 264
-    },
-    {
-      "id": "guar",
-      "cat": "europe",
-      "name": "The Guardian",
       "weight": 19,
-      "x": 290,
-      "y": 264,
-      "w": 348,
-      "h": 228
+      "x": 537,
+      "y": 0,
+      "w": 320,
+      "h": 244
     },
     {
       "id": "spieg",
       "cat": "europe",
       "name": "Der Spiegel",
       "weight": 19,
-      "x": 290,
-      "y": 492,
-      "w": 348,
-      "h": 228
-    },
-    {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 19,
-      "x": 637,
-      "y": 0,
-      "w": 321,
-      "h": 246
-    },
-    {
-      "id": "alj",
-      "cat": "mideast",
-      "name": "Al Jazeera",
-      "weight": 19,
-      "x": 959,
-      "y": 0,
-      "w": 321,
-      "h": 246
-    },
-    {
-      "id": "wapo",
-      "cat": "namerica",
-      "name": "Washington Post",
-      "weight": 18,
-      "x": 637,
-      "y": 246,
-      "w": 308,
+      "x": 537,
+      "y": 244,
+      "w": 320,
       "h": 244
+    },
+    {
+      "id": "guar",
+      "cat": "europe",
+      "name": "The Guardian",
+      "weight": 18,
+      "x": 537,
+      "y": 489,
+      "w": 320,
+      "h": 231
     },
     {
       "id": "asahi",
       "cat": "asia",
       "name": "Asahi Shimbun",
-      "weight": 17,
-      "x": 637,
-      "y": 490,
-      "w": 308,
-      "h": 230
+      "weight": 18,
+      "x": 857,
+      "y": 0,
+      "w": 211,
+      "h": 350
+    },
+    {
+      "id": "alj",
+      "cat": "mideast",
+      "name": "Al Jazeera",
+      "weight": 18,
+      "x": 1069,
+      "y": 0,
+      "w": 211,
+      "h": 350
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
       "weight": 15,
-      "x": 945,
-      "y": 246,
-      "w": 335,
-      "h": 187
+      "x": 857,
+      "y": 350,
+      "w": 323,
+      "h": 191
     },
     {
       "id": "folh",
       "cat": "latam",
       "name": "Folha de S.Paulo",
       "weight": 14,
-      "x": 945,
-      "y": 433,
-      "w": 204,
-      "h": 287
+      "x": 857,
+      "y": 542,
+      "w": 323,
+      "h": 178
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
       "weight": 9,
-      "x": 1149,
-      "y": 433,
-      "w": 131,
-      "h": 287
+      "x": 1180,
+      "y": 350,
+      "w": 100,
+      "h": 370
     }
   ]
 }
