@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-02T20:18:47.312Z",
+  "timestamp": "2026-06-02T22:30:38.889Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,13 +11,13 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "New Proposal Would Allow Administration to Block Grants if They Don’t Support Trump’s Agenda",
-    "lat": "Identities released in North Hills murder-suicide that ended lives of two parents, two children",
-    "glob": "RCMP investigates motive behind Saskatchewan shooting that left one dead",
-    "clar": "El sector porcino, entre el crecimiento de las exportaciones y una rentabilidad condicionada por las importaciones desde Brasil",
-    "lnac": "El caso del joven que fue esposado mientras agonizaba sacude a Gran Bretaña y desata una batalla política",
-    "folh": "Concorrente brasileiro do Ozempic chega �s farm�cias a partir de junho por R$ 452 a caneta",
-    "tiemp": "Asopartes advierte sobre millonarias pérdidas por bloqueos en la vía Buga-Buenaventura: &#039;Colombia necesita proteger sus corredores logísticos&#039;",
+    "nyt": "Polls of California Governor’s Race Show a Clear Top 3",
+    "lat": "L.A. Rep. Jimmy Gomez reportedly faces House investigation over sexual misconduct allegations",
+    "glob": "Ontario pledges $4-million for skills education programs with royal ties",
+    "clar": "Iliana Calabró cumplió 60 años y lo celebró con una sesión de fotos y una profunda reflexión: \"Hoy encaro una nueva década\"",
+    "lnac": "Javier Milei y sus medidas, en vivo: el conflicto por los fondos universitarios y la reglamentación de la reforma laboral",
+    "folh": "Lula surfa no patriotismo",
+    "tiemp": "Cayó en Medellín alias &#039;Rottweiler&#039;, peligroso cabecilla que usaba perros raza brava para intimidar y generar miedo en la zona norte de la ciudad",
     "univ": "A nueve días del Mundial, CNTE amenaza con boicot si no dan soluciones; sigue aquí el minuto a minuto",
     "lemon": "Seul(e) dans Alger : comment les opposants du « système » luttent pour préserver l’esprit du Hirak",
     "spieg": "NSDAP archive: How DER SPIEGEL processed the data from the Nazi card file",
@@ -25,15 +25,15 @@
     "elpais": "Feijóo, sobre ir a Waterloo a negociar con Puigdemont la moción de censura: “Hablemos de cosas serias”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "徳島県南部、和歌山県南部で線状降水帯発生　災害発生の危険度高まる",
+    "asahi": "台風6号上陸、和歌山にレベル5氾濫特別警報　運休や欠航相次ぐ",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Farmers who gave land for Parandur airport face uncertainty",
-    "str": "US imposes sanctions on commanders over fighting in eastern Congo",
+    "hindu": "Norway Chess: Beating Carlsen is special, but timing matters more: Praggnanandhaa",
+    "str": "While You Were Sleeping: 5 stories you might have missed, June 3, 2026",
     "nat": "TSC win as court freezes teacher’s reinstatement over exam cheating dispute",
     "lmaf": "Génocide des Tutsi : un mémorial inauguré à Paris par Emmanuel Macron et Paul Kagame",
-    "smh": "Kostyuk&#39;s emotional message after win",
-    "nzh": "Pegasus township hopes to buy back golf course from developer Wolfbrook",
-    "alj": "What to know about Tuesday’s primaries in California, New Jersey, Montana",
+    "smh": "Stabbing victim told police &#34;I can&#39;t breathe&#34;, bodycam footage reveals",
+    "nzh": "Streaming wars: HBO Max reveals prices - so which service is right for you?",
+    "alj": "Trump berated Netanyahu? Analysts question US-Israel feud rumours",
     "arab": "Malaysia appoints new anti-graft chief"
   }
 }
