@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-06-05T21:43:12.841Z",
-  "fetched": 24,
+  "timestamp": "2026-06-05T22:48:05.404Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "U.S. Job Market Pushes Past Shocks and Strains",
-    "lat": "Shaw and Barrera advance to run-off for state schools superintendent",
-    "glob": "Short-term rental hosts cry foul over lack of World Cup demand",
-    "clar": "Método LOCI: cómo funciona esta técnica vinculada a la memoria y al envejecimiento cerebral",
-    "lnac": "Javier Milei y sus medidas, en vivo: la aprobación del pliego de Michelli y la nueva compra de dólares del Banco Central",
-    "folh": "Um passeio afro-�talo-franc�s da artista e do cronista pela cidade",
-    "tiemp": "Crisis hospitalaria en el Valle del Cauca: gobernadora Dilian Francisca Toro exige medidas urgentes tras declarar la emergencia humanitaria en salud",
-    "univ": "Eruviel Ávila y Pepe Couttolenc destacan acciones del Plan Integral Zona Oriente; van de pavimentación a seguridad",
+    "lat": "Santa Monica man pleads guilty to &#x27;doxing&#x27; ICE official",
+    "glob": "Venus and Jupiter cozy up in the night sky",
+    "clar": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, viernes 05 de junio",
+    "lnac": "El luto por la muerte del Indio Solari revoluciona Plaza de Mayo con una “misa ricotera” que une a distintas generaciones",
+    "folh": "Chega logo, C�pula do Mundo!",
+    "tiemp": "Santa Marta vuelve a perder el control de sus presos: nueva fuga masiva desborda la crisis carcelaria de la ciudad; 17 sujetos permanecen prófugos",
+    "univ": "Sheinbaum reconoce a maestros en medio de protestas de la CNTE; destaca papel de la escuela pública",
     "lemon": "EN DIRECT, affaire Lyhanna : Gérald Darmanin présente ses « excuses » à la famille pour les « défaillances » de la justice",
     "spieg": "NSDAP archive: How DER SPIEGEL processed the data from the Nazi card file",
     "guar": "‘Family values’ African charter condemned by rights groups as regressive and dangerous",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "マンション敷地で男性と長男倒れ死亡、自宅では妻死亡　大阪・富田林",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Spain thrash England 4-0, Germany qualify for Women's World Cup finals",
-    "str": "Palestinian baby killed by Israeli gunfire in occupied West Bank, health ministry says",
-    "nat": "New labour rules lift house help minimum wage to Sh18,047",
+    "hindu": "Israel-Iran war LIVE: Iran dismisses idea of Trump meeting Supreme Leader",
+    "str": "Putin held 'friendly one-on-one meeting' with Germany's Schroeder, Kremlin says",
     "lmaf": "Au Mali, un agent de la DGSE condamné à vingt ans de prison par la junte au pouvoir",
-    "smh": "Anthony Head, of Buffy the Vampire Slayer and Ted Lasso fame, dies at 72",
-    "nzh": "Person stabbed at central Auckland Kainga Ora complex",
+    "smh": "Some commuters can finally ditch myki cards. But there are key exceptions",
+    "nzh": "Wairarapa MP Mike Butterick's National Party swag bags upset parents",
     "alj": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-    "arab": "Malaysia appoints new anti-graft chief"
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
