@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-06-07T22:32:59.649Z",
-  "headline": "Swim Mistress — Surface tension rising",
-  "intensity": 0.48,
+  "timestamp": "2026-06-07T23:39:57.697Z",
+  "headline": "Swim Mistress — Pressure building",
+  "intensity": 0.74,
   "ui_theme": {
-    "bar_color": "#2a9d8f",
-    "bar_glow": "rgba(42, 157, 143, 0.4)",
-    "transition_speed": "1s"
+    "bar_color": "#e76f51",
+    "bar_glow": "rgba(231, 111, 81, 0.6)",
+    "transition_speed": "0.4s"
   },
   "region_weights": {
-    "namerica": 46,
-    "europe": 56,
-    "latam": 38,
-    "asia": 39,
-    "mideast": 17,
+    "namerica": 40,
+    "europe": 53,
+    "latam": 43,
+    "asia": 40,
+    "mideast": 21,
     "oceania": 12,
     "africa": 11
   },
   "layout": [
     {
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 25,
+      "x": 0,
+      "y": 0,
+      "w": 273,
+      "h": 383
+    },
+    {
       "id": "nyt",
       "cat": "namerica",
       "name": "New York Times",
-      "weight": 28,
+      "weight": 22,
       "x": 0,
-      "y": 0,
-      "w": 304,
-      "h": 388
+      "y": 383,
+      "w": 273,
+      "h": 337
     },
     {
       "id": "guar",
       "cat": "europe",
       "name": "The Guardian",
-      "weight": 24,
-      "x": 0,
-      "y": 388,
-      "w": 304,
-      "h": 332
+      "weight": 22,
+      "x": 273,
+      "y": 0,
+      "w": 250,
+      "h": 368
+    },
+    {
+      "id": "asahi",
+      "cat": "asia",
+      "name": "Asahi Shimbun",
+      "weight": 21,
+      "x": 273,
+      "y": 368,
+      "w": 250,
+      "h": 352
+    },
+    {
+      "id": "alj",
+      "cat": "mideast",
+      "name": "Al Jazeera",
+      "weight": 21,
+      "x": 524,
+      "y": 0,
+      "w": 337,
+      "h": 261
     },
     {
       "id": "peop",
       "cat": "asia",
       "name": "People's Daily",
-      "weight": 21,
-      "x": 304,
-      "y": 0,
-      "w": 240,
-      "h": 369
-    },
-    {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 20,
-      "x": 304,
-      "y": 369,
-      "w": 240,
-      "h": 351
+      "weight": 19,
+      "x": 524,
+      "y": 261,
+      "w": 337,
+      "h": 236
     },
     {
       "id": "wapo",
       "cat": "namerica",
       "name": "Washington Post",
       "weight": 18,
-      "x": 544,
+      "x": 524,
+      "y": 497,
+      "w": 337,
+      "h": 223
+    },
+    {
+      "id": "lemon",
+      "cat": "europe",
+      "name": "Le Monde",
+      "weight": 18,
+      "x": 861,
       "y": 0,
-      "w": 316,
-      "h": 240
+      "w": 209,
+      "h": 360
     },
     {
       "id": "folh",
       "cat": "latam",
       "name": "Folha de S.Paulo",
       "weight": 18,
-      "x": 544,
-      "y": 240,
-      "w": 316,
-      "h": 240
-    },
-    {
-      "id": "asahi",
-      "cat": "asia",
-      "name": "Asahi Shimbun",
-      "weight": 18,
-      "x": 544,
-      "y": 480,
-      "w": 316,
-      "h": 240
-    },
-    {
-      "id": "alj",
-      "cat": "mideast",
-      "name": "Al Jazeera",
-      "weight": 17,
-      "x": 859,
+      "x": 1071,
       "y": 0,
-      "w": 217,
-      "h": 330
-    },
-    {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 16,
-      "x": 1076,
-      "y": 0,
-      "w": 204,
-      "h": 330
+      "w": 209,
+      "h": 360
     },
     {
       "id": "spieg",
       "cat": "europe",
       "name": "Der Spiegel",
-      "weight": 16,
-      "x": 859,
-      "y": 330,
-      "w": 302,
-      "h": 223
+      "weight": 13,
+      "x": 861,
+      "y": 360,
+      "w": 291,
+      "h": 187
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
       "weight": 12,
-      "x": 859,
-      "y": 553,
-      "w": 302,
-      "h": 167
+      "x": 861,
+      "y": 547,
+      "w": 291,
+      "h": 173
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
       "weight": 11,
-      "x": 1161,
-      "y": 330,
-      "w": 119,
-      "h": 390
+      "x": 1152,
+      "y": 360,
+      "w": 128,
+      "h": 360
     }
   ]
 }
