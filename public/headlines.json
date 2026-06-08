@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-08T22:11:18.852Z",
+  "timestamp": "2026-06-08T23:36:23.749Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,29 +11,29 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
-    "lat": "Bacteria found in Target baby wipes could be life-threatening to infants; recall underway",
-    "glob": "Military sexual assault survivors criticize reform bill, say it leaves them with less choice",
-    "clar": "Quiniela de Santa Fe: resultado del sorteo de la Vespertina de hoy, lunes 08 de junio",
-    "lnac": "Adiós Ron DeSantis: Donald Trump tomó una decisión y se inclinó por Todd Blanche",
-    "folh": "Filme com Angelina Jolie e &apos;A Dama&apos;: o que ver na TV e no streaming nesta ter�a-feira",
-    "tiemp": "Más de 100 familias productoras de cebolla afectadas por perder su cultivo en Berlín tras desbordamiento de río: hay alerta en varios municipios",
-    "univ": "Caso Ayotzinapa: Padres acusan \"puerquero\" con líneas de investigación; señalan operativo en su contra para evitar llegar con la CNTE",
-    "lemon": "Affaire Lyhanna : Gérald Darmanin sur une ligne de crête entre opinion et magistrats",
+    "nyt": "Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud",
+    "lat": "Many Californians feared federal meddling in elections before Trump&#x27;s latest baseless attacks, poll finds",
+    "glob": "Demolition derbies help LGBTQ racers smash gender norms and build community",
+    "clar": "Cayó \"Plin\", uno de los delincuentes más buscados en Santa Fe: lo capturaron en un boliche de San Telmo",
+    "lnac": "Scaloni se refirió a su relación con Messi y a una publicación que causó su enojo: “No me gustó, me jodió”",
+    "folh": "Presidente da Bol�via diz que protestos no pa�s s�o impulsionados por &apos;narcoterroristas&apos;",
+    "tiemp": "Condenan a 7 años de prisión a exfiscal del Cauca por favorecer a extraditable: omitió circular de Interpol, mientras Estados Unidos requería al narco",
+    "univ": "“La noticia que no mancha, tizna”; coordinador del PT admite que acusaciones de narcopolítica afectan percepción de la ciudadanía",
+    "lemon": "« L’Iran montre clairement qu’il n’est ni dissuadé ni vaincu, et qu’il ne baisse pas les bras » : en Israël, les questions et les craintes après l’escalade militaire",
     "spieg": "Hungarian Premier Péter Magyar: 'Our Country Was a Hostage State'",
-    "guar": "‘Extreme fear’ among immigrants as backlash sweeps South Africa",
+    "guar": "Bandits in north-west Nigeria abduct villagers they invited to discuss peace talks",
     "elpais": "El Papa define la pederastia como una “plaga” y pide a los obispos “cambios reales de sanación”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "運転手は「知人→知人→知人」部活バス事故、紹介者たちが語った経緯",
+    "asahi": "新名神の6人死亡事故、あす初公判　厳罰化後も減らぬ「ながら運転」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "West Bengal joins Ayushman Bharat scheme",
-    "str": "Iran, Israel say hostilities on hold after first attacks since truce",
+    "hindu": "West Asia war updates: Netanyahu acknowledges halt in fighting with Iran but vows to respond 'with force' to future attacks",
+    "str": "Three killed in Russian attacks on Ukraine's Kharkiv region, governor says",
     "nat": "Driver behaviour main cause for Kenya’s high traffic deaths",
     "lmaf": "En Algérie, l’inlassable attente d’une relation apaisée avec la France : « Pour mes enfants, je veux qu’on se réconcilie et qu’on tourne la page »",
-    "smh": "Idris Elba addresses James Bond rumours: ‘That’s not what they like’",
-    "nzh": "Mandatory public insurance levy? Paying the price for climate change",
-    "alj": "US confirms it denied entry to Somali referee set to take part in World Cup",
-    "arab": "Gaza mosques announce death of Hamas military leader after Israeli targeting claim"
+    "smh": "WA news LIVE: Albany residents divided on shark cull proposal after fatal attack",
+    "nzh": "The small New Zealand town that took on Harrods",
+    "alj": "Tech giant OpenAI files for US initial public offering",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
