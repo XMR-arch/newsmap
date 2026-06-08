@@ -5,8 +5,8 @@
   padding: 0 8px;
   gap: 2px;
   background: var(--surface);
-  border-top: 0.5px solid rgba(57, 255, 20, 0.15);
-  box-shadow: 0 -4px 20px rgba(57, 255, 20, 0.05);
+  border-top: 0.5px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 -4px 20px rgba(255, 255, 255, 0.02);
   flex-shrink: 0;
   overflow-x: auto;
 }
@@ -25,7 +25,7 @@
   font-size: 10px;
   font-family: var(--font-mono);
   letter-spacing: 0.03em;
-  color: var(--muted);
+  color: #666666;
   border: 0.5px solid transparent;
   transition: all 0.2s;
   flex-shrink: 0;
@@ -34,20 +34,17 @@
 }
 
 .item:hover {
-  color: var(--text);
+  color: #cccccc;
   background: rgba(255, 255, 255, 0.05);
-  box-shadow: 0 0 8px rgba(255,255,255,0.08);
 }
 
 .item.active {
-  color: var(--accent);
-  background: var(--accent-dim);
-  border-color: rgba(200, 169, 110, 0.35);
+  color: #ffffff;
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.25);
   box-shadow:
-    0 0 10px rgba(200, 169, 110, 0.3),
-    0 0 22px rgba(200, 169, 110, 0.12),
-    inset 0 0 8px rgba(200, 169, 110, 0.08);
-  text-shadow: 0 0 8px rgba(200, 169, 110, 0.6);
+    0 0 10px rgba(255, 255, 255, 0.06),
+    inset 0 0 8px rgba(255, 255, 255, 0.02);
 }
 
 .dot {
@@ -55,8 +52,7 @@
   height: 6px;
   border-radius: 2px;
   flex-shrink: 0;
-  background-color: var(--accent);
-  box-shadow: 0 0 6px var(--neon-gold-glow);
+  background-color: #ffffff;
 }
 
 .label {
