@@ -36,17 +36,16 @@
 
 @keyframes pulse {
   0%, 100% { opacity: 0.2; }
-  50% { opacity: 1; }
+  50%       { opacity: 1;   }
 }
 
-/* ====================== STATE BANNER ====================== */
+/* ====================== BANNER ====================== */
 .stateBanner {
-  background: #0f0f0f;
-  color: white;
+  background: #111111;
+  color: #ffffff;
   padding: 20px 24px;
   text-align: center;
-  border-bottom: 4px solid #ffffff;
-  box-shadow: 0 4px 15px rgba(255, 255, 255, 0.08);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .headline {
