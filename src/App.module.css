@@ -1,6 +1,5 @@
 /* src/App.module.css */
 
-/* ====================== ESTILOS BASE ====================== */
 .app {
   min-height: 100vh;
   background: #000000;
@@ -15,7 +14,6 @@
   min-height: 70vh;
 }
 
-/* Loading */
 .loading {
   position: absolute;
   top: 50%;
@@ -39,66 +37,6 @@
   50%       { opacity: 1;   }
 }
 
-/* ====================== BANNER ====================== */
-.stateBanner {
-  background: #111111;
-  color: #ffffff;
-  padding: 20px 24px;
-  text-align: center;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-}
-
-.headline {
-  font-size: 1.75rem;
-  font-weight: 700;
-  margin: 0 0 14px 0;
-  letter-spacing: -0.02em;
-  color: #ffffff;
-}
-
-.intensityContainer {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-  margin: 12px 0;
-}
-
-.intensityLabel {
-  font-size: 1rem;
-  font-weight: 500;
-  opacity: 0.7;
-  min-width: 70px;
-}
-
-.intensityBar {
-  height: 10px;
-  background: rgba(255, 255, 255, 0.1);
-  border-radius: 9999px;
-  width: 260px;
-  overflow: hidden;
-}
-
-.intensityFill {
-  height: 100%;
-  background: #ffffff;
-  transition: width 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
-}
-
-.intensityValue {
-  font-size: 1.45rem;
-  font-weight: 700;
-  color: #ffffff;
-  min-width: 65px;
-}
-
-.timestamp {
-  font-size: 0.92rem;
-  opacity: 0.5;
-  margin-top: 8px;
-}
-
-/* ====================== OTROS ====================== */
 .container {
   max-width: 1200px;
   margin: 0 auto;
