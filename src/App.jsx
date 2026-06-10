@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo, useRef } from 'react';
+import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
 
 import { useNewsAPI } from './hooks/useNewsAPI.js';
 import { useGeolocation } from './hooks/useGeolocation.js';
@@ -15,6 +15,15 @@ export default function App() {
   const [date, setDate]               = useState(() => new Date().toISOString().split('T')[0]);
   const [countryFilter]               = useState(null);
   const [searchQuery, setSearchQuery] = useState('');
+
+  const [externalState, setExternalState] = useState(null);
+
+  useEffect(() => {
+    fetch('/state.json')
+      .then(res => { if (!res.ok) throw new Error(); return res.json() })
+      .then(data => setExternalState(data))
+      .catch(() => {});
+  }, []);
 
   const { stats, update: updateHud } = useHud();
   const { country, city, loading: locating, detect } = useGeolocation();
@@ -74,6 +83,23 @@ export default function App() {
         onDateChange={setDate}
         onSearch={setSearchQuery}
       />
+
+      {externalState && (
+        <div className={styles.stateBanner}>
+          <div className={styles.intensityContainer}>
+            <span className={styles.intensityLabel}>Intensity</span>
+            <div className={styles.intensityBar}>
+              <div
+                className={styles.intensityFill}
+                style={{ width: `${externalState.intensity * 100}%` }}
+              />
+            </div>
+            <span className={styles.intensityValue}>
+              {(externalState.intensity * 100).toFixed(0)}%
+            </span>
+          </div>
+        </div>
+      )}
 
       <div className={styles.stage}>
         {newsLoading && (
