@@ -4,8 +4,7 @@
   min-height: 100vh;
   background: #000000;
   color: #ffffff;
-  font-family: 'DM Sans', system-ui, sans-serif;
-  padding-top: 48px;
+  font-family: 'Inter', system-ui, sans-serif;
 }
 
 .stage {
@@ -35,6 +34,50 @@
 @keyframes pulse {
   0%, 100% { opacity: 0.2; }
   50%       { opacity: 1;   }
+}
+
+/* ── BARRA DE INTENSIDAD ── */
+.stateBanner {
+  background: #111111;
+  padding: 10px 24px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.intensityContainer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.intensityLabel {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #666666;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  min-width: 60px;
+}
+
+.intensityBar {
+  height: 6px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 9999px;
+  flex: 1;
+  max-width: 260px;
+  overflow: hidden;
+}
+
+.intensityFill {
+  height: 100%;
+  background: #ffffff;
+  transition: width 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.intensityValue {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #ffffff;
+  min-width: 40px;
 }
 
 .container {
