@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-11T16:43:03.387Z",
+  "timestamp": "2026-06-11T19:25:02.703Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,15 +11,15 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Trump and Hegseth Broadcast U.S. Military Strikes Before They Happen",
-    "lat": "El Niño is here, and chances are it&#x27;ll be a doozy. What that means for California",
-    "glob": "Gordie Howe bridge opening delayed as Canada and U.S. try to resolve ‘outstanding issues’",
-    "clar": "La revancha de Omar Artan: el árbitro al que le negaron entrar a Estados Unidos para dirigir en el Mundial, tendrá una final en Europa",
+    "nyt": "Trump Picks Jay Clayton for Director of National Intelligence After Backlash Over Bill Pulte",
+    "lat": "ICE retaliated against hunger striking detainees at Adelanto facility, immigration advocates say",
+    "glob": "Quebec bans energy drinks for children under 16",
+    "clar": "La industria aceitera acelera el ritmo: crece la molienda de soja y el girasol bate nuevos récords",
     "lnac": "Evo Morales encabezó una marcha para pedir la renuncia de Rodrigo Paz",
-    "folh": "Luana Piovani anuncia boicote � Copa do Mundo e critica Fifa e Trump",
-    "tiemp": "El Caribe presenta plan de acción para hacer frente a la crisis energética que enfrenta la región y que amenaza con apagón a todo el país",
-    "univ": "Sheinbaum va por combatir al gusano barrenador; biofábrica de moscas estériles en Chiapas será inaugurada a finales de junio",
-    "lemon": "Affaire Lyhanna : Jérôme Barella avait été signalé à la police française par un organisme antipédocriminalité américain",
+    "folh": "Mulher que fingia ser crian�a em Joinville (SC) faz anivers�rio de 38 anos na pris�o",
+    "tiemp": "Cuestionado hombre de confianza de Daniel Quintero fue designado por la Supersalud para hacer el empalme de la EPS Savia Salud",
+    "univ": "CNTE finaliza marcha sin llegar al Estadio CDMX; se dirigen de vuelta a su campamento en el Centro Histórico",
+    "lemon": "EN DIRECT, Mexique - Afrique du Sud : Julian Quiñones fait chavirer le stade Azteca en inscrivant le premier but de la Coupe du monde pour le Mexique",
     "spieg": "Our Warming Climate: A Pilot Project in Norway Raises Doubts about CCS Sustainability",
     "guar": "London council seizes social housing flat rented by Sierra Leone first lady",
     "elpais": "Todas las selecciones del Mundial 2026 en Estados Unidos, Canadá y México",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "12時間後の「残り酒」で飲酒運転、免職は「適法」　職員が逆転敗訴",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Kalyan Banerjee calls Abhishek ‘arrogant’; gives ultimatum to Mamata",
-    "str": "US Supreme Court overturns ex-Twitter employee's obstruction conviction in Saudi spy case",
-    "nat": "Live Blog: CS Mbadi reads 2026/27 Budget in Parliament",
+    "hindu": "Legislature panel visits K.R. Hospital",
+    "str": "Indian sailors, ship fined $6 million in Lagos cocaine case",
+    "nat": "Treasury shifts to zero-based budgeting",
     "lmaf": "L’Allemagne accusée de tenir les Africains à l’écart des négociations climatiques de Bonn en ne délivrant pas de visas",
-    "smh": "Australia lose an ODI series to Bangladesh for the first time after horror collapse",
-    "nzh": "More than 1000 Gisborne young people don't have proper home, study shows",
-    "alj": "Stephen Miller’s War",
-    "arab": "Malaysia appoints new anti-graft chief"
+    "smh": "ASX set to jump, Wall Street rebounds as Trump calls off Iran attacks",
+    "nzh": "Wellington's $1b wastewater problem and it's not Moa Point: Warnings over Seaview plant",
+    "alj": "Musk’s Grok accused of violating Canadian privacy laws on deepfakes",
+    "arab": "Gaza mosques announce death of Hamas military leader after Israeli targeting claim"
   }
 }
