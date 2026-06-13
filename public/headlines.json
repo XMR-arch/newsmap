@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-13T19:26:37.509Z",
+  "timestamp": "2026-06-13T20:48:30.544Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,14 +11,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Kennedy Center Removes Trump’s Name From Facade",
-    "lat": "Federal judge rejects fired biologist&#x27;s free speech lawsuit over Yosemite trans flag demonstration",
-    "glob": "Inside the efforts to restore B.C.’s secret, ancient sea gardens",
-    "clar": "Cada satélite GPS se lanza con un reloj programado para funcionar más lento por una razón que confirmó Einstein",
-    "lnac": "A qué hora de EE.UU. juega Brasil vs. Marruecos, hoy: transmisión en vivo del Mundial 2026 en Nueva York",
-    "folh": "Mulher morre ap�s ser lan�ada sem cordas em salto de &apos;rope jump&apos; no interior de SP",
+    "nyt": "Trump Is Losing Ground With White Working-Class Voters on the Economy",
+    "lat": "UC Berkeley doctoral student accused of espionage, Chinese authorities say",
+    "glob": "Five children killed, six injured in two-vehicle crash near Guelph, Ont.",
+    "clar": "F1 GP de Barcelona-Cataluña: horarios de la carrera, cómo y dónde ver la Fórmula 1",
+    "lnac": "Qatar vs. Suiza, en vivo por el Mundial 2026: el minuto a minuto del partido",
+    "folh": "Igor Thiago e Ibanez s�o titulares da estreia do Brasil",
     "tiemp": "Tragedia en Cali: muere estudiante menor de edad tras el desplome de un arco en paseo escolar",
-    "univ": "PRI busca agravar delito de trata de menores mediante uso de videojuegos o redes sociales; impulsa iniciativa en San Lázaro",
+    "univ": "Trece egresados de la UNAM reciben beca Fulbright-García Robles; llevarán su conocimiento a universidades de EU",
     "lemon": "EN DIRECT, guerre au Moyen-Orient : Donald Trump affirme que la signature d’un accord avec l’Iran est prévue pour dimanche",
     "spieg": "The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files",
     "guar": "London council seizes social housing flat rented by Sierra Leone first lady",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "大阪市で男性が頭殴られ、500万円奪われる「車買い取りで」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Qatar vs Switzerland LIVE, FIFA World Cup 2026: Group B match gets underway",
-    "str": "Amazon voiced concerns about Anthropic AI models before US  government’s crackdown, source says",
+    "hindu": "Qatar vs Switzerland LIVE, FIFA World Cup 2026: First Half ends with Qatar 0, Switzerland 1",
+    "str": "Mexico investigates murder of mayor of town in Oaxaca state",
     "nat": "Engineers caught up in fresh court battle over elections freeze order",
     "lmaf": "La Turquie, puissant parrain de la Somalie en crise",
-    "smh": "FIFA World Cup 2026 LIVE updates: Australia’s Socceroos start campaign against Turkey",
-    "nzh": "Review: Lego back with its winning formula in new Batman game",
-    "alj": "‘Not in my name’: The Jewish diaspora fighting the consensus on Israel",
-    "arab": "Gaza mosques announce death of Hamas military leader after Israeli targeting claim"
+    "smh": "Popovic ready for World Cup as rivals make a statement",
+    "nzh": "Residents furious at two months of Wellington Water's noisy overnight works",
+    "alj": "Will the new EU migration rules work?",
+    "arab": "El-Sisi says Egypt in ‘state of near-emergency’ as war threatens economy"
   }
 }
