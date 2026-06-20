@@ -1,25 +1,31 @@
 {
-  "timestamp": "2026-06-20T18:01:52.743Z",
-  "fetched": 24,
+  "timestamp": "2026-06-20T19:49:30.489Z",
+  "fetched": 18,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
+    "lmaf",
+    "smh",
     "taus",
-    "haar"
+    "nzh",
+    "alj",
+    "haar",
+    "arab"
   ],
   "headlines": {
     "nyt": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
     "lat": "Lopez: They found a new park hiding in plain sight in the middle of Los Angeles",
-    "glob": "Evacuation order issued to Lytton, B.C., as wildfire burns",
-    "clar": "Ecuador necesita reaccionar, pero  Beccacece abre el paraguas antes de enfrentar a Curazao: \"No somos Alemania\"",
-    "lnac": "Dibu Martínez y Chiqui Tapia compartieron la intimidad de un nuevo asado de la selección en el Mundial",
-    "folh": "Dua Lipa divulga primeiras fotos do casamento com Callum Turner; veja",
-    "tiemp": "Los puntos claves del discurso del presidente Gustavo Petro durante su acto de rendición de cuentas en Cali: salud, educación y denuncias",
-    "univ": "\"No estamos pidiendo privilegios\", dice CNTE tras retirar plantón en la CDMX; \"la lucha sigue\", advierte",
-    "lemon": "EN DIRECT, guerre au Moyen-Orient : Israël et le Hezbollah s’accusent de violations du cessez-le-feu au Liban",
+    "glob": "SUV driver dies after crash that killed five siblings in southern Ontario",
+    "clar": "Choque de trenes en Múnich: un muerto y vagones caídos sobre la calle tras una colisión en un puente",
+    "lnac": "Países Bajos goleó a Suecia con contundencia y logró su primer triunfo en el Mundial 2026",
+    "folh": "Pol�cia Federal abre investiga��o sobre invas�o de sistema da Defesa Civil",
+    "tiemp": "No fue solo en La Guajira: ANT ha delimitado 23 zonas indígenas autónomas, ¿cuáles son?",
+    "univ": "Junto a estudiantes y dos robots, Sheinbaum inaugura CBTIS 290 en Tijuana, BC; plantel se especializa en IA y robótica",
+    "lemon": "EN DIRECT, canicule : 26 millions de personnes concernées par la vigilance rouge déclarée pour 35 départements dimanche",
     "spieg": "The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files",
     "guar": "Global framework for reparatory justice adopted at landmark Ghana conference",
     "elpais": "Peinado abre juicio oral a Begoña Gómez y le retira el pasaporte",
@@ -27,13 +33,7 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "「刺された人がいる」病院から通報　横浜・三ツ沢公園で男性が被害か",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "18k farmers receive first instalment of Annadata Sukhibhava",
-    "str": "Chicago police investigate shooting that left 12 injured",
-    "nat": "Sakaja on the hot seat over Sh2.7bn revenue collection system, Sh850m server room",
-    "lmaf": "Hervé Renard au chevet d’un football tunisien plongé dans la crise après ses débuts ratés lors de la Coupe du monde 2026",
-    "smh": "Mooney scare mars Australia’s T20 World Cup win over Dutch",
-    "nzh": "Wildfires in Canterbury brought mostly under control",
-    "alj": "US-Iran talks to kick off Sunday in Switzerland, says Pakistan",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "hindu": "Man detained after refusing to step out from coach reserved for women",
+    "str": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region"
   }
 }
