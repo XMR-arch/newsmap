@@ -1,30 +1,24 @@
 {
-  "timestamp": "2026-06-20T19:49:30.489Z",
-  "fetched": 18,
+  "timestamp": "2026-06-20T20:57:59.591Z",
+  "fetched": 24,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
-    "nat",
     "mav",
-    "lmaf",
-    "smh",
     "taus",
-    "nzh",
-    "alj",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
     "nyt": "Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later",
-    "lat": "Lopez: They found a new park hiding in plain sight in the middle of Los Angeles",
+    "lat": "A gentrification battle in Boyle Heights over a proposed tax to clean streets",
     "glob": "SUV driver dies after crash that killed five siblings in southern Ontario",
-    "clar": "Choque de trenes en Múnich: un muerto y vagones caídos sobre la calle tras una colisión en un puente",
-    "lnac": "Países Bajos goleó a Suecia con contundencia y logró su primer triunfo en el Mundial 2026",
-    "folh": "Pol�cia Federal abre investiga��o sobre invas�o de sistema da Defesa Civil",
-    "tiemp": "No fue solo en La Guajira: ANT ha delimitado 23 zonas indígenas autónomas, ¿cuáles son?",
-    "univ": "Junto a estudiantes y dos robots, Sheinbaum inaugura CBTIS 290 en Tijuana, BC; plantel se especializa en IA y robótica",
+    "clar": "\"La gente lloraba, gritaba\": el relato de un pasajero tras el choque de dos trenes al norte de Londres",
+    "lnac": "Cómo va Alemania vs. Costa de Marfil por el Mundial 2026",
+    "folh": "Google atualiza informa��es no Maps ap�s exibir alertas falsos da Defesa Civil",
+    "tiemp": "Cayó alias ‘Vivi Puñaleto’ en redada de las autoridades contra las disidencias ante elecciones presidenciales en Guaviare",
+    "univ": "FGR pone en marcha operativo contra trata y explotación sexual de menores en el Mundial; habilita micrositio para denunciar",
     "lemon": "EN DIRECT, canicule : 26 millions de personnes concernées par la vigilance rouge déclarée pour 35 départements dimanche",
     "spieg": "The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files",
     "guar": "Global framework for reparatory justice adopted at landmark Ghana conference",
@@ -33,7 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "「刺された人がいる」病院から通報　横浜・三ツ沢公園で男性が被害か",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Man detained after refusing to step out from coach reserved for women",
-    "str": "Ukraine's Zelenskiy confirms drone strike on refining facilities in Russia's Tyumen region"
+    "hindu": "FIFA World Cup 2026 | Germany vs Côte d'Ivoire LIVE: Group E match gets underway",
+    "str": "Iran negotiators head for Switzerland as Trump threatens US tolls on Strait of Hormuz",
+    "nat": "At least 30 deaths at Congo camp show Ebola could be spreading fast",
+    "lmaf": "Hervé Renard au chevet d’un football tunisien plongé dans la crise après ses débuts ratés lors de la Coupe du monde 2026",
+    "smh": "Iran claims it has closed Strait of Hormuz as Trump threatens tolls if deal not reached in 60 days",
+    "nzh": "Autistic, non-verbal man missing in Hanmer Springs",
+    "alj": "Bolivia declares state of emergency to clear protest blockades",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
