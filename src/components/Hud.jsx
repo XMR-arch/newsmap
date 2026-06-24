@@ -10,8 +10,8 @@ export function useHud() {
 export default function Hud({ stats }) {
   return (
     <div className={styles.hud}>
-      <span className={styles.val}>{stats.blocks}</span> portadas ·{' '}
-      <span className={styles.val}>{stats.layouts}</span> layouts/frame ·{' '}
+      <span className={styles.val}>{stats.blocks}</span> 1면 ·{' '}
+      <span className={styles.val}>{stats.layouts}</span> 레이아웃/프레임 ·{' '}
       <span className={styles.val}>{stats.ms}</span>ms · Pretext
     </div>
   )
