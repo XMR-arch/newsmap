@@ -55,9 +55,11 @@ async function fetchFrontPages(country, date) {
  */
 export function useNewsAPI({ country = null, date = null } = {}) {
   return useQuery({
-    queryKey:        ['front-pages', country, date],
-    queryFn:         () => fetchFrontPages(country, date),
-    placeholderData: DEMO_PAPERS,
-    staleTime:       1000 * 60 * 5, // 5 minutos
+    queryKey:                    ['front-pages', country, date],
+    queryFn:                     () => fetchFrontPages(country, date),
+    placeholderData:             DEMO_PAPERS,
+    staleTime:                   1000 * 60 * 5,
+    refetchInterval:             1000 * 60 * 5,
+    refetchIntervalInBackground: true,
   });
 }

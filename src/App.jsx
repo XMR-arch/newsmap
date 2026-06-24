@@ -27,12 +27,11 @@ export default function App() {
   const firstGoodResponse = useRef(null);
 
   const stablePapers = useMemo(() => {
-    if (firstGoodResponse.current) return firstGoodResponse.current;
     if (papers.length >= 10) {
       firstGoodResponse.current = papers;
       return papers;
     }
-    return papers;
+    return firstGoodResponse.current ?? papers;
   }, [papers]);
 
   const filteredPapers = useMemo(() => {
