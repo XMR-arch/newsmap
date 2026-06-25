@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-25T22:43:39.509Z",
+  "timestamp": "2026-06-25T23:59:23.612Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -12,12 +12,12 @@
   ],
   "headlines": {
     "nyt": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
-    "lat": "National Park staff ordered not to reveal deaths as part of new policy, report says",
-    "glob": "Ottawa sending $5-million in humanitarian aid to Venezuelans hit by earthquakes",
-    "clar": "Los venezolanos buscan a sus víctimas de entre los escombros: “Lo que nos faltaba”, dicen con resignación en Caracas",
-    "lnac": "Del papel al posicionamiento digital: una de las ciencias más antiguas de la humanidad celebra su día con novedades",
-    "folh": "Argentina celebra os 48 anos de seu primeiro t�tulo mundial",
-    "tiemp": "Así buscan atrapar en Barranquilla al mosquito del dengue antes de que pique: una nueva tecnología promete reconocerlo por su vuelo",
+    "lat": "Rotting meat, foul smell at site of Boyle Heights warehouse fire",
+    "glob": "Remote First Nation in Ontario breaks ground on road to Ring of Fire mining region",
+    "clar": "La boya que combate las invasiones de medusas y evita paradas de emergencia en centrales nucleares",
+    "lnac": "Malena Ramos Mejía, nutricionista: “El gluten lastima el intestino del 100% de las personas”",
+    "folh": "Felipe Hirsch estreia Orkh�stra Ph�ntasma no Sesc Vila Mariana em SP",
+    "tiemp": "Cayó por intentar robar a un policía: el fin del peligroso delincuente de Santa Marta que se paseaba por Estados Unidos viendo a la Selección Colombia",
     "univ": "Sheinbaum recibe al rey Felipe VI de España en Palacio Nacional; es la primera visita oficial en 7 años",
     "lemon": "EN DIRECT, canicule : « 50 000 clients privés d’électricité » selon Enedis, en raison des chaleurs exceptionnelles",
     "spieg": "The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files",
@@ -25,15 +25,15 @@
     "elpais": "En el epicentro del terremoto de Venezuela: “Una máquina, por favor. Necesito a mi hermana que está ahí abajo”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "「本当にありがとう」　ベルギー国王夫妻と別れ　両陛下、帰国の途に",
+    "asahi": "子どもの名づけ、使える漢字3千字に　裁判所の決定受け「勒」を追加",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "CPI(M) faults govt.’s claims on reduction in power tariffs",
-    "str": "Latin America's 10 deadliest earthquakes",
+    "hindu": "U.S. House Speaker Johnson tries to patch things up between Trump and Congress",
+    "str": "Russia-controlled areas of Ukraine's Kherson left with no power, Moscow official says",
     "nat": "Tribunal temporarily reinstates Nicco Movers licence pending appeal",
     "lmaf": "Coupe du monde 2026 : Elye Wahi, au cœur de la tourmente, a une carte à jouer sur le front de l’attaque ivorienne",
-    "smh": "Murder charge laid after fiery crash north of Geraldton",
-    "nzh": "Research looks into bowel cancer in younger people as early-onset cases increase",
-    "alj": "Ecuador edge Germany 2-1 to squeeze into World Cup last 32",
+    "smh": "Australia news LIVE: Karl Stefanovic leaves Nine; Venezuela toll rises after twin earthquakes",
+    "nzh": "Watchdog investigating Police Commissioner Richard Chambers since December",
+    "alj": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
     "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
