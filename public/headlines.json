@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-06-27T20:44:23.064Z",
-  "fetched": 24,
+  "timestamp": "2026-06-27T21:44:53.213Z",
+  "fetched": 23,
   "failed": [
     "wapo",
+    "lnac",
     "terc",
     "com",
     "chos",
@@ -11,13 +12,12 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "In Strait of Hormuz, Renewed Strikes Threaten to Set Back Shipping Recovery",
-    "lat": "Hazardous waste removal at Garden Grove&#x27;s GKN Aerospace starts Monday. Here&#x27;s what to expect",
+    "nyt": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
+    "lat": "Ahoy! SoCal deputies recover boat stolen from Marina del Rey Sea Scouts",
     "glob": "Top executive at Métis Nation of Alberta leaves organization",
-    "clar": "Un histórico de la selección uruguaya fue lapidario con Bielsa: \"Contaminó el ambiente y se amarró a un contrato millonario\"",
-    "lnac": "Top 14 de URBA: Newman le ganó como visitante a CUBA y le sacó más ventaja a Hindú",
-    "folh": "Capela dos Aflitos, marco da hist�ria negra do centro de SP, reabre ap�s dois anos de restaura��o",
-    "tiemp": "Terremotos en Venezuela: rescatistas colombianos salvan a un niño de 11 años que estaba bajo toneladas de escombros de la tragedia en La Guaira",
+    "clar": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, sábado 27 de junio",
+    "folh": "Trump nomeia Lance Schroyer como diretor do ICE e cobra Senado por aprova��o r�pida",
+    "tiemp": "Capturan a señalado autor de ataque armado y amenaza de desalojo contra campesinos que acababan de recibir tierras del Estado en el Meta",
     "univ": "Marcha del Orgullo LGBT+ 2026 pinta de colores las calles de la CDMX; sigue aquí el minuto a minuto de la movilización",
     "lemon": "EN DIRECT, canicule : 13 départements allant de l’Aisne à l’Yonne redescendront de la vigilance rouge à la vigilance orange samedi soir",
     "spieg": "Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom",
@@ -25,15 +25,15 @@
     "elpais": "Ferraz salva el comité federal con la voz crítica de García-Page y el aval a Sánchez del resto de federaciones",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "電力会社による法廷の無断録音、社員が内情明かす「対象は原発訴訟」",
+    "asahi": "青森県と岩手県で最大震度5弱　M6.1、津波の心配なし",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Former Oklahoma state trooper Lance Schroyer nominated as ICE Director: Trump",
-    "str": "Venezuela quakes kill almost 1,500, with millions more in need",
-    "nat": "Utumishi Girls to reopen one month after dormitory fire killed 16",
+    "hindu": "FIFA World Cup 2026 LIVE updates: Croatia vs Ghana final Group L match under way",
+    "str": "Iran says US violated peace deal, as both sides trade fire",
+    "nat": "We cannot afford the cost of delaying real climate action",
     "lmaf": "Coupe du monde 2026 : quarante-quatre ans plus tard, le souvenir du « match de la honte » reste vivace chez les Algériens",
-    "smh": "FIFA World Cup 2026 LIVE updates: Panama take on England as Croatia prepare for Ghana; Colombia, Portugal, DR Congo, Uzbekistan, Algeria, Austria, Jordan and Argentina in action today",
+    "smh": "New shark drones to operate year round",
     "nzh": "Health NZ to front community as Palmerston North loses last gastro doctor",
-    "alj": "Colombia vs Portugal LIVE: FIFA World Cup 2026",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "alj": "Videos show Israeli settlers trying to seize house in occupied West Bank",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
