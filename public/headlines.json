@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-28T19:16:33.257Z",
+  "timestamp": "2026-06-28T20:37:50.505Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,29 +11,29 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.",
+    "nyt": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
     "lat": "U.S. military searching for Marine missing off San Diego coast",
     "glob": "Pride Parade gets under way Toronto with Prime Minister in attendance",
-    "clar": "Entrenadores de IA: los videos con los se prepara a robots para que imiten a los humanos",
-    "lnac": "Así vive un youtuber argentino el Mundial en Bangladesh: “Es una locura”",
-    "folh": "Datafolha: 38% dizem n�o saber ou lembrar voto para governador em 2022",
-    "tiemp": "Los desplazamientos forzados no cesan en Nariño: el fenómeno se ha agudizado en cerca de 14 municipios debido al intenso conflicto armado",
-    "univ": "Anticorrupción sanciona a funcionario del SAT por ocultar información sobre su patrimonio; impone inhabilitación de un año",
+    "clar": "La Universidad como herramienta para el desarrollo",
+    "lnac": "Sudáfrica vs. Canadá, en vivo por el Mundial 2026: minuto a minuto del partido",
+    "folh": "Prefeito chama Gusttavo Lima de &apos;ladr�o&apos; ap�s show cancelado; cantor alega &apos;caganeira&apos;",
+    "tiemp": "Domicilios ilegales con fachada de apps: así operaba &#039;la Caldera&#039;, la red de microtráfico desmantelada en la Comuna 21 de Cali",
+    "univ": "Sheinbaum garantiza que Vivienda para el Bienestar ya aporta 1% del PIB; destaca beneficio a 30 millones de personas",
     "lemon": "EN DIRECT, canicule : de la chaleur et des risques d’orage prévus dans l’est et le sud de la France, des records de chaleur à plus de 40 °C partout en Europe",
     "spieg": "Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom",
     "guar": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
     "elpais": "Venezuela se salva con sus propias manos",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
-    "asahi": "神戸・福原の風俗店で男女2人死亡　室内から刃物、事件の可能性も",
+    "asahi": "千葉・八街児童死傷事故「まだ5年、もう5年」市民の思いは風化せず",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "FIFA World Cup 2026, South Africa vs Canada LIVE updates |  Co-hosts' clash kicks off Round of 32",
-    "str": "Russian attacks kills four in Ukraine, local officials say",
+    "str": "Princess Kate scales Britain’s highest peaks to raise money for cancer charity",
     "nat": "Why MPs rejected Mbadi’s nominees to NG-CDF board",
     "lmaf": "Coupe du monde 2026 : « Neuf équipes africaines qualifiées sur dix, c’est remarquable », salue l’ancien gardien camerounais Joseph-Antoine Bell",
-    "smh": "How much your Brisbane suburb grew (or shrank) last year",
-    "nzh": "Up to five fire trucks called to Manawatu house fire",
-    "alj": "US and Iran trade strikes days after peace agreement",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "smh": "Socceroos prepare for Egypt clash",
+    "nzh": "Emergency response crews hope to deliver aid to cut-off Wairarapa communities",
+    "alj": "Pope Leo prays for Venezuela’s recovery after deadly quakes",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
