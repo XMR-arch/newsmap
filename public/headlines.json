@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-06-28T06:07:44.617Z",
-  "fetched": 24,
+  "timestamp": "2026-06-28T09:30:15.806Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,12 +15,12 @@
     "nyt": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
     "lat": "Hostage call leads LAPD to illegal gambling operation in Koreatown; 26 detained",
     "glob": "Canadian Museum for Human Rights curator defends Nakba exhibit ahead of opening",
-    "clar": "Mundial 2026: cómo quedó la tabla de goleadores y la pelea entre Messi, Mbappé, Vini, Haaland y Dembélé",
-    "lnac": "En París. Isabelle Strom y su hija Olympia brillaron en una cita hípica, con el polista Corchito Zavaleta como orgulloso espectador",
-    "folh": "Veja os duelos da fase de 32 sele��es da Copa do Mundo",
+    "clar": "USCIS cambia las reglas de la Green Card: miles de migrantes deberán regresar a su país para obtener la residencia",
+    "lnac": "Es oficial: los condados en California en los que subirá el salario mínimo a partir del 1 de julio",
+    "folh": "L�bano sofre novo bombardeio israelense, afirma ag�ncia estatal",
     "tiemp": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,2 en la noche de este sábado 27 de junio de 2026; epicentro y profundidad: ¿lo sintió?",
-    "univ": "Cande Schamun nació siendo Esteban y fue mutilada para encajar; activista llama a nombrar la intersexualidad",
-    "lemon": "Les Etats-Unis bombardent à nouveau l’Iran, les gardiens de la révolution disent frapper le Koweït et Bahreïn en représailles",
+    "univ": "Pelé tuvo trato VIP luego de ganar Mundial en México, según la DFS",
+    "lemon": "EN DIRECT, canicule : un premier bilan recense 1 000 décès de plus que lors des mois précédents depuis le 24 juin, dit Santé publique France",
     "spieg": "Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom",
     "guar": "‘Everyone is talking about Cape Verde’: World Cup run delights diaspora community in UK",
     "elpais": "Venezuela afronta la catástrofe con el Estado sobrepasado",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "LGBTQ教えたことある教員1割、教科書に記載あっても　民間調査",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "6.1 magnitude earthquake off northeastern coastline rattles Japan; no tsunami warning issued",
-    "str": "Boy, 11, rescued 3 days after Venezuela quakes as window for finding survivors narrows",
-    "nat": "We cannot afford the cost of delaying real climate action",
-    "lmaf": "Coupe du monde 2026 : quarante-quatre ans plus tard, le souvenir du « match de la honte » reste vivace chez les Algériens",
-    "smh": "One week after Beetlejuice, a second musical blockbuster is cancelled",
-    "nzh": "One person rescued from Auckland apartment fire",
-    "alj": "Venezuelan earthquake death toll rises amid increasingly dire search",
-    "arab": "Malaysia appoints new anti-graft chief"
+    "hindu": "What does the Centre’s Vision Document on Drug Control 2026-2029 propose?",
+    "str": "France records 1,000 excess deaths during record-breaking heatwave",
+    "lmaf": "Ouganda : le principal groupe de médias indépendant dit être « assiégé » et fermé par l’armée",
+    "smh": "Lost property up for auction at Sydney Airport",
+    "nzh": "Police seek witnesses to alleged Dannevirke assault",
+    "alj": "Iran attacks Kuwait and Bahrain in response to US strikes",
+    "arab": "Gaza mosques announce death of Hamas military leader after Israeli targeting claim"
   }
 }
