@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-07-05T16:29:56.498Z",
-  "fetched": 24,
+  "timestamp": "2026-07-05T17:37:34.918Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,13 +14,13 @@
   "headlines": {
     "nyt": "Exhausted by Iran War, Tehran Transforms for Khamenei’s Funeral",
     "lat": "Billy G. Mills, among first Black politicians elected to L.A. City Council, dies",
-    "glob": "Wildfire evacuation order in place for Boston Bar, B.C.",
-    "clar": "El frío no se va: el pronóstico del SMN anticipa mínimas gélidas y neblinas en el AMBA para el arranque de la semana",
-    "lnac": "Cómo le fue a Franco Colapinto en el GP de Gran Bretaña de la Fórmula 1 2026",
-    "folh": "Charles Leclerc vence GP de Silverstone, e Bortoleto fica em 8�",
-    "tiemp": "Panfletos, llamadas y rumores: la nueva fase criminal que pone en alerta a Barranquilla y el área metropolitana; siguen el miedo en el comercio",
-    "univ": "Exigen reclasificar caso de Renata Palmer a feminicidio",
-    "lemon": "Canicule : 16 départements en vigilance orange lundi ; la chaleur devrait s’accentuer mardi et gagner du terrain vers le nord",
+    "glob": "Boston Bar, B.C. area hit with wildfire evacuation order",
+    "clar": "Sin esperanzas de encontrar más sobrevivientes en Venezuela, la mayoría de los rescatistas internacionales regresan a sus países",
+    "lnac": "Un instructor de vuelo murió en Córdoba al caer de una avioneta: su alumna pudo aterrizar",
+    "folh": "Os EUA inventaram o presidencialismo, so what?",
+    "tiemp": "Banderas, ataques con drones y quema de vehículos: ELN hostiga Risaralda",
+    "univ": "\"¿Y si sí pudiéramos disminuir la violencia?\"; Iglesia pide transformar frase mundialista para enfrentar problemas en México",
+    "lemon": "Incendie dans les Pyrénées-Orientales : évacuation en cours de 5 000 personnes ; l’étape du Tour de France de lundi « adaptée » et « sans public », annonce le préfet",
     "spieg": "In Trump's Colony: Does the US Really Hold the Reins in Venezuela?",
     "guar": "Archaeologists uncover ancient Byzantine city in Egypt’s western desert",
     "elpais": "La paradoja de Trump en Venezuela: el apoyo a un régimen al que prometió derrocar",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "犯罪組織「プリンスG」幹部、なぜ日本に? 　米が制裁、永住画策か",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Former SNDP Yogam leader Mahesan’s family meets Home Minister, seeks fresh probe into his death",
-    "str": "White supremacist march in DC just ‘messy’ democracy: US official",
-    "nat": "How Gachagua-Wanjigi Wamunyoro meeting could tilt 2027 opposition matrix",
-    "lmaf": "La course hippique Durban July, un « Ascot sud-africain » miroir des aspirations multiraciales et des fractures sociales du pays",
+    "hindu": "Telangana police book case against A.P. police officers over YouTuber’s arrest",
+    "str": "Israel government says it will defy Supreme Court ruling on media regulator",
+    "lmaf": "« Si on m’attrape, c’est la fin pour moi » : au Sénégal, l’effroi quotidien des homosexuels sous le coup de la répression",
     "smh": "Leclerc wins chaotic British GP after spectacular Verstappen crash",
-    "nzh": "Heavy rain hits Dunedin, surface flooding across city",
-    "alj": "Cape Verde celebrates team’s return after historic World Cup",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "nzh": "Weather live: Evacuation centre opened as 'heavy deluge' hits Dunedin overnight",
+    "alj": "50 Houthi fighters killed in renewed clashes in Yemen",
+    "arab": "Malaysia appoints new anti-graft chief"
   }
 }
