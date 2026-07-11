@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-07-11T14:09:52.104Z",
-  "fetched": 24,
+  "timestamp": "2026-07-11T15:13:58.760Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,10 +15,10 @@
     "nyt": "How Marco Rubio Is Running Venezuela From Afar",
     "lat": "We tried Erewhon&#x27;s viral &#x27;sacred&#x27; water. Is it possibly worth $1 per ounce?",
     "glob": "Carney heads to Alberta for Calgary Stampede",
-    "clar": "Boris Cyrulnik, psiquiatra: \"A los 60, el cuerpo, la memoria y las emociones guardan certezas; ya no podemos engañarnos”",
-    "lnac": "Argentina vs. Suiza, EN VIVO por el Mundial 2026: hora, TV y las formaciones",
-    "folh": "Governo Trump divulga novos arquivos sobre �vnis, com registros feitos do �nibus espacial Columbia",
-    "tiemp": "Video | Ataque con drones destroza estación de Policía en Arenal, sur de Bolívar; gobernador Yamil Arana denuncia grave escalada de violencia",
+    "clar": "Murió Antonio Rattín: un emblema con la estirpe de los grandes caudillos",
+    "lnac": "Noticias del ICE en Kansas City hoy: confirman operativos masivos por el partido de Argentina en el Mundial 2026",
+    "folh": "Inglaterra avan�a na Copa com estrat�gia de Tuchel para os reservas",
+    "tiemp": "Alcaldía de Cartagena presenta proyecto para crear empresa pública de servicios y asumir la gestión del agua y el aseo: &#039;Veolia se va&#039;, Dumek Turbay",
     "univ": "Gobierno gasta 77 mdp en reality México Canta; otorga contrato tras única oferta",
     "lemon": "EN DIRECT, canicule : jusqu’à 39 °C attendus samedi, 24 départements en vigilance rouge ; la troisième vague de chaleur en deux mois aggrave les risques d’incendies",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
@@ -27,13 +28,12 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "トレーラー積み荷の鉄骨が散乱、通行止め続く　埼玉・戸田の外環道",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Centre’s positive response awaited on GST cut for copper sulphate, says Sadananda Gowda",
-    "str": "Teen Venezuela quake survivor mourns her 'young forever' friends",
-    "nat": "Why does every boy want to be a goon?",
+    "hindu": "Progress of India is encouraging, says ITTF president Sorling",
+    "str": "US delegation in Lebanon to discuss Israel ‘pilot zone’ withdrawal: Official",
     "lmaf": "Le président sud-africain, Cyril Ramaphosa, bousculé sur la scène diplomatique africaines’offre un répit à Paris",
     "smh": "Superquiz, Sunday, July 12",
     "nzh": "Landslide warning for Kaikōura following heavy rain",
-    "alj": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+    "alj": "UK police free suspect in ex-MP Ann Widdecombe murder investigation",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
