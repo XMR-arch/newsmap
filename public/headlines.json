@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T18:10:55.748Z",
+  "timestamp": "2026-07-12T19:30:11.228Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,14 +11,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
-    "lat": "Earthquake: 4.2 quake near Bakersfield",
-    "glob": "Carney revives call to tackle ‘threefold energy crisis’ before heading to Calgary Stampede",
-    "clar": "Jarrod Nobbe, experto en entrenamiento: \"A partir de los 55, cuando necesitamos más recuperación, las series entre 8 y 12 repeticiones son ideales\"",
-    "lnac": "Mundial 2026, en vivo: se definieron los cruces de semifinales tras la victoria de la Argentina",
-    "folh": "Motorista atropela e mata 6 pessoas em feira de Vi�a del Mar, no Chile",
+    "nyt": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+    "lat": "Fight over broken bottle led to Exposition Park machete attack, police say",
+    "glob": "At Calgary Stampede, Carney finds support for West Coast pipeline proposal",
+    "clar": "Los expertos coinciden: consumir azúcar es clave para consolidar recuerdos",
+    "lnac": "Uno por uno, el mantra que debe repetir cada signo del Zodíaco para tener suerte en julio",
+    "folh": "Jannik Sinner supera Alexander Zverev e � bicampe�o de Wimbledon",
     "tiemp": "Ataque a bomberos, quema de vehículos e injerencia del &#039;Clan del Golfo&#039;: los detalles del caos en Segovia tras operativo contra la minería",
-    "univ": "Vinculan a proceso a Alejandro Álvarez Puga, cuñado de Inés Gómez Mont, por defraudación fiscal; recibe prisión preventiva",
+    "univ": "Anticorrupción sanciona a la Federación Mexicana de Futbol con 42.8 mdp; acusa violación a datos personales del sistema \"FAN ID\"",
     "lemon": "La canicule fait grimper la consommation d’eau et met les réseaux d’approvisionnement à rude épreuve",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
@@ -27,13 +27,13 @@
     "volk": "‘Ik ben niet alleen actrice, moeder, activist of iemand die van Snoopy houdt. Ik ben het allemaal tegelijk’",
     "asahi": "日本三大盆踊り、岐阜の郡上おどりが開幕　響く手拍子とげたの音",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "A.P. MEO-1 Association seeks self-drawing powers for education officers",
-    "str": "Israel's election will be held on October 27, coalition head says",
-    "nat": "Goons and violence will not stop or intimidate us, Sifuna says after violence in Kisumu, Nyahururu",
+    "hindu": "​Insular incentive: On ethanol-blended fuel and the Indian consumer",
+    "str": "Fresh attacks hit Iran, Kuwait as Tehran and US square off over Hormuz",
+    "nat": "Goons storm ACK Kisumu church hosting Linda Mwananchi leaders, one injured",
     "lmaf": "A l’étroit sur l’île Maurice, Arnaud Lagesse, patron du conglomérat IBL, veut profiter de la consommation galopante en Afrique",
-    "smh": "Brendon McCullum sacked as England Test coach",
-    "nzh": "Next phase of LynnMall terror attack inquest to begin",
-    "alj": "Who will replace Trump ally Lindsey Graham in the US Senate?",
+    "smh": "Dozens killed in massive fire that engulfed Bangkok pub",
+    "nzh": "Dark shadows in 'piece of paradise' after violent deaths",
+    "alj": "Some 30 Malian soldiers killed during Anefis retaking, says army chief",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
