@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-14T14:27:21.373Z",
+  "timestamp": "2026-07-14T15:56:26.629Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Big Banks Smash Earnings Records, but ‘Tectonic’ Risks Loom",
+    "nyt": "Trump Says U.S. Will ‘Take Over’ Strait of Hormuz, and How Russia Made Japan a Den of Spies",
     "lat": "Sheriff&#x27;s watchdog group needs new lawyers to do its job, civil grand jury says",
-    "glob": "Morning Update: U.S. and Iran trade strikes",
-    "clar": "\"Banderazo encapsulado\": las medidas de seguridad para los hinchas argentinos que harán la previa vs Inglaterra en Atlanta",
-    "lnac": "La insólita idea de Toyota para que manejar un eléctrico se sienta como un auto manual",
-    "folh": "Anvisa registra nova vacina contra influenza para aplica��o a partir dos 6 meses",
-    "tiemp": "Mujer antioqueña fue hallada sin vida en México luego de haber sido reportada como desaparecida 10 días atrás: familia busca repatriar su cuerpo",
-    "univ": "\"No cometí violencia política de género\"; Noroña rechaza sanción en su contra y de nuevo llama \"fascista\" a Grecia Quiroz",
+    "glob": "Prominent Alberta separatist’s assets frozen as First Nation alleges he diverted funds",
+    "clar": "El Gobierno anunció un nuevo RIGI: es un proyecto minero para producir carbonato de litio de Catamarca",
+    "lnac": "En qué canal de EE.UU. pasan la semifinal de Francia vs. España hoy: transmisión en vivo del Mundial 2026",
+    "folh": "A crise de toler�ncia e o tempo de cada um",
+    "tiemp": "¿Carnaval de Barranquilla 2027 en el Malecón del Río? Estudian histórico cambio para los desfiles más emblemáticos de la fiesta",
+    "univ": "Sheinbaum promete \"cero impunidad\" en casos de alcaldes investigados; afirma que no habrá protección a ningún partido",
     "lemon": "EN DIRECT, 14-Juillet : Emmanuel Macron passe en revue les troupes le long des Champs-Elysées pour son dernier défilé",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "New US Ebola patient arrives in Germany for treatment",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "17歳を海の家で性的暴行未遂の疑い　自称インフルエンサーらを逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "IAGES signs LOI with Royal College of Surgeons of Edinburgh",
-    "str": "Mexico files criminal complaints in US over migrant deaths in custody",
-    "nat": "Ruto&apos;s call and a court order that defused Amboseli takeover crisis",
+    "hindu": "Draft national health research policy proposes overhaul of India’s research ecosystem",
+    "str": "Britain to test readiness for hybrid attack in biggest defence drill for decades",
+    "nat": "IEBC, police joint presser on Ol Kalou parliamentary mini-poll",
     "lmaf": "Au Maroc, cent ans après la guerre du Rif, la mémoire impossible d’une rébellion qui a inspiré les mouvements d’indépendance",
-    "smh": "Coal plants would cut power costs by 2050, but with a massive price to pay",
+    "smh": "Trump backs away from fee plan on Strait of Hormuz",
     "nzh": "Jailed tax fraudster used information bought on dark web",
-    "alj": "Indian activist Wangchuk urged to end hunger strike over exam paper leaks",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "alj": "Jude Bellingham Station unveiled ahead of World Cup semi-final",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
