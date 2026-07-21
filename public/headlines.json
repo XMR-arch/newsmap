@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-21T17:42:23.256Z",
+  "timestamp": "2026-07-21T18:55:25.833Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-    "lat": "When will Sunset Boulevard reopen? Here&#x27;s what we know about filling the massive hole",
-    "glob": "Vancouver’s World Cup pitch finds new life beyond BC Place",
-    "clar": "Los perros detectan tu estado de ánimo: por eso te obedecen más cuando estás contento",
-    "lnac": "Loma Hermosa: dos menores motochorros asesinaron a un policía para robarle la moto",
-    "folh": "A imagem mais bonita da Copa do Mundo",
-    "tiemp": "Atentan a tiros contra la lideresa social Esperanza Jiménez en el norte del Cauca: el blindaje de su camioneta le salvó la vida",
-    "univ": "DEA tiene \"muchísimo\" trabajo que hacer en EU: Sheinbaum; pide detener llegada de armas a México",
+    "nyt": "Oil Buyers Battered by the Iran War Energy Crisis Race to Build Buffers",
+    "lat": "Road rage suspect arrested after 100-mph car chase into Hollywood",
+    "glob": "Sides reach tentative deal in Metro Vancouver transit labour dispute",
+    "clar": "Llega la FED: más de 330 editores independientes, visitas extranjeros, una fiesta, pero hay que sacar entrada",
+    "lnac": "Se conocieron los detalles del escabroso asesinato de una exdiputada británica",
+    "folh": "Quadrilha do RJ, com apoio do TCP, roubava rem�dios e revendia para hospitais e rede p�blica",
+    "tiemp": "El fuerte golpe en Antioquia contra criminales: nacimientos mineros, la comercialización ilegal de oro y el lavado de activos en el Bagre",
+    "univ": "Ruffo Appel tramita nuevo amparo contra detención por huachicol fiscal; reclama 17 actos a la FGR",
     "lemon": "Face aux Etats-Unis, l’Iran parie sur une guerre d’usure",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Healthy diet too expensive for one in three people globally, UN report finds",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "台風で睡眠休憩6時間が1時間に　その後乗務し駅を誤通過、JR西",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "IHCL Q1 net profit rises 21% to ₹358 crore",
-    "str": "US urges isolating Nicaragua after Ortega vows to end elections",
-    "nat": "Ruto names Charles Owino government spokesperson in Executive shake-up",
+    "hindu": "After Valparai tragedy, Pang schoolchildren turn to art for healing",
+    "str": "Guyana ferry death toll rises to 41 as more bodies are recovered",
+    "nat": "Thugge seeks power over terrorism funding in microfinance Bill",
     "lmaf": "El Mahdi Lyoubi, rappeur marocain emprisonné pour ses textes critiques envers la monarchie",
     "smh": "Former UK minister Widdecombe was ‘hit over head with a hammer 21 times’, court told",
-    "nzh": "The girl who couldn’t eat: An RNZ investigation into the controversy over a debilitating illness",
-    "alj": "Where will LeBron James go next? NBA star ‘not rushed’ to make a decision",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "nzh": "Two need medical treatment after chemical scare in Waikato",
+    "alj": "Netherlands to sanction trade with illegal Israeli settlements",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
