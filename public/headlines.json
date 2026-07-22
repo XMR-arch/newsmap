@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-07-22T17:51:54.357Z",
-  "fetched": 22,
+  "timestamp": "2026-07-22T18:51:04.355Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,12 +14,12 @@
   "headlines": {
     "nyt": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
     "lat": "Pursuit ends in dramatic crash, deadly police shooting in Simi Valley",
-    "glob": "Gordie Howe Bridge opening celebration with U.S. cancelled, Ottawa says",
-    "clar": "\"Tengo 70 años y pensé que la jubilación me daría una sensación de libertad, pero resulta que durante todos esos años estuve manteniendo algo más en pie, y ahora no queda nada que lo mantenga en su lugar\"",
-    "lnac": "Los detalles de la denuncia que iniciará Tomás Dente contra su hermano",
-    "folh": "Tarc�sio re�ne apoio de 12 partidos, contra 7 de Haddad",
-    "tiemp": "Cuatro sujetos en Barranquilla y su área metropolitana cayeron por extorsión y un caso de secuestro en el que exigían 8.000 euros por una liberación",
-    "univ": "Conagua presenta avances del Plan Integral del Oriente del Edomex; arranca planta de bombeo contra inundaciones en Neza",
+    "glob": "Canada to split Gordie Howe Bridge toll revenue with U.S. for 15 years, deal says",
+    "clar": "Crean una máquina capaz de fabricar 3,6 litros de combustible al día con aire, agua y electricidad",
+    "lnac": "Javier Milei y sus medidas, en vivo: movimientos en el oficialismo y reactivación de la agenda parlamentaria",
+    "folh": "Demanda por seguro-viagem cresce 41% no 1� semestre, afirma SulAm�rica",
+    "tiemp": "Golpe doble al crimen en Candelaria: cae alias El Búho con explosivos y esclarecen en cinco días el crimen de un adulto mayor",
+    "univ": "Senado recibe iniciativa presidencial de Ley contra Feminicidio; propuesta prevé penas de hasta 70 años",
     "lemon": "« Le recul environnemental de trop » : Monique Barbut, ministre de la transition écologique, annonce remettre sa démission après le vote de la loi d’urgence agricole",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Health worker monitored for Ebola in London hospital after working in DRC",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "警官が発砲し命中、21歳男を逮捕　刃物突きつけた疑い　熊本・合志",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "ACB books energy utility divisional engineer in disproportionate assets case, seizes properties worth ₹27.65 crore",
-    "str": "Germany approves controversial French-Russian nuclear project",
+    "hindu": "GCC’s property tax drive nets ₹133 crore, defaulters’ names to be published soon",
+    "str": "Iran strikes on CIA facilities prompt questions about possible Russian role",
+    "nat": "EACC targets politicians splashing millions in empowerment programs",
     "lmaf": "« Il faut empêcher qu’Ebola ne devienne une menace régionale et internationale »",
-    "smh": "House supply tipped to increase as WA market slows",
-    "nzh": "Two years until 'one of most majestic sights' in Dunedin",
-    "alj": "Trump push for Syrian intervention against Hezbollah ‘short-sighted’",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "smh": "Prince George enters teenage years in new birthday portrait",
+    "nzh": "Toxic gas from rotting fish waste nearly killed two workers aboard fishing boat",
+    "alj": "US judge sets 2027 trial date for Venezuela’s Maduro and wife",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
