@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-07-25T17:30:02.763Z",
-  "fetched": 23,
+  "timestamp": "2026-07-25T18:29:14.373Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
+    "hindu",
     "chos",
     "mav",
     "taus",
@@ -13,12 +14,12 @@
   ],
   "headlines": {
     "nyt": "Inside the Rushed Effort to Get Trump His New Air Force One",
-    "lat": "Lopez: In L.A.&#x27;s underground, the public servants are 80, 90 and 100. It&#x27;s tough getting old",
-    "glob": "Has right’s rise primed B.C. politics for a party that breaks the binary?",
-    "clar": "El blues que Memphis y Adrián Otero se robaron para siempre",
-    "lnac": "La Velada del Año 6 en Twitch, en vivo: Gastón Edul vs. Aguirre y el minuto a minuto de las peleas",
-    "folh": "Um ano ap�s se chamar de &apos;in�til&apos;, Hamilton volta � Hungria na briga pelo t�tulo",
-    "tiemp": "Dragoneante del Inpec fue asesinado a tiros en vía pública del oriente de Cali: el ataque fue frente a su vivienda y su esposa resultó herida",
+    "lat": "SoCal woman convicted of murder for supplying lethal fentanyl dose: &#x27;She&#x27;s an evil person&#x27;",
+    "glob": "Alberta won’t retaliate against U.S. tariff with alcohol ban, Danielle Smith says",
+    "clar": "Dramático accidente de Einer Rubio en el Tour de Francia: chocó contra un auto por un insólito motivo y terminó con 20 puntos en la cara",
+    "lnac": "Intentaron robar en la casa de Daniel Scioli y fueron detenidos horas después por la Policía",
+    "folh": "Drauzio Varella, na Flip, defende exame como o da OAB para os m�dicos",
+    "tiemp": "Expulsaron a seis migrantes venezolanos de Bucaramanga; algunos de ellos ya habrían delinquido en la ciudad",
     "univ": "Reapertura de frontera a exportación de ganado ayudará a la economía: Sheinbaum; dice que México y EU perdieron por el cierre",
     "lemon": "EN DIRECT, incendies : évacuation préventive de sept communes près de Bordeaux ; 140 000 personnes évacuées en Gironde et dans les Landes",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "「陸渡御」で2400人練り歩く　夜空彩る奉納花火も　大阪・天神祭",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Dharmendra Pradhan tenders resignation as Union Education Minister; CJP calls off protests",
-    "str": "‘All this has to be stopped’: Kazakhstan president tells Putin war in Ukraine should end",
+    "str": "Speaking alongside Putin, Kazakh president calls for freeze of Ukraine war",
     "nat": "120 days to fix it: Leaders trade blame over gender rule failure as court deadline looms",
     "lmaf": "La Tunisie, autopsie d’un basculement autoritaire",
-    "smh": "Commonwealth Games 2026 LIVE: Australian gymnast aiming for history; Swimmers hunt for gold in the pool",
+    "smh": "Commonwealth Games 2026 LIVE: Australia sweep medals in 400m freestyle; Gymnasts off to brilliant start in women’s final",
     "nzh": "Firefighters battle house fire in Wellington suburb",
     "alj": "Iran’s government spars with state TV as mediators push talks with US",
-    "arab": "Saudi Arabia condemn Iran&#039;s latest attack on the Gulf"
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
