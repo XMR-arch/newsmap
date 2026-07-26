@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-07-26T13:49:53.410Z",
+  "timestamp": "2026-07-26T14:53:37.385Z",
   "headline": "Swim Mistress — Convergence point",
-  "intensity": 0.69,
+  "intensity": 0.55,
   "ui_theme": {
     "bar_color": "#2a9d8f",
     "bar_glow": "rgba(42, 157, 143, 0.4)",
     "transition_speed": "1s"
   },
   "region_weights": {
-    "namerica": 44,
-    "europe": 64,
-    "latam": 45,
-    "asia": 43,
-    "mideast": 20,
-    "oceania": 16,
-    "africa": 7
+    "namerica": 42,
+    "europe": 57,
+    "latam": 42,
+    "asia": 42,
+    "mideast": 19,
+    "oceania": 13,
+    "africa": 9
   },
   "layout": [
-    {
-      "id": "guar",
-      "cat": "europe",
-      "name": "The Guardian",
-      "weight": 26,
-      "x": 0,
-      "y": 0,
-      "w": 278,
-      "h": 360
-    },
     {
       "id": "clar",
       "cat": "latam",
       "name": "Clarín",
       "weight": 26,
       "x": 0,
-      "y": 360,
-      "w": 278,
-      "h": 360
-    },
-    {
-      "id": "nyt",
-      "cat": "namerica",
-      "name": "New York Times",
-      "weight": 25,
-      "x": 278,
       "y": 0,
-      "w": 268,
-      "h": 360
+      "w": 286,
+      "h": 374
     },
     {
       "id": "peop",
       "cat": "asia",
       "name": "People's Daily",
-      "weight": 25,
-      "x": 278,
-      "y": 360,
-      "w": 268,
-      "h": 360
+      "weight": 24,
+      "x": 0,
+      "y": 374,
+      "w": 286,
+      "h": 346
     },
     {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 21,
-      "x": 546,
+      "id": "nyt",
+      "cat": "namerica",
+      "name": "New York Times",
+      "weight": 22,
+      "x": 286,
       "y": 0,
-      "w": 321,
-      "h": 252
+      "w": 246,
+      "h": 368
     },
     {
-      "id": "alj",
-      "cat": "mideast",
-      "name": "Al Jazeera",
-      "weight": 20,
-      "x": 546,
-      "y": 252,
-      "w": 321,
-      "h": 240
+      "id": "guar",
+      "cat": "europe",
+      "name": "The Guardian",
+      "weight": 21,
+      "x": 286,
+      "y": 368,
+      "w": 246,
+      "h": 352
     },
     {
       "id": "wapo",
       "cat": "namerica",
       "name": "Washington Post",
-      "weight": 19,
-      "x": 546,
-      "y": 492,
-      "w": 321,
-      "h": 228
+      "weight": 20,
+      "x": 531,
+      "y": 0,
+      "w": 337,
+      "h": 244
     },
     {
-      "id": "folh",
-      "cat": "latam",
-      "name": "Folha de S.Paulo",
+      "id": "lemon",
+      "cat": "europe",
+      "name": "Le Monde",
+      "weight": 20,
+      "x": 531,
+      "y": 244,
+      "w": 337,
+      "h": 244
+    },
+    {
+      "id": "alj",
+      "cat": "mideast",
+      "name": "Al Jazeera",
       "weight": 19,
-      "x": 868,
-      "y": 0,
-      "w": 212,
-      "h": 346
+      "x": 531,
+      "y": 488,
+      "w": 337,
+      "h": 232
     },
     {
       "id": "asahi",
       "cat": "asia",
       "name": "Asahi Shimbun",
       "weight": 18,
-      "x": 1079,
+      "x": 869,
       "y": 0,
-      "w": 201,
-      "h": 346
+      "w": 218,
+      "h": 340
     },
     {
       "id": "spieg",
       "cat": "europe",
       "name": "Der Spiegel",
-      "weight": 17,
-      "x": 868,
-      "y": 346,
-      "w": 340,
-      "h": 193
+      "weight": 16,
+      "x": 1086,
+      "y": 0,
+      "w": 194,
+      "h": 340
+    },
+    {
+      "id": "folh",
+      "cat": "latam",
+      "name": "Folha de S.Paulo",
+      "weight": 16,
+      "x": 869,
+      "y": 340,
+      "w": 314,
+      "h": 210
     },
     {
       "id": "smh",
       "cat": "oceania",
       "name": "Sydney Morning Herald",
-      "weight": 16,
-      "x": 868,
-      "y": 539,
-      "w": 340,
-      "h": 181
+      "weight": 13,
+      "x": 869,
+      "y": 550,
+      "w": 314,
+      "h": 170
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 7,
-      "x": 1208,
-      "y": 346,
-      "w": 72,
-      "h": 374
+      "weight": 9,
+      "x": 1183,
+      "y": 340,
+      "w": 97,
+      "h": 380
     }
   ]
 }
