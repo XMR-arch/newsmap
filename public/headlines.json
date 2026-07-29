@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-29T15:29:15.266Z",
+  "timestamp": "2026-07-29T16:50:39.826Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -14,12 +14,12 @@
   "headlines": {
     "nyt": "A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands",
     "lat": "UC accepts record number of Californians, but some select campuses out of reach for most",
-    "glob": "Former Conservative cabinet minister Chris Alexander to run for Toronto mayor",
-    "clar": "Nuevos rituales del\nbienestar en América latina",
-    "lnac": "Moria Casán y Jorge Rial, enfrentados antes de la cena de los 25 años de Intrusos",
-    "folh": "Empres�rio � morto a tiros em S�o Mateus, na zona leste de S�o Paulo",
-    "tiemp": "Atención: el comandante de la Policía de Norte de Santander sufrió un atentado en una carretera de El Zulia; dos uniformados están heridos",
-    "univ": "\"México es el cliente número uno de EU\"; Ebrard responde a dichos de Trump sobre desinterés en renovar el T-MEC",
+    "glob": "Federal government to spend $1.9-billion to replace Via Rail trains, build plant",
+    "clar": "Quiniela Nacional: resultado del sorteo de la Primera de hoy, miércoles 29 de julio",
+    "lnac": "PNC de la Anses: cuál es el monto de las Pensiones no Contributivas en agosto de 2026",
+    "folh": "Acre e vizinhan�as podem ter 20 mil monumentos pr�-colombianos",
+    "tiemp": "Santander es hito mundial en la medicina: por primera vez se hizo una telecirugía a una distancia de 25 mil kilómetros, desde Colombia a la India",
+    "univ": "Sarampión en México: van 45 muertes en 18 meses por brote; contagios aumentan 188% respecto a 2025",
     "lemon": "EN DIRECT, incendies : vents et fortes températures menacent de raviver le mégafeu en Gironde, situation « critique » dans la commune du Porge",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Kenya investigating unexpected deaths of 15 elephants in national park",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "【まとめてわかる】熊本地震　被害状況、イオン、交通、断層、震度は",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "No abnormality in fuel switch of Air India’s Boeing 787 grounded in February, Centre tells Parliament",
-    "str": "France moves to expel pro-Kremlin TV commentator as presidential election looms",
-    "nat": "What Sifuna, Osotsi stand to lose after Senate Committee purge",
-    "lmaf": "En Afrique du Sud, la prévention et le dépistage du sida menacés par l’arrêt définitif de l’aide américaine",
-    "smh": "Three dead in house fire in Sydney’s south-west",
-    "nzh": "Upper Hutt mayor: Don't force us to amalgamate with Wellington councils",
-    "alj": "Why Saudi Arabia holds the key to Palestinian statehood",
+    "hindu": "Watch: Ministers, BJP MPs disrupted the House instead of countering Rahul : N.K. Premachandran",
+    "str": "Drone hits US-owned gas storage tanker at Egypt’s Mediterranean port",
+    "nat": "End of budget impasse: How Nairobi’s Sh49 billion budget will impact you",
+    "lmaf": "En Ethiopie, le démantèlement d’un réseau de passeurs vers l’Arabie saoudite révèle l’importance de cette route migratoire",
+    "smh": "Fauci pleads Fifth Amendment on COVID-19 origins, lawyer thrown out of tense hearing",
+    "nzh": "Pandemic preparation: 'You don't want it to be a political fight' - Michael Baker",
+    "alj": "Ex-FIFA chief Blatter blasts plan to sell stake in World Cup to investors",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
