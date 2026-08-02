@@ -1,141 +1,141 @@
 {
-  "timestamp": "2026-08-02T01:08:31.923Z",
-  "headline": "Swim Mistress — Calm field",
-  "intensity": 0.71,
+  "timestamp": "2026-08-02T04:34:28.583Z",
+  "headline": "Swim Mistress — Convergence point",
+  "intensity": 0.83,
   "ui_theme": {
     "bar_color": "#e76f51",
     "bar_glow": "rgba(231, 111, 81, 0.6)",
     "transition_speed": "0.4s"
   },
   "region_weights": {
-    "namerica": 41,
-    "europe": 56,
-    "latam": 38,
-    "asia": 42,
-    "mideast": 20,
-    "oceania": 16,
-    "africa": 8
+    "namerica": 42,
+    "europe": 60,
+    "latam": 40,
+    "asia": 41,
+    "mideast": 19,
+    "oceania": 13,
+    "africa": 9
   },
   "layout": [
     {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 24,
+      "id": "nyt",
+      "cat": "namerica",
+      "name": "New York Times",
+      "weight": 25,
       "x": 0,
       "y": 0,
-      "w": 272,
+      "w": 269,
+      "h": 383
+    },
+    {
+      "id": "lemon",
+      "cat": "europe",
+      "name": "Le Monde",
+      "weight": 22,
+      "x": 0,
+      "y": 383,
+      "w": 269,
+      "h": 337
+    },
+    {
+      "id": "peop",
+      "cat": "asia",
+      "name": "People's Daily",
+      "weight": 22,
+      "x": 269,
+      "y": 0,
+      "w": 246,
       "h": 368
     },
     {
       "id": "guar",
       "cat": "europe",
       "name": "The Guardian",
-      "weight": 23,
-      "x": 0,
+      "weight": 21,
+      "x": 269,
       "y": 368,
-      "w": 272,
+      "w": 246,
       "h": 352
     },
     {
-      "id": "peop",
-      "cat": "asia",
-      "name": "People's Daily",
-      "weight": 23,
-      "x": 272,
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 21,
+      "x": 514,
       "y": 0,
-      "w": 261,
-      "h": 368
+      "w": 337,
+      "h": 256
     },
     {
-      "id": "nyt",
-      "cat": "namerica",
-      "name": "New York Times",
-      "weight": 22,
-      "x": 272,
-      "y": 368,
-      "w": 261,
-      "h": 352
-    },
-    {
-      "id": "alj",
-      "cat": "mideast",
-      "name": "Al Jazeera",
-      "weight": 20,
-      "x": 533,
-      "y": 0,
-      "w": 336,
-      "h": 248
-    },
-    {
-      "id": "wapo",
-      "cat": "namerica",
-      "name": "Washington Post",
+      "id": "folh",
+      "cat": "latam",
+      "name": "Folha de S.Paulo",
       "weight": 19,
-      "x": 533,
-      "y": 248,
-      "w": 336,
-      "h": 236
-    },
-    {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 19,
-      "x": 533,
-      "y": 484,
-      "w": 336,
-      "h": 236
+      "x": 514,
+      "y": 256,
+      "w": 337,
+      "h": 232
     },
     {
       "id": "asahi",
       "cat": "asia",
       "name": "Asahi Shimbun",
       "weight": 19,
-      "x": 869,
-      "y": 0,
-      "w": 223,
-      "h": 355
+      "x": 514,
+      "y": 488,
+      "w": 337,
+      "h": 232
     },
     {
-      "id": "smh",
-      "cat": "oceania",
-      "name": "Sydney Morning Herald",
-      "weight": 16,
-      "x": 1092,
+      "id": "alj",
+      "cat": "mideast",
+      "name": "Al Jazeera",
+      "weight": 19,
+      "x": 851,
       "y": 0,
-      "w": 188,
-      "h": 355
+      "w": 226,
+      "h": 346
+    },
+    {
+      "id": "wapo",
+      "cat": "namerica",
+      "name": "Washington Post",
+      "weight": 17,
+      "x": 1078,
+      "y": 0,
+      "w": 202,
+      "h": 346
     },
     {
       "id": "spieg",
       "cat": "europe",
       "name": "Der Spiegel",
-      "weight": 14,
-      "x": 869,
-      "y": 355,
-      "w": 320,
-      "h": 183
+      "weight": 17,
+      "x": 851,
+      "y": 346,
+      "w": 187,
+      "h": 374
     },
     {
-      "id": "folh",
-      "cat": "latam",
-      "name": "Folha de S.Paulo",
-      "weight": 14,
-      "x": 869,
-      "y": 537,
-      "w": 320,
-      "h": 183
+      "id": "smh",
+      "cat": "oceania",
+      "name": "Sydney Morning Herald",
+      "weight": 13,
+      "x": 1038,
+      "y": 346,
+      "w": 242,
+      "h": 221
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 8,
-      "x": 1189,
-      "y": 355,
-      "w": 91,
-      "h": 365
+      "weight": 9,
+      "x": 1038,
+      "y": 567,
+      "w": 242,
+      "h": 153
     }
   ]
 }
