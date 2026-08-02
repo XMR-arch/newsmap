@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-02T17:42:30.897Z",
+  "timestamp": "2026-08-02T18:41:53.792Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme",
-    "lat": "Road, parking lot and restrooms at Point Dume Beach closed due to &#x27;extreme erosion&#x27;",
-    "glob": "Meet the Pinball wizards, whose love of the game runs deep",
-    "clar": "Juanma López, joven que vive en un furgón: “Me gasto más de 1.000 euros al mes. La gente se piensa que vivir aquí es barato, pero para nada”",
-    "lnac": "Dos helicópteros chocaron en Grecia mientras combatían un incendio forestal: murieron dos tripulantes",
-    "folh": "Cinco alimentos que ajudam a fortalecer os ossos, al�m do leite",
-    "tiemp": "El lío contractual que enreda a las autoridades de la cárcel Peñas Blancas en Calarcá (Quindío): Procuraduría alerta por posible corrupción",
-    "univ": "PAN rechaza iniciativa de regular uso de redes sociales; advierte “ruta autoritaria” de Morena para concentrar más poder",
+    "nyt": "How China Keeps Tabs on Foreigners",
+    "lat": "It&#x27;s been a summer of bad news for Mayor Bass. Can she reset the narrative?",
+    "glob": "Winds fan wildfires, force more out in B.C.",
+    "clar": "Irán dice estar cerca de alcanzar un acuerdo con Omán sobre nueva ruta de tránsito en Ormuz",
+    "lnac": "Milei dice que ya definió a su compañero de fórmula pero se guarda el nombre “por el momento”",
+    "folh": "Sabrina Sato posa para fotos com barriguinha de gr�vida",
+    "tiemp": "Atención: a la cárcel los cinco capturados por la desaparición y el asesinato de María Camila Potosí, la joven embarazada, en Cali",
+    "univ": "Moreira denuncia intento de censura por parte de Morena y el INE; acusa presunta revisión a sus redes sociales",
     "lemon": "EN DIRECT, l’incendie n’est « pas encore fixé » dans le Var ; les sapeurs-pompiers bataillent contre un nouveau feu à Carcassonne",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "熊本地震の死者38人に　車中避難の女性は初の「災害関連死」疑い",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Run held to promote liver health awareness in Chennai",
-    "str": "Gunmen kill 12, abduct women and children in Nigerian village",
-    "nat": "Three arrested over brazen Kisumu home invasion as police hunt fourth suspect",
-    "lmaf": "« Les gens viennent ici pour se reposer. Mais il devient très difficile de leur offrir cette sérénité » : en Tunisie, le secteur du tourisme affecté par les coupures d’électricité et d’eau à répétition",
+    "hindu": "Bangladesh court grants bail to jailed Hindu rights leader; release from prison unlikely",
+    "str": "Iran foreign ministry says close to deal with Oman on Hormuz route",
+    "nat": "Raila Junior out to inherit his late father&apos;s Nairobi political base",
+    "lmaf": "Abdul Samad Rabiu, l’autre industriel multimilliardaire qui veut changer le Nigeria",
     "smh": "Commonwealth Games 2026 LIVE: Cyclist Georgia Baker to carry flag for closing ceremony; Aussies take silver in final race",
-    "nzh": "Te Araroa shaken by strong magnitude 5.7 earthquake",
-    "alj": "‘Iran war participation trophy’ mocking Trump appears in New York",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "nzh": "'We just can't handle any more': Queenstown congestion concerns keep building",
+    "alj": "‘Iron fist’ doesn’t work with Iran: Former US hostage in Tehran",
+    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
