@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-04T15:54:56.494Z",
+  "timestamp": "2026-08-04T17:38:33.468Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules",
-    "lat": "Motorcyclist takes fatal fall over edge of 105/110 freeway interchange in Los Angeles",
-    "glob": "The volunteer turning children’s radiation masks into works of art",
-    "clar": "EEUU enfrentará a Perú, Chile, México y Canadá para iniciar el ciclo al Mundial 2030",
-    "lnac": "Hasta cuándo hay tiempo de hacer la recategorización del monotributo",
-    "folh": "Palestinos fazem funeral de 112 pessoas da mesma fam�lia mortas por ataques de Israel em 2023",
-    "tiemp": "Medellín se consolida como la ciudad con menor desempleo de Colombia: estos son los sectores que impulsaron la creación de empleos",
-    "univ": "La mañanera de Sheinbaum, 04 de agosto, minuto a minuto",
+    "nyt": "Warsh Wanted ‘Regime Change.’ Markets Are Demanding a Reset.",
+    "lat": "L.A. City Council members call for new restrictions on e-bikes",
+    "glob": "WestJet’s strike may be over, but travellers are still reeling from delays",
+    "clar": "Qué significa la cita de la filósofa Simone Weil: \"En el corazón de todo ser humano, a pesar de la experiencia de los crímenes sufridos, se espera que se haga el bien\"",
+    "lnac": "Javier Milei y sus medidas, en vivo: el Gobierno cede para conseguir la Ley de Tierras y busca acuerdos para 2027",
+    "folh": "Bienal do Livro aumenta de espa�o em SP e abre ingresso noturno ap�s maior evento em 10 anos",
+    "tiemp": "Auxiliar de la Registraduría en Montería fue imputado por presuntamente exigir $100 millones a una candidata al Congreso",
+    "univ": "Sheinbaum critica “hipocresía” de Alito Moreno por reclamo de censura del INE; priista “dice mentiras”, asegura",
     "lemon": "Crise de Ceuta : l’impossible quête des origines de la rumeur d’une ouverture de la frontière",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "警察官が刃物持ち向かってきた男に発砲、男は死亡　大阪・河内長野",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Chennai Open gets a big boost from TN Govt.",
-    "str": "Gazans bury nearly a whole clan found in rubble in mass funeral for 112",
-    "nat": "Dangote refinery set for Africa&apos;s biggest IPO, aims to raise Sh646bn",
-    "lmaf": "Hervé Renard nouveau sélectionneur de la Côte d’Ivoire, onze ans après son sacre en Coupe d’Afrique des nations avec les Elephants",
-    "smh": "Superquiz, Wednesday, August 5",
-    "nzh": "Concern for 6-year-old Auckland boy missing overnight",
-    "alj": "More key FIFA staff break ranks as Infantino’s World Cup plan faces mutiny",
+    "hindu": "Bengaluru: Semiconductor ecosystem in spotlight",
+    "str": "Seventeen migrants believed dead trying to reach Spain's Balearic Islands",
+    "nat": "Power struggle in Mt Kenya as Gachagua is accused of &apos;tyranny&apos;",
+    "lmaf": "Ceuta : au moins 75 personnes sont mortes en voulant rejoindre l’enclave espagnole, selon les autorités locales",
+    "smh": "The Perth suburbs where power bills cost less than a small cup of coffee",
+    "nzh": "Transpower expecting record electricity demand in cold snap",
+    "alj": "Senate Democrat’s report says major banks ‘looked the other way’ on Epstein",
     "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
