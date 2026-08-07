@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T14:35:30.571Z",
+  "timestamp": "2026-08-07T15:30:27.957Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -14,12 +14,12 @@
   "headlines": {
     "nyt": "Weak Jobs Report Does Not Eliminate Prospects of Interest Rate Rise",
     "lat": "Trump is attacking California&#x27;s ability to protect its coastline. The consequences are &#x27;chilling&#x27;",
-    "glob": "Morning Update: Trucking firm shut down for safety violations",
-    "clar": "Socorro Venegas: “Mi revolución fue preguntarme por qué no hablo la lengua de mi madre”",
-    "lnac": "El juego Quake cumple 30 años y lo celebra con un episodio nuevo para sus fans",
-    "folh": "Bruna Biancardi vai � rua 25 de Mar�o para preparar festa junina em agosto com Neymar",
-    "tiemp": "Pulso por la Rectoría de Uniatlántico: Procuraduría suspende a Castillo por tres meses mientras él cuestiona el alcance del fallo judicial",
-    "univ": "Sheinbaum: México y Perú restablecen relaciones tras salvoconducto a Betssy Chávez; exprimera ministra viaja a territorio mexicano",
+    "glob": "Two 18-year-olds charged in deadly shooting at Salsa on St. Clair festival",
+    "clar": "García Cuerva criticó al Gobierno e hizo un llamado a la sociedad en San Cayetano: \"No decimos nada ante hermanos que revuelven la basura para comer\"",
+    "lnac": "El crimen de Agostina Vega: detuvieron a la pareja que vivía en la planta alta de la casa donde mataron a la víctima",
+    "folh": "Justi�a condena Flordelis a indenizar em R$ 200 mil pai e irm� de pastor morto em 2019",
+    "tiemp": "Más de 12.000 policías y soldados garantizarán la seguridad de Medellín y el Área Metropolitana durante la jornada de posesión presidencial",
+    "univ": "Sheinbaum garantiza coordinación con el Comando Sur de EU; destaca defensa de la soberanía",
     "lemon": "Renforcement attendu de la vague de chaleur ces prochains jours : vers l’une des plus longues jamais observées en France",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "科捜研元職員の不正で再審請求　「初めて第三者が鑑定を検証できる」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Walkathon for safety of healthcare workers",
-    "str": "Seven passengers on boat intercepted near Kinshasa test negative for Ebola",
-    "nat": "I was failed twice: First by the man who raped me, then by the stigma that followed",
-    "lmaf": "« Les musulmans de l’enclave sont constamment sommés de prouver qu’ils sont de vrais Espagnols » : Ceuta à l’épreuve d’une crise migratoire sans précédent",
+    "hindu": "Madurai Corporation imposes hefty fines on shops dumping waste in public places",
+    "str": "French farmers bracing for smallest corn crop since 1980",
+    "nat": "Men, here&apos;s how to properly clean your genitals",
+    "lmaf": "L’Afrique en première ligne du durcissement de la politique migratoire de Donald Trump",
     "smh": "A hotel fit for a king, a tsar and Princess Di doesn’t disappoint",
     "nzh": "Pacific Islands Forum fails to reach consensus on anti-missile statement against China",
-    "alj": "Diego Maradona bloated, bedridden and resigned before death, says masseur",
-    "arab": "Saudi Arabia condemn Iran&#039;s latest attack on the Gulf"
+    "alj": "Sri Lanka prisoners riot leaving 3 dead, 23 injured in chaos",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
