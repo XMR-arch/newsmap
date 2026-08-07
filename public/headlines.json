@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-07T19:58:30.047Z",
+  "timestamp": "2026-08-07T20:44:48.923Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-    "lat": "Ex-gubernatorial candidate pleads not guilty to threats in model ex-girlfriend&#x27;s case",
-    "glob": "Two officers, inmate die in collision during transfer from Edmonton prison",
-    "clar": "Por una ley de Trump: millones de niños en EE.UU. podrían perder comidas escolares gratuitas en el nuevo ciclo lectivo",
-    "lnac": "Cierre nocturno en la autopista Illia y un tramo de Cantilo por obras: horarios y desvíos",
-    "folh": "Desmatamento tem novo recorde m�nimo em 2025 na mata atl�ntica e no pampa",
-    "tiemp": "Tembló dos veces en Colombia este 7 de agosto: conozca magnitud, profundidad y lugar exacto",
-    "univ": "Liberan a un águila real en Chihuahua; le colocan transmisor satelital para dar seguimiento a su adaptación",
+    "nyt": "As Pressure Mounts, U.S. Hunts for Cuba’s Next Leader",
+    "lat": "Judge rejects challenge to California attorney general&#x27;s description of voter ID measure",
+    "glob": "B.C. police launch arson investigations for some wildfires",
+    "clar": "Buscan a un hombre que desapareció en el río Paraná: “Sabe nadar, creo que está vivo”",
+    "lnac": "El mercado laboral de Estados Unidos perdió 23.000 empleos en julio, un golpe para Trump y la Reserva Federal",
+    "folh": "ONS alerta distribuidoras para poss�vel corte de energia no Dia dos Pais",
+    "tiemp": "Volcán Puracé mantiene alerta naranja por cambios en sus parámetros y persistencia en la emisión de gases",
+    "univ": "Jornada de Reforestación 2026: ¿cómo y dónde puedo participar?; consulta aquí la ubicación exacta en tu estado",
     "lemon": "Renforcement attendu de la vague de chaleur ces prochains jours : vers l’une des plus longues jamais observées en France",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "科捜研元職員の不正で再審請求　「初めて第三者が鑑定を検証できる」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Conflict of interest in startup funding panel ‘unavoidable’, says Technology Development Board secretary",
-    "str": "‘A hybrid attack’: Germany holds security meeting over explosive drone found near Ukraine plane",
-    "nat": "Njuri Ncheke elders declare Kindiki Mt Kenya spokesman, vow to defend DP seat",
+    "hindu": "Pen mightier than any weapon: Ex-MP Vijay Sankeshwar",
+    "str": "Russia dismisses German drone incident as 'fabricated provocation'",
+    "nat": "Men, here&apos;s how to properly clean your genitals",
     "lmaf": "Maroc : après l’archevêque de Rabat, un prêtre de Casablanca accusé de violences sexuelles",
     "smh": "Money, drugs and affection used to lure children into crime",
-    "nzh": "City Rail Link 'First Look' events begin",
-    "alj": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "nzh": "Weather: One of NZ's warmest Julys followed by record-breaking lows",
+    "alj": "Contaminated water putting Gaza families at risk",
+    "arab": "Saudi Arabia condemn Iran&#039;s latest attack on the Gulf"
   }
 }
