@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-08-08T11:04:43.010Z",
-  "fetched": 23,
+  "timestamp": "2026-08-08T11:37:49.276Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns",
-    "lat": "Is social media addiction real? Law and science collide in blockbuster federal suit",
-    "glob": "Alberta francophone community, university at odds over changes to Edmonton’s Campus Saint-Jean",
-    "clar": "Dólar CCL hoy: a cuánto cotiza este sábado 08 de agosto",
-    "lnac": "Malezas: el riesgo oculto que viaja en las cosechadoras",
-    "folh": "Influenciadores de visagismo crescem nas redes e expandem neg�cios de consultoria visual",
+    "lat": "Arellano: The Lineage fire stunk up this Catholic church. Members are fighting back — again",
+    "glob": "Two 18-year-olds charged with first-degree murder in Toronto festival shooting",
+    "clar": "Euro hoy en Venezuela: precio y cotización de la divisa este sábado 8 de agosto de 2026",
+    "lnac": "Hay alerta amarilla por frío extremo, vientos y Zonda para este sábado 8 de agosto: las provincias afectadas",
+    "folh": "Fernanda Montenegro cancela sua participa��o na Flin por conjuntivite aguda",
     "tiemp": "¿Se acaba el Centro Cultural de Cali por ser sede alternativa de la Presidencia de la República de Colombia?",
     "univ": "“Ningún gobierno o estado debe definir la verdad\"",
     "lemon": "Sur les traces de Jeffrey Epstein à Saint-Tropez, l’autre lieu de prédation du financier américain en France",
@@ -25,15 +26,14 @@
     "guar": "Spain to introduce temporary border checks on visitors from Italy",
     "elpais": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Primeros controles a viajeros desde Italia: “A los que no tenían DNI les han llevado a otra sala para identificarles”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "海水浴場で溺れた60代男性が死亡　千葉・南房総",
+    "asahi": "【更新中】日本被団協、長崎市で結成70年祝賀会　原爆犠牲者に黙禱",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Delhi police action: A grave concern for India’s democracy",
-    "str": "Drones spotted above German military base two days after suspected drone attack",
-    "nat": "The tiny, weekly patch that prevents pregnancy",
+    "hindu": "Traffic curbs imposed on Thamarassery Ghat Pass amid heavy rainfall and landslip risks",
+    "str": "Turkey restricts Black Sea ship traffic after surge in attacks",
     "lmaf": "Sénégal : 28 hommes poursuivis pour homosexualité présumée remis en liberté",
-    "smh": "Wright fires Wallabies in front",
+    "smh": "Freddy backs reaction to Bunker&#39;s no try",
     "nzh": "Mistake to omit creative arts technologies from new school subjects, drama teachers say",
-    "alj": "How Israel’s occupation fuels resistance",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "alj": "Woman screams for her man as Ukraine war recruiters pounce",
+    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
