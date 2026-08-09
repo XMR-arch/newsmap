@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-09T23:14:43.702Z",
-  "fetched": 22,
+  "timestamp": "2026-08-09T23:48:23.889Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,12 +14,12 @@
   "headlines": {
     "nyt": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
     "lat": "Elderly couple dies in Santa Monica home fire",
-    "glob": "Alberta RCMP investigating after human remains belonging to a 12-year-old found",
-    "clar": "Burbuja de la IA: Ben Affleck vendió su empresa de inteligencia artificial por más de 500 millones de dólares",
-    "lnac": "Mataron a puñaladas a una mujer en Luján: sus tres hijos vieron todo e intentaron defenderla",
-    "folh": "Petr�leo abre semana em alta com incertezas sobre reabertura do estreito de Hormuz",
-    "tiemp": "Temblor hoy 9 de agosto en Colombia: epicentro, profundidad y detalles del sismo reportado esta tarde en Chocó",
-    "univ": "La megafarmacia ya no es ni bodega; inaugurada en 2023, hoy se encuentra vacía y desolada",
+    "glob": "Canadian murder rate has biggest year-over-year decline in 40 years, StatsCan says",
+    "clar": "Aurelio Rojas, cardiólogo: “La ciencia lo acaba de confirmar: las personas que toman café en cantidades moderadas tienen mejor función cardiovascular”",
+    "lnac": "Piden explicaciones al Gobierno por la represión de “agentes armados sin uniforme” en la última marcha en el Congreso",
+    "folh": "M�e e filha morrem ap�s barco virar perto da Est�tua da Liberdade, em Nova York",
+    "tiemp": "Ejército desmiente a falso soldado viral en redes sociales que fue exaltado por el expresidente Gustavo Petro: &#039;No pertenece a la institución&#039;",
+    "univ": "“Lineamientos no implican censura, pero se extralimitan”: Raúl Trejo Delarbre",
     "lemon": "Clémence Girard, directrice de la section criminalité organisée du parquet de Paris : « L’Ile-de-France est une importante destination de stupéfiants »",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
     "guar": "Spain to introduce temporary border checks on visitors from Italy",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "住宅街のプレハブに遺体冷蔵庫　自治体に営業　忍び寄る無縁ビジネス",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
+    "hindu": "West Asia war updates: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
     "str": "While You Were Sleeping: 5 stories you might have missed, Aug 10, 2026",
+    "nat": "Sifuna promises to revert Mumias back to public, if elected President",
     "lmaf": "Le pape Léon XIV appelle à l’ouverture de couloirs humanitaires au Soudan",
-    "smh": "‘Gang war’: Suspected Irish crime kingpin charged after high-security Dubai extradition",
-    "nzh": "Police officer Matthew Rogers' online search for pornographic material revealed in documents",
-    "alj": "What’s driving unrest in Pakistan-administered Kashmir?",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "smh": "Irish gang boss extradited",
+    "nzh": "Emissions-saving furnace fires up at Glenbrook Steel Mill",
+    "alj": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
