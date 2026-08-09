@@ -1,14 +1,12 @@
 {
-  "timestamp": "2026-08-09T14:16:47.559Z",
-  "fetched": 21,
+  "timestamp": "2026-08-09T14:55:14.734Z",
+  "fetched": 23,
   "failed": [
     "wapo",
-    "folh",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -16,10 +14,11 @@
   "headlines": {
     "nyt": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
     "lat": "Shaikin: The Shohei Ohtani Economy: a two-mile ride to Dodger Stadium, for $85",
-    "glob": "B.C. wildfire shows little growth overnight as RCMP investigate possible death",
-    "clar": "Un jubilado quedó cuatro años sin cobrar por un error del Estado y la Justicia ordenó indemnizarlo con más de 94 millones",
-    "lnac": "Pampita contó el drama económico que atravesaron con Benjamín Vicuña cuando quedó embarazada de Blanca",
-    "tiemp": "Hallaron sin vida en Cartagena a quien sería uno de los dos tripulantes desaparecidos tras el naufragio de una embarcación",
+    "glob": "Poilievre asks Carney in letter to not concede to Trump’s demands during trade talks",
+    "clar": "El mensaje del líder religioso de Paraguay que publicó la última foto conocida de Jorge Messi con vida",
+    "lnac": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy",
+    "folh": "Gasolina cara nos EUA impulsiona venda de h�bridos de Toyota e Hyundai",
+    "tiemp": "Abelardo De la Espriella hará su primera visita como presidente a Medellín para el Desfile de Silleteros",
     "univ": "“Lineamientos no implican censura, pero se extralimitan”: Raúl Trejo Delarbre",
     "lemon": "Israël « rejette » le plan américain pour Gaza accepté par le Hamas, annonce Benyamin Nétanyahou",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "長崎の被爆者も高市発言を疑問視「非核三原則の堅持、本音は別では」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "KCR visits Nallabelli, consoles bereaved family of Peddi Sudarshan Reddy",
+    "hindu": "Kerala Farm Awards: farm tourism, wildlife protection initiatives win Koduvally State-level recognition",
     "str": "Syria and Russia reach deal on future of Tartous and Hmeimim bases after 18 months of talks",
+    "nat": "Signs that say you are too dependent on your partner",
     "lmaf": "Le pape Léon XIV appelle à l’ouverture de couloirs humanitaires au Soudan",
     "smh": "VietJet to offer international flights from Western Sydney",
     "nzh": "Two arrested after fleeing vehicle collides with police car",
-    "alj": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+    "alj": "Gaza engineer builds animal shelters out of empty cans",
     "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
