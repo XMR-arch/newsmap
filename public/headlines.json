@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-08-09T15:55:42.354Z",
-  "fetched": 22,
+  "timestamp": "2026-08-09T16:29:00.221Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
-    "lat": "SoCal heat wave: triple-digit temperatures, fire weather and coastal flooding in store",
+    "lat": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
     "glob": "B.C. wildfire shows little growth overnight as RCMP investigate possible death",
     "clar": "Lionel Messi despidió a su papá Jorge junto a su familia y amigos en una íntima ceremonia en Rosario",
-    "lnac": "La mora total de los argentinos se quintuplicó en 18 meses y supera el 30% fuera de los bancos",
-    "folh": "Partidos repetem irregularidades no uso de verba p�blica, mas puni��es s�o brandas",
-    "tiemp": "Este lunes comienza el periodo sancionatorio para la nueva rotación del pico y placa en Medellín: esto es lo que debe saber",
+    "lnac": "Cuándo vuelve la Fórmula 1 2026: día y horario del Gran Premio de Hungría",
+    "folh": "Morre Dominique Frot, atriz de &apos;Titane&apos; e irm� da artista Catherine Frot, aos 68 anos",
+    "tiemp": "Conmebol da visto bueno a avances del Metropolitano de Barranquilla para la final de la Copa Sudamericana: el 21 de noviembre será el partido",
     "univ": "“Lineamientos no implican censura, pero se extralimitan”: Raúl Trejo Delarbre",
     "lemon": "Trente ans après le meurtre du rappeur Tupac Shakur, un procès pour résoudre une affaire jamais élucidée",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "長崎の被爆者も高市発言を疑問視「非核三原則の堅持、本音は別では」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "State softball body to conduct regional tournaments",
+    "hindu": "Jharkhand students protest LIVE updates: Students announce march to Assembly tomorrow; Jharkhand Governor accepts resignations of three JPSC members amid aspirants' protest",
     "str": "British Columbia to get federal assistance as wildfire forces evacuations",
+    "nat": "Signs that say you are too dependent on your partner",
     "lmaf": "Le pape Léon XIV appelle à l’ouverture de couloirs humanitaires au Soudan",
-    "smh": "VietJet to offer international flights from Western Sydney",
+    "smh": "Fraser’s Blues on cusp of finals spot as injury-ravaged Saints’ season slips away",
     "nzh": "Two arrested after fleeing vehicle collides with police car",
-    "alj": "War on Iran: Phase II: Day 29",
+    "alj": "How Israel’s occupation fuels resistance",
     "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
