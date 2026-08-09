@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-09T11:26:59.810Z",
-  "fetched": 22,
+  "timestamp": "2026-08-09T11:55:09.087Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -16,8 +15,8 @@
     "nyt": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
     "lat": "Shaikin: The Shohei Ohtani Economy: a two-mile ride to Dodger Stadium, for $85",
     "glob": "RCMP investigate possible Okanagan wildfire death as B.C. government declares state of emergency",
-    "clar": "Euro hoy en Uruguay: precio y cotización de la divisa este domingo 9 de agosto de 2026",
-    "lnac": "Netanyahu rechazó el plan de EE.UU. para Gaza respaldado por Hamas",
+    "clar": "Joan Baseiria, sastre de 81 años: \"La mayoría de ropa actual ya no es ni de algodón ni de lana\"",
+    "lnac": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy",
     "folh": "Saxofonista Dick Parry, que tocou com Pink Floyd, deixa patrim�nio de R$ 384 mil",
     "tiemp": "Hallaron sin vida en Cartagena a quien sería uno de los dos tripulantes desaparecidos tras el naufragio de una embarcación",
     "univ": "“Lineamientos no implican censura, pero se extralimitan”: Raúl Trejo Delarbre",
@@ -26,14 +25,15 @@
     "guar": "Spain to introduce temporary border checks on visitors from Italy",
     "elpais": "Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "熊本地震の住家被害、2万棟を超す　早期把握に向けて人工衛星も活用",
+    "asahi": "原爆投下と真珠湾攻撃「加害と被害を乗り越え」語りつなぐ2人の思い",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "CPI(M) accuses Beypore police of removing flex boards on Ayodhya temple theft",
-    "str": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says",
+    "hindu": "With CJP getting millions of followers, Kejriwal changes messaging style",
+    "str": "Pope Leo renews call for Ukraine war to end",
+    "nat": "MP Ndindi Nyoro fence-sitting gamble as Mt Kenya shifts ahead of 2027",
     "lmaf": "Au Sénégal, le long combat des héritiers d’El Hadj Omar Tall pour le retour du « trésor de Ségou » pillé sous la colonisation",
-    "smh": "Saints&#39; main man hobbles off with injury",
+    "smh": "BHP workers in Port Hedland walk off the job for second day",
     "nzh": "Two arrested after fleeing vehicle collides with police car",
-    "alj": "Russian forces kill several in Ukraine, launch ‘brutal’ attack in Odesa",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "alj": "Hundreds forced onto Rome streets amid crackdown on squatted building",
+    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
   }
 }
