@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-09T11:55:09.087Z",
-  "fetched": 23,
+  "timestamp": "2026-08-09T12:37:51.191Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,10 +15,10 @@
   "headlines": {
     "nyt": "Trump Crypto Took $100 Million From a Businessman With Red Flags",
     "lat": "Shaikin: The Shohei Ohtani Economy: a two-mile ride to Dodger Stadium, for $85",
-    "glob": "RCMP investigate possible Okanagan wildfire death as B.C. government declares state of emergency",
-    "clar": "Joan Baseiria, sastre de 81 años: \"La mayoría de ropa actual ya no es ni de algodón ni de lana\"",
-    "lnac": "La despedida a Jorge Messi: mensajes, repercusiones y últimas noticias del papá de Lionel Messi hoy",
-    "folh": "Saxofonista Dick Parry, que tocou com Pink Floyd, deixa patrim�nio de R$ 384 mil",
+    "glob": "B.C. wildfire shows little growth overnight as RCMP investigate possible death",
+    "clar": "Un cirujano reconstruyó una nariz en la frente del paciente",
+    "lnac": "Cuál es el pozo del Quini 6 para el sorteo de este domingo 9 de agosto",
+    "folh": "Netanyahu diz que Ir� n�o ter� arma nuclear, e houthis atacam refinaria saudita na costa do Mar Vermelho",
     "tiemp": "Hallaron sin vida en Cartagena a quien sería uno de los dos tripulantes desaparecidos tras el naufragio de una embarcación",
     "univ": "“Lineamientos no implican censura, pero se extralimitan”: Raúl Trejo Delarbre",
     "lemon": "Trente ans après le meurtre du rappeur Tupac Shakur, un procès pour résoudre une affaire jamais élucidée",
@@ -25,15 +26,14 @@
     "guar": "Spain to introduce temporary border checks on visitors from Italy",
     "elpais": "Llega el día de las dos noches: millones de españoles buscan su lugar para ver el eclipse",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "原爆投下と真珠湾攻撃「加害と被害を乗り越え」語りつなぐ2人の思い",
+    "asahi": "長崎の被爆者も高市発言を疑問視「非核三原則の堅持、本音は別では」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "With CJP getting millions of followers, Kejriwal changes messaging style",
-    "str": "Pope Leo renews call for Ukraine war to end",
-    "nat": "MP Ndindi Nyoro fence-sitting gamble as Mt Kenya shifts ahead of 2027",
-    "lmaf": "Au Sénégal, le long combat des héritiers d’El Hadj Omar Tall pour le retour du « trésor de Ségou » pillé sous la colonisation",
+    "hindu": "Two minor girls allegedly sexually assaulted near Machilipatnam",
+    "str": "Iran’s Pezeshkian recently met Supreme Leader Khamenei, state media says",
+    "lmaf": "Le pape Léon XIV appelle à l’ouverture de couloirs humanitaires au Soudan",
     "smh": "BHP workers in Port Hedland walk off the job for second day",
     "nzh": "Two arrested after fleeing vehicle collides with police car",
-    "alj": "Hundreds forced onto Rome streets amid crackdown on squatted building",
-    "arab": "Saudi inflation remains contained at 1.8% in May: GASTAT"
+    "alj": "Nigeria mass weddings ease financial burden for couples",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
