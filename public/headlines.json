@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-10T17:30:32.074Z",
+  "timestamp": "2026-08-10T18:25:41.394Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,12 +13,12 @@
   ],
   "headlines": {
     "nyt": "Trump Shrugs Off A.I. and Data Center Concerns as Voters Grow Anxious",
-    "lat": "Your guide to the California governor&#x27;s race: Xavier Becerra vs. Steve Hilton",
-    "glob": "RCMP investigate possible Okanagan wildfire death as B.C. government declares state of emergency",
-    "clar": "Vacunatorio Vip: pidieron la indagatoria de Duhalde, Verbitsky, Taiana y otras personas que recibieron las dosis",
-    "lnac": "De qué murió Ben Jones, el actor que interpretó a Cooter Davenport en los Duques de Hazzard",
-    "folh": "Beyonc� adquire participa��o da LVMH na marca de u�sque SirDavis",
-    "tiemp": "Barranquilla activa centro de acopio para ayudar a los damnificados por el terremoto de magnitud 7,4 en Colombia: esta es su ubicación",
+    "lat": "A much-needed cool-down is on the horizon for SoCal this week",
+    "glob": "Military ready to assist B.C. with wildfire relief efforts, Ottawa says",
+    "clar": "Javier Milei y sus medidas, EN VIVO: el Presidente tuvo un gesto de apoyo con Federico Sturzenegger en medio de las internas por el fracaso de la Ley de Tierras",
+    "lnac": "Fuerte terremoto de magnitud 7,4 sacude a Colombia y se suman réplicas en distintos distritos",
+    "folh": "SBT avalia n�o renovar contrato com Lucas Guimar�es por causa de audi�ncia",
+    "tiemp": "Impresionante video muestra cómo soldados del Ejército estaban en formación en el Eje Cafetero y se desploma la estructura de alrededor",
     "univ": "INE reporta producción de 3.3 millones de credenciales para votar; avanza en normalización de tiempos de entrega",
     "lemon": "Guillaume Pley, le fondateur du média « Legend », accusé d’échanges en ligne à caractère sexuel avec plusieurs mineures",
     "spieg": "The New Axis of Evil: DER SPIEGEL Investigation Reveals Deep Military Cooperation between Russia and China",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "中日ドラゴンズ・嶋ヘッドコーチの車が自転車と衝突　東京・小金井",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Europe braces for another summer heatwave",
-    "str": "Man arrested after speedboat flips near Statue of Liberty, killing two",
+    "hindu": "Trade unions stage picketing, prison fill protest in Madurai against Union government policies",
+    "str": "US had hottest month on record in July",
     "nat": "Decision 2027: Civil society groups demand urgent electoral reforms ahead of 2027 polls",
     "lmaf": "Les étudiants marocains touchés de plein fouet par la hausse des frais d’inscription en France",
     "smh": "Dozens killed and more trapped after powerful earthquake shakes Colombia",
-    "nzh": "Police didn't know child victim's name in reopened abuse case, documents reveal",
-    "alj": "Iran’s president says Khamenei is in ‘perfect health’",
+    "nzh": "Number of teens with no qualifications higher than reported",
+    "alj": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
