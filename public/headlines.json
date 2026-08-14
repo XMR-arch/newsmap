@@ -1,25 +1,26 @@
 {
-  "timestamp": "2026-08-14T17:04:40.081Z",
-  "fetched": 23,
+  "timestamp": "2026-08-14T18:00:27.221Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
-    "nyt": "Trump’s Justice Dept. Targets Smaller Fraud Cases",
-    "lat": "A 150-pound statue was found buried in a San Francisco backyard. Its origin is a mystery",
-    "glob": "New Brunswick MP who wants to avoid pay raise takes request to court",
-    "clar": "Hasta ahora solo 4 bancos se anotaron en el programa de refinanciación de deuda de la Ciudad: cuáles son los beneficios que ofrecen",
-    "lnac": "Hacer ejercicio al aire libre con frío: las razones por las que puede rendir más y los signos de alarma que indican que hay que parar",
-    "folh": "Pol�cia italiana recupera quadros roubados de C�zanne, Renoir e Matisse",
-    "tiemp": "Terremoto en Colombia: donaciones recogidas por la Andi en Cartagena superan los $50.000 millones para damnificados",
-    "univ": "Sheinbaum rechaza que exista la \"lista negra\" de Luisa Alcalde; \"¿a quién se le censura, a quién?\", arremete",
+    "nyt": "What’s Next for Luigi Mangione After His Guilty Plea?",
+    "lat": "Injured mountain lion found in a San Dimas neighborhood was euthanized, wildlife officials say",
+    "glob": "WestJet flight attendants’ harassment suit settled for $4.5-million",
+    "clar": "Más de 3.600 días de licencia laboral en 18 años: denunciaron a un director de escuela rural en Misiones por defraudación al Estado provincial",
+    "lnac": "Denunciaron penalmente al exdirector de escuela que se tomó más de 3300 días de licencia y le imputan “defraudación contra el Estado”",
+    "folh": "Grande Rio quer Paolla Oliveira de volta e trata atriz como �nica op��o para substituir Virginia",
+    "tiemp": "Estas son las funerarias que prestarán servicio gratuito a víctimas del terremoto en Colombia: así puede solicitarlo",
+    "univ": "Hija de Ruffo Appel asegura que su padre sigue con los tenis de cuando fue detenido hace casi un mes; contrasta versión de la SSPC",
     "lemon": "« En quarante-huit ans de métier, je n’ai jamais vu ça » : les fortes chaleurs précipitent les vendanges et font craindre de faibles rendements",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "American missionary kidnapped in Niger freed after nine months",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "きょう終戦81年　全国戦没者追悼式に遺族ら　戦後生まれは過去最高",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Island administration looking at data centre project on Nicobar",
+    "hindu": "No directive to sing Vande Mataram in Kerala schools on Independence Day",
     "str": "Luigi Mangione admits shooting health care CEO",
-    "nat": "MPs pass public participation law: Here is what it means for you",
     "lmaf": "Au Soudan du Sud, plus de 650 000 réfugiés menacés de perdre l’aide de l’ONU",
     "smh": "Luigi Mangione pleads guilty in federal case, admits killing insurance CEO",
     "nzh": "Firefighters battle blaze at Gloriavale Christian Community",
-    "alj": "Analysis: Israel’s government can’t disown West Bank settler violence",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "alj": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+    "arab": "Gaza Board of Peace official says plan is still operative"
   }
 }
