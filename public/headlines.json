@@ -1,24 +1,23 @@
 {
-  "timestamp": "2026-08-15T09:49:49.161Z",
-  "fetched": 22,
+  "timestamp": "2026-08-15T10:06:19.802Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
-    "nyt": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
+    "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
     "lat": "Man shot and killed by deputies after firing at Edison employees, authorities say",
-    "glob": "Stellantis mulling sale of Brampton plant, union says",
-    "clar": "Con sus lluvias abundantes y olas de calor, El Niño obliga a redefinir las estrategias de manejo",
-    "lnac": "Abogados en EE.UU. coinciden: los migrantes que deben preocuparse por el ICE en los aeropuertos",
-    "folh": "Borboletas mudam de habitat em 105 pa�ses por causa da mudan�a clim�tica",
+    "glob": "Demand grows for gender-affirming voice surgery, but access remains limited",
+    "clar": "Revés para Greg Abbott: pronosticó que la gasolina en Texas costaría menos de US$2 para el final del verano",
+    "lnac": "La pyme familiar que hizo el cambio generacional y hace tres años encontró del otro lado del mundo un aliado para crecer",
+    "folh": "Al�m de crueldade, estupidez estava no DNA do escravismo romano",
     "tiemp": "Terremoto en Colombia hoy 15 de agosto: Karol G y Maluma liderarán un concierto solidario tras la emergencia; EE. UU. suma US$11 millones en ayuda",
     "univ": "Superpeso llega a 16.98 unidades por dólar",
     "lemon": "Dans le Sud-Est, une vague de chaleur qui ne retombe jamais : « J’ai l’impression de revivre le confinement »",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "天皇陛下、戦没者追悼式でおことば　「深い反省」　「苦難語り継ぐ」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Dipke launches ‘School Thik Karo’ campaign, alleges govt neglect; seeks capping of fees at private schools",
+    "hindu": "Return what was taken away from J&K: Omar Abdullah in his I-Day speech",
     "str": "Summer campaign has led to capture of 19 settlements in southeast Ukraine, Russia says",
+    "nat": "&apos;Pick a side&apos;: US demands total loyalty in AI race against China",
     "lmaf": "Au Kenya, la mort préoccupante d’éléphants, victimes de mystérieux empoisonnements",
-    "smh": "Two billy goats boarded a bus in Portland. They did not have tickets",
-    "nzh": "Auckland Airport enters next phase of international terminal redevelopment",
+    "smh": "Moses&#39; nails captain&#39;s challenge",
+    "nzh": "Water main bursts in Porirua, causing hours of disruption",
     "alj": "Bangladesh rock Australia as historic Test win in sight",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
