@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-08-15T16:34:30.372Z",
-  "fetched": 21,
+  "timestamp": "2026-08-15T16:55:10.700Z",
+  "fetched": 23,
   "failed": [
     "wapo",
-    "tiemp",
     "terc",
     "com",
     "volk",
     "chos",
     "mav",
     "taus",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
     "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
     "lat": "&#x27;Revenge of the Nerds&#x27; star Robert Carradine&#x27;s family sues UCLA over his death",
     "glob": "Montreal port expansion construction progresses as part of federal ‘nation-building’ projects",
     "clar": "Murió Bonnie Tyler: así fue el emotivo cortejo fúnebre en Gales al ritmo de “Total Eclipse of the Heart”",
-    "lnac": "La foto que subió la China Suárez desde “la casa de los sueños” que habría enfurecido a Wanda Nara",
-    "folh": "Como a Austr�lia, conhecida por sua fauna exuberante, tornou-se o epicentro das extin��es no planeta",
+    "lnac": "Préstamos de automóviles e hipotecas: el problema de la deuda que amenaza al sueño americano",
+    "folh": "Milhares de f�s de Bonnie Tyler celebram a cantora �s v�speras de funeral",
+    "tiemp": "Escándalo en Medellín: Fiscalía llama a juicio a exfuncionarios de la alcaldía Quintero por sobrecostos multimillonarios en el deporte",
     "univ": "Congreso exhorta a regular circulación de motocicletas en México; busca frenar accidentes y delitos",
     "lemon": "EN DIRECT, incendies et canicule : 64 départements restent en vigilance orange canicule jusqu’à dimanche matin ; 1 650 hectares ravagés par les flammes en Belgique",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "熊本地震の住家被害、3万棟上回る　死者3人の居住自治体なども公表",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Anti-drug pledge administered at gram sabha meetings",
+    "hindu": "Even as government considers MDR charge on UPI, data shows cash usage quickening in economy",
     "str": "Palestinians in Qusra say they have faced militant settler attacks for months",
     "nat": "7 dead as dowry ceremony bound matatu plunges into gorge",
     "lmaf": "Au Kenya, la mort préoccupante d’éléphants, victimes de mystérieux empoisonnements",
     "smh": "Why the Hawks and Pies both won out of their historic draw",
     "nzh": "Water main bursts in Porirua, causing hours of disruption",
-    "alj": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return"
+    "alj": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
