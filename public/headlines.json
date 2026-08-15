@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-15T10:53:38.240Z",
-  "fetched": 22,
+  "timestamp": "2026-08-15T11:10:18.385Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,10 +14,10 @@
   "headlines": {
     "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
     "lat": "California Uber and Lyft drivers&#x27; union could be certified in less than 30 days",
-    "glob": "Inside the early battle against the ferocious Bald Range wildfire",
-    "clar": "Vendió su casa por 112.000 euros para vivir en una autocaravana y teletrabajar; ahora asegura que ahorra hasta 400 euros al mes",
-    "lnac": "De ver a su padre trabajar en los sets a compartir pantalla con él: la historia del heredero de Hollywood",
-    "folh": "&apos;Sofri agress�es das mais diversas formas&apos;, diz ex-mulher de Latino",
+    "glob": "Physicists want to catch neutrinos in the sea. Step 1: Make sure their machinery won’t drown",
+    "clar": "Dólar hoy en Venezuela: precio y cotización de la divisa este sábado 15 de agosto de 2026",
+    "lnac": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
+    "folh": "Lix�o de cacarecos em �rbita",
     "tiemp": "Dan de baja a alias Momo en Antioquia, un presunto cabecilla del clan del Golfo: así lo anunció el presidente de Colombia, Abelardo De La Espriella",
     "univ": "Superpeso llega a 16.98 unidades por dólar",
     "lemon": "Dans le Sud-Est, une vague de chaleur qui ne retombe jamais : « J’ai l’impression de revivre le confinement »",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "惨禍を繰り返さ「せ」ない　高市首相の式辞に加わった1文字への懸念",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Palakkad railway division celebrates Independence Day",
-    "str": "Trump’s 2024 grocery photo op now haunts Republicans in the midterms",
+    "hindu": "West Asia war LIVE: Israeli airstrike on southern Lebanon kills 7 people, Lebanese state media say",
+    "str": "German wildfire near Belgian border under control, local authorities say",
+    "nat": "7 dead as dowry ceremony bound matatu plunges into gorge",
     "lmaf": "Au Kenya, la mort préoccupante d’éléphants, victimes de mystérieux empoisonnements",
-    "smh": "A five-star intervention in an uneven night of dance",
+    "smh": "Fraud charges for former WA Nationals candidate accused of hit-run",
     "nzh": "Water main bursts in Porirua, causing hours of disruption",
-    "alj": "At scene of deadly Israeli strike on Lebanon home",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "alj": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
+    "arab": "Gaza Board of Peace official says plan is still operative"
   }
 }
