@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-15T05:01:28.250Z",
-  "fetched": 23,
+  "timestamp": "2026-08-15T05:33:03.448Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,8 +16,8 @@
     "nyt": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
     "lat": "Man shot and killed by deputies after firing at Edison employees, authorities say",
     "glob": "Stellantis mulling sale of Brampton plant, union says",
-    "clar": "\"Más fondos al PAMI es igual a querer apagar un incendio con nafta\"",
-    "lnac": "El Eternauta, una versión libre y argentina de La Odisea",
+    "clar": "Los caciques levantan bandera blanca",
+    "lnac": "Gabriel Rolón, psicólogo: “Amar a alguien es otorgarle un poder sobre vos, y el amor sano es el que nunca usa ese poder para dañarte”",
     "folh": "Terremoto de magnitude 7,7 deixa 2 mortos na Indon�sia",
     "tiemp": "La última llamada de la pareja mexicana con sus familiares antes de desaparecer en Pereira tras terremoto en Colombia: pistas con las que los buscan",
     "univ": "Importante, que se conozca motivo de retiro de visa de Andy López, dice Kenia López; podría haber dos razones, explica",
@@ -25,15 +26,14 @@
     "guar": "American missionary kidnapped in Niger freed after nine months",
     "elpais": "Despliegue policial inédito en Ceuta ante el temor a una nueva entrada masiva: claves de la crisis fronteriza",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "天皇陛下、戦没者追悼式でおことば　「苦難を今後とも語り継ぎ」",
+    "asahi": "ベトナム食材店から410万奪った疑い、30歳男を逮捕　2人が逃走",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Kerala Vigilance arrests Assistant Labour Officer in Kottayam for accepting bribe",
+    "hindu": "Independence Day 2026: PM Modi appeals to Oppn. to help implement women’s quota, says ‘you may take the credit’",
     "str": "US takes risky bet on private ‘pirates’ to combat cybercrime",
-    "nat": "&apos;Pick a side&apos;: US demands total loyalty in AI race against China",
     "lmaf": "Cartographie : le durcissement de la politique migratoire de Donald Trump en Afrique",
-    "smh": "Police give update on missing hiker",
+    "smh": "Trindall dislocates shoulder while scoring",
     "nzh": "Live: Powerful 7.7 magnitude earthquake strikes off coast of Indonesia",
-    "alj": "Iran says no decision yet on a return to talks with the US",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "How a Sudanese refugee became a head teacher in a Chadian camp",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
