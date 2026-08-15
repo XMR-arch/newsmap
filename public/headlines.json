@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-15T19:49:23.952Z",
-  "fetched": 22,
+  "timestamp": "2026-08-15T20:00:24.722Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
@@ -9,16 +9,15 @@
     "chos",
     "mav",
     "taus",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
     "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
     "lat": "&#x27;Revenge of the Nerds&#x27; star Robert Carradine&#x27;s family sues UCLA over his death",
     "glob": "Quebec judge approves $31.5-million abuse settlement in lawsuit against archdiocese",
     "clar": "El comercio mejora el bienestar de los pueblos",
-    "lnac": "Por dónde pasan Boca vs. Platense y qué canal lo transmite en vivo",
-    "folh": "Augusto Cury tem maior patrim�nio entre presidenci�veis, e Lula registra queda de bens",
+    "lnac": "Estudiantes vs. Gimnasia, en vivo, por el torneo Clausura",
+    "folh": "Ex-�rbitros veem chance de melhora no futebol brasileiro com novas regras",
     "tiemp": "Atlántico | Asesinan violentamente a dos jóvenes de 17 y 19 años en Soledad: una de las víctimas era futbolista de un club formativo",
     "univ": "CNDH emite recomendación por muerte de interno con cáncer en Cefereso de Sonora; pide reparación integral del daño",
     "lemon": "EN DIRECT, incendies et canicule : plus de 2 000 hectares ravagés en Belgique ; dans les Landes, le feu ne progresse plus mais n’est « pas en voie » d’être fixé",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "熊本地震の住家被害、3万棟上回る　死者3人の居住自治体なども公表",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "What freedom means: at Red Fort, people speak about hope, unease, equality, pride",
-    "str": "Woman rescued from rubble of Colombia quake dies",
-    "nat": "Kenya names 24-rider team for FIM Africa Motocross in Namibia",
+    "hindu": "Bishnoi comes out in support of Rao Inderjit, says ignoring seniors will weaken BJP",
+    "str": "Falconry-Canadian falcon commands huge price at Saudi breeders auction",
+    "nat": "Kindiki turns to Mt Kenya elders to unite region ahead of 2027, says DP seat not vacant",
     "lmaf": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’élève à 68 morts",
     "smh": "Are the parents alright? Why raising children feels harder than ever",
     "nzh": "Water back in Porirua after burst pipe caused outages",
-    "alj": "Death toll from Zimbabwe ferry disaster rises to 69"
+    "alj": "Death toll from Zimbabwe ferry disaster rises to 69",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
