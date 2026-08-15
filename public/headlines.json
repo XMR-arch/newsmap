@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-15T05:54:52.746Z",
-  "fetched": 23,
+  "timestamp": "2026-08-15T06:26:06.495Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,8 +16,8 @@
     "nyt": "Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War",
     "lat": "Man shot and killed by deputies after firing at Edison employees, authorities say",
     "glob": "Stellantis mulling sale of Brampton plant, union says",
-    "clar": "Miguel Chordi, propietario de hotel 'pet-friendly': “Aquí preferimos usar el concepto 'first pet'; por ejemplo, la piscina es de los perros y, si quieres, puedes bañarte con ellos”",
-    "lnac": "¡Rearme del PJ! ¡Macri con Kari!  Javi lo hizo",
+    "clar": "Las 8 sólidas entradas de Freeland y el jonrón de Veen dan a Rockies triunfo de 5-2 sobre Gigantes",
+    "lnac": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
     "folh": "Terremoto de magnitude 7,7 deixa 2 mortos na Indon�sia",
     "tiemp": "Terremoto en Colombia hoy 15 de agosto: Karol G y Maluma liderarán un concierto solidario tras la emergencia; EE. UU. suma US$11 millones en ayuda",
     "univ": "Importante, que se conozca motivo de retiro de visa de Andy López, dice Kenia López; podría haber dos razones, explica",
@@ -25,15 +26,14 @@
     "guar": "American missionary kidnapped in Niger freed after nine months",
     "elpais": "Despliegue policial inédito en Ceuta ante el temor a una nueva entrada masiva: claves de la crisis fronteriza",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "ベトナム食材店から410万奪った疑い、30歳男を逮捕　2人が逃走",
+    "asahi": "栄養を取らせねば　「国策雑誌」も料理家も奮闘した戦時下の食事",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Independence Day LIVE updates: In 12 years, India transformed from 'Fragile 5' to world's fastest-growing major economy, says Modi",
+    "hindu": "Trump says will ‘soon’ declare Hormuz Strait U.S. territory",
     "str": "US takes risky bet on private ‘pirates’ to combat cybercrime",
-    "nat": "&apos;Pick a side&apos;: US demands total loyalty in AI race against China",
     "lmaf": "Cartographie : le durcissement de la politique migratoire de Donald Trump en Afrique",
-    "smh": "A man lied about paying this woman for sex. He is now going to jail for rape",
+    "smh": "Mastercard outage affects shoppers globally",
     "nzh": "Laundromat owner Timothy Jeffs intentionally damaged a new store he deemed to be competition",
-    "alj": "How a Sudanese refugee became a head teacher in a Chadian camp",
+    "alj": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
