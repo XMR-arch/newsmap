@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-15T21:07:43.499Z",
+  "timestamp": "2026-08-15T21:32:34.668Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,12 +12,12 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush Money Trial",
+    "nyt": "Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial",
     "lat": "&#x27;Preventable tragedy&#x27;: Ventura County driver sentenced to prison for double-fatal 124-mph crash",
     "glob": "Alberta delays restrictions on flags and national anthem mandate in schools",
-    "clar": "Pánico en una universidad de Virginia: cinco heridos a balazos, uno en estado crítico y varios sospechosos involucrados",
-    "lnac": "Estudiantes vs. Gimnasia, en vivo, por el torneo Clausura",
-    "folh": "� urgente recolocar as contas p�blicas nos trilhos",
+    "clar": "El presidente de Colombia habló con Trump por el terremoto y le pidió que Estados Unidos suspenda los aranceles",
+    "lnac": "Thiago Tirante le ganó a Novak Djokovic en el Masters 1000 de Cincinnati y consiguió el mejor triunfo de su carrera",
+    "folh": "Matthew McConaughey diz que Jennifer Lopez o livrou de perrengue no M�xico",
     "tiemp": "Hallan sin vida a Valentina, mamá de Salomón, bebé rescatado con vida junto a su padre en Cali: así fue la maratónica jornada de su búsqueda",
     "univ": "Caen dos presuntos integrantes del Cártel de Sinaloa en Mazatlán; llevaban arsenal en tractocamión",
     "lemon": "EN DIRECT, incendies et canicule : plus de 2 000 hectares ravagés en Belgique ; dans les Landes, le feu ne progresse plus mais n’est « pas en voie » d’être fixé",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "熊本地震の住家被害、3万棟上回る　死者3人の居住自治体なども公表",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Jharkhand students demand Congress to ‘withdraw support’ from JMM coalition, CM Soren’s resignation",
+    "hindu": "Jharkhand students demand CM Soren’s resignation, ask Congress to ‘withdraw support’ from JMM coalition",
     "str": "Lala, now a hurricane, dumps heavy rain on Hawaii",
     "nat": "Kenya names 24-rider team for FIM Africa Motocross in Namibia",
     "lmaf": "Zimbabwe : le bilan du naufrage d’un ferry sur le lac Kariba s’élève à 68 morts",
-    "smh": "Port star&#39;s milestone match ends early",
+    "smh": "Retired police called up to fill shortages in Victoria",
     "nzh": "LNG document should not have been hidden, ombudsman says",
-    "alj": "California tackles multiple wildfires as firefighter workforce faces strain",
+    "alj": "Qatar denies it is detaining three Iranian bomber pilots",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
