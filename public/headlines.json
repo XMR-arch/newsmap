@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-16T13:05:13.395Z",
+  "timestamp": "2026-08-16T13:39:21.293Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,11 +13,11 @@
   ],
   "headlines": {
     "nyt": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
-    "lat": "California planned a nuclear exit. Now it&#x27;s reconsidering",
-    "glob": "Crews planting 1.25 million trees in Gros Morne to help forest recover from once abundant moose population",
-    "clar": "Ucrania lanzó uno de sus mayores ataques aéreos con drones contra Rusia desde el inicio de la guerra: hay al menos 6 muertos",
-    "lnac": "Sun Tzu, filósofo chino: “Aparenta ser débil cuando sos fuerte y fuerte cuando sos débil”",
-    "folh": "Acidente com �nibus de turismo deixa 8 mortos em Petr�polis (RJ)",
+    "lat": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?",
+    "glob": "NL and Quebec premiers to make energy announcement on Monday",
+    "clar": "Alarma en Boca por Paredes: qué dice el parte médico y los otros dos jugadores en duda para la Copa Sudamericana",
+    "lnac": "Jerónimo, el hijo de Julián Weich que se alejó de los lujos y construyó su propia casa sustentable en Córdoba",
+    "folh": "Casas Bahia diz que avalia pedir recupera��o extrajudicial ou judicial",
     "tiemp": "Terremoto en Colombia hoy 16 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
     "univ": "Lizbet, una voz joven de México en defensa de la biodiversidad",
     "lemon": "Comment les élus se préparent au vieillissement de la population et à la baisse des naissances",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "埼玉・飯能の高麗川で20代女性が流されたか　搬送時は心肺停止",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Mother-son duo who allegedly killed two women for gold arrested",
+    "hindu": "All organisations must follow the law of the land: Karnataka Chief Minister D.K. Shivakumar",
     "str": "Pope calls for an end to West Bank violence against Palestinians",
-    "nat": "Homa Bay businesses paralysed as youths barricade CBD entrances",
+    "nat": "Tension mounts in Homa Bay as goons storm hotel to hunt for Linda Mwananchi members",
     "lmaf": "Coupe d’Afrique des nations féminine : le Malawi à une victoire de l’un des plus beaux exploits du tournoi",
-    "smh": "Sam Neill honoured at the Logies",
+    "smh": "Andrew Denton inducted into Logie Hall of Fame",
     "nzh": "Kaikōura trust seeks review after DOC decides not to vaccinate penguins amidst bird flu",
-    "alj": "Belgium’s largest wildfire on record spreads towards German border",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "alj": "Patients treated in tents after earthquake damages Indonesia hospital",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
