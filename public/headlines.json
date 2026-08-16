@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-16T19:58:34.084Z",
-  "fetched": 23,
+  "timestamp": "2026-08-16T20:26:27.963Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,11 +16,11 @@
     "nyt": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
     "lat": "Nick Reiner renews demand for trust fund ahead of murder trial in parents&#x27; deaths",
     "glob": "Clock ticks down to new tariffs as Canadian negotiators try to strike deal with U.S.",
-    "clar": "Mónica Cruz, a los 49 años: “Me gusta hacer ayuno. Desayuno café americano y como tostadas con huevo, jamón o aguacate”",
-    "lnac": "Jamal Musiala se desplomó 13 minutos después de ingresar para Bayern Múnich y debió ser atendido",
-    "folh": "Migrantes protestam e pedem asilo em Ceuta, territ�rio da Espanha na �frica",
+    "clar": "Jordy Caicedo, de la gloria a la expulsión: pegó un cabezazo inexplicable y dejó con 10 a Huracán vs Sarmiento de Junín",
+    "lnac": "Los siete hábitos diarios que tienen las personas millonarias, según Tom Corley",
+    "folh": "Fraude em empresa da Stone tenta desviar R$ 350 milh�es em pagamentos de cart�o",
     "tiemp": "Cali recupera el 100% de la energía tras la emergencia y enfrenta nuevos mantenimientos de agua",
-    "univ": "Marina rescata a hombre extraviado en el mar de Chicxulub Puerto, Yucatán; fue localizado junto a su moto acuática",
+    "univ": "Andy López Beltrán es la “cabeza” del huachicol fiscal en México, denuncia el PAN; exige a FGR investigar",
     "lemon": "« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "マンホールで爆発？ふた吹き飛ぶ　「ゴキブリいたから…」福岡・博多",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
+    "hindu": "25 new Atal Canteens opened; 1 lakh people to get ₹5 meals daily",
     "str": "Soldier dies in Spain’s Aragon wildfire",
-    "nat": "Journalists attacked, equipment stolen in Homa Bay political violence",
     "lmaf": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
-    "smh": "The AFL’s quirky rule exposed amid frenzy of Saturday night’s draw",
-    "nzh": "Ted Charlton has a rare medical condition. He's died seven times",
-    "alj": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "smh": "Ukraine bombards Russia",
+    "nzh": "Back country road touted as $25m solution for Awakino Gorge closures",
+    "alj": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
