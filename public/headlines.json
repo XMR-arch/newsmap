@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-16T19:46:32.516Z",
-  "fetched": 22,
+  "timestamp": "2026-08-16T19:58:34.084Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -18,9 +17,9 @@
     "glob": "Clock ticks down to new tariffs as Canadian negotiators try to strike deal with U.S.",
     "clar": "Mónica Cruz, a los 49 años: “Me gusta hacer ayuno. Desayuno café americano y como tostadas con huevo, jamón o aguacate”",
     "lnac": "Jamal Musiala se desplomó 13 minutos después de ingresar para Bayern Múnich y debió ser atendido",
-    "folh": "Ministro extremista de Israel fala em matar &apos;de 30 a 40&apos; por noite na Faixa de Gaza",
+    "folh": "Migrantes protestam e pedem asilo em Ceuta, territ�rio da Espanha na �frica",
     "tiemp": "Cali recupera el 100% de la energía tras la emergencia y enfrenta nuevos mantenimientos de agua",
-    "univ": "México y EU suscriben convenio tecnológico; dan acceso a Sedena al mercado de drones del Ejército estadounidense",
+    "univ": "Marina rescata a hombre extraviado en el mar de Chicxulub Puerto, Yucatán; fue localizado junto a su moto acuática",
     "lemon": "« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -29,11 +28,12 @@
     "asahi": "マンホールで爆発？ふた吹き飛ぶ　「ゴキブリいたから…」福岡・博多",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
-    "str": "Strikes kill 19 in Ukraine and Russia",
+    "str": "Soldier dies in Spain’s Aragon wildfire",
+    "nat": "Journalists attacked, equipment stolen in Homa Bay political violence",
     "lmaf": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
-    "smh": "SubTopia: A Seed for Housing",
+    "smh": "The AFL’s quirky rule exposed amid frenzy of Saturday night’s draw",
     "nzh": "Ted Charlton has a rare medical condition. He's died seven times",
     "alj": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "arab": "Gaza Board of Peace official says plan is still operative"
   }
 }
