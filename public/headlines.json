@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-16T21:45:41.572Z",
-  "fetched": 22,
+  "timestamp": "2026-08-16T21:58:30.030Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -17,8 +16,8 @@
     "lat": "Judge nixes Meta&#x27;s attempts to quash star witness, key evidence out of upcoming child-safety trial",
     "glob": "Clock ticks down to new tariffs as Canadian negotiators try to strike deal with U.S.",
     "clar": "Masters 1000 de Cincinnati: Juan Manuel Cerúndolo ganó una maratón vs Rinderknech y enfrentará a Auger-Aliassime en tercera ronda",
-    "lnac": "Un bebé de un año y medio se atragantó con restos de carne durante una cena en Santiago del Estero y murió",
-    "folh": "Torcida do Vasco provoca Neymar com m�scaras do craque chorando e de Bruna Marquezine",
+    "lnac": "Los siete hábitos diarios que tienen las personas millonarias, según Tom Corley",
+    "folh": "Autoridade do governo Trump acusa Brasil de censura ap�s X alterar algoritmo para elei��o",
     "tiemp": "El fuego no da tregua en Antioquia: despliegan operativos en varios municipios para frenar las llamas",
     "univ": "¿Cuáles son los requisitos para obtener la cartilla militar si tengo 19 años o más?; esto debes llevar si eres “remiso”",
     "lemon": "« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "マンホールで爆発？ふた吹き飛ぶ　「ゴキブリいたから…」福岡・博多",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "After Jharkhand protesters burn Soren, Rahul effigies, State Government calls for fourth round of talks",
+    "hindu": "IPS officer’s mother killed in U.P.’s Ambedkar Nagar, jewellery missing; probe underway",
     "str": "Trump envoy Jared Kushner meets Hamas leader in push to revive Gaza plan",
+    "nat": "From roadblocks to boats: How Linda Mwananchi outmaneuvered armed youths",
     "lmaf": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
     "smh": "Australia news LIVE: Labor marked down on migration; Hanson ramps up fight against gun buyback scheme",
     "nzh": "E-scooter riders will not have to hand signal for turning once in cycle lanes",
     "alj": "Anwar Ibrahim: Malaysia between the superpowers",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
