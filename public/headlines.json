@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-16T19:05:42.508Z",
-  "fetched": 23,
+  "timestamp": "2026-08-16T19:29:16.683Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,12 +15,12 @@
   "headlines": {
     "nyt": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
     "lat": "Authorities identify gunman killed by San Bernardino deputies during tree-trimming dispute",
-    "glob": "Clock ticks down to new tariffs as Canadian negotiators try to strike deal with U.S.",
-    "clar": "Lo que viene:  lo nuevo de \"Outer Banks\" encabeza los estrenos de la semana en el streaming",
-    "lnac": "Un problema inesperado para Boca antes de definir la serie ante Recoleta: Leandro Paredes y otros dos titulares, afuera por lesión",
-    "folh": "Juliano Spyer lan�a &apos;O Brasil dos Evang�licos&apos; em S�o Paulo",
-    "tiemp": "Atlético Bucaramanga cambió autógrafos por ayudas humanitarias para el terremoto: fue un éxito, recogieron en dos horas 12 toneladas de donaciones",
-    "univ": "“Queremos ganar la presidencia en 2030”; Partido Comunista de México está vivo… y  busca el poder permanente",
+    "glob": "NL and Quebec premiers to make energy announcement on Monday",
+    "clar": "Mónica Cruz, a los 49 años: “Me gusta hacer ayuno. Desayuno café americano y como tostadas con huevo, jamón o aguacate”",
+    "lnac": "Remesas desde Nueva York: el acuerdo que protege los envíos de dinero a México y otros cinco países",
+    "folh": "Ministro extremista de Israel fala em matar &apos;de 30 a 40&apos; por noite na Faixa de Gaza",
+    "tiemp": "Cielo rojo en Colombia tras el terremoto: esta es la explicación científica del fenómeno que sorprendió a Galeras",
+    "univ": "México y EU suscriben convenio tecnológico; dan acceso a Sedena al mercado de drones del Ejército estadounidense",
     "lemon": "« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "マンホールで爆発？ふた吹き飛ぶ　「ゴキブリいたから…」福岡・博多",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Man held for fatally attacking his father-in-law in Tiruvannamalai",
-    "str": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm",
-    "nat": "From roadblocks to boats: How Linda Mwananchi outmaneuvered armed youths",
+    "hindu": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market",
+    "str": "Strikes kill 19 in Ukraine and Russia",
     "lmaf": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
-    "smh": "In this Sydney suburb you need to earn $6.3m to be in the top 1%: How does your area compare?",
-    "nzh": "Merchandise out, cashbacks in: Westpac changes credit cards rewards",
+    "smh": "Record number of fraudsters booted from NDIS as Labor negotiates path for cuts",
+    "nzh": "People are going to 'lose hundreds of dollars a week' taking leave, union warns",
     "alj": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
