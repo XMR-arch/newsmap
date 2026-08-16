@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-08-16T22:58:29.326Z",
-  "fetched": 23,
+  "timestamp": "2026-08-16T23:22:46.102Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "Kushner Meets With Hamas to Advance Trump’s Gaza Plan",
-    "lat": "Judge nixes Meta&#x27;s attempts to quash star witness, key evidence out of upcoming child-safety trial",
+    "lat": "Meta, fighting accusations of hurting kids, is dealt major blow over key witness",
     "glob": "Clock ticks down to new tariffs as Canadian negotiators try to strike deal with U.S.",
-    "clar": "Gonzalo Montiel rompió la sequía de River: estuvo 399 minutos sin festejar un gol y le convirtió a Argentinos",
-    "lnac": "Robaron cuatro obras renacentistas de “extraordinario valor” de un museo en Sicilia",
-    "folh": "Fisiculturista Dwayne Quamina morre aos 40 nos EUA",
+    "clar": "Scottie Scheffler vuelve a su nivel dominante y abre postemporada de la PGA con triunfo",
+    "lnac": "River consiguió un triunfo indispensable ante el líder, ganó por primera vez y le dio aire a Coudet",
+    "folh": "Junno Andrade revela rea��o de Xuxa ao convite da Dan�a dos Famosos: &apos;Disse que eu n�o estava preparado&apos;",
     "tiemp": "El fuego no da tregua en Antioquia: despliegan operativos en varios municipios para frenar las llamas",
     "univ": "¿Cuáles son los requisitos para obtener la cartilla militar si tengo 19 años o más?; esto debes llevar si eres “remiso”",
     "lemon": "« Notre voisine hurlait : “Les talibans reviennent !”, nous étions pétrifiées » : cinq ans après le 15 août 2021, des Afghanes racontent leur enfer",
@@ -29,11 +30,10 @@
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Trump orders Pentagon to scale back joint exercises with South Korea",
     "str": "Hawaii’s Big Island begins recovery efforts as Hurricane Lala downgrades, moves west",
-    "nat": "From roadblocks to boats: How Linda Mwananchi outmaneuvered armed youths",
     "lmaf": "« The Polygamist » sur Netflix, la série sud-africaine à succès qui torpille le patriarcat",
-    "smh": "ASX set to slide, Wall Street slips; NAB reports $1.9b quarterly profit",
-    "nzh": "Man in court after four people stabbed, gun fired in Hamilton knife attack",
+    "smh": "Magda Szubanski&#39;s surprise appearance at Logies",
+    "nzh": "Post-mortem examination after body found in burning car in Waitomo",
     "alj": "What could stop Israeli settler attacks on Palestinians?",
-    "arab": "Fire breaks out at Libya’s Zawiya refinery"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
