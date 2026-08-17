@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T19:15:24.534Z",
+  "timestamp": "2026-08-17T19:44:45.942Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
-    "lat": "Search continues for jet skier who disappeared in Long Beach over the weekend",
+    "nyt": "Trump Lashes Out as Preliminary Deal With Iran Expires",
+    "lat": "Poll showing Bass leading Raman by double digits was bogus, company says",
     "glob": "Quebec and N.L. reach new Churchill Falls agreement",
-    "clar": "Persiste riesgo de inundaciones a medida que tormentas se desplazan de al Atlántico medio de EEUU",
-    "lnac": "Qué se entiende por “higiene del sueño” y por qué es fundamental incorporarla para tener un descanso ininterrumpido",
-    "folh": "Ex-metal�rgico, pai de Messi virou empres�rio para gerenciar carreira do filho",
+    "clar": "Los nobles de la calle",
+    "lnac": "Eckhart Tolle, conferencista alemán: “El momento presente a veces es inaceptable, desagradable u horrible”",
+    "folh": "TIM faz collab com Baccio di Latte para clientes para teste de servi�o da operadora e cobertura de sorvete",
     "tiemp": "¡Histórico! Centro de acopio de El Campín despachó 933 toneladas de ayuda humanitaria a zonas afectadas por el terremoto",
-    "univ": "Aspirante que ya había superado el puntaje de corte vuelve a presentar examen y pide a la UNAM dejar atrás la modalidad en línea",
+    "univ": "\"UNAM debería abandonar exámenes en línea\"; aspirantes concluyen prueba de control presencial en CDMX",
     "lemon": "Piratage du fisc : le gouvernement empêtré dans « la cyberattaque la plus grave de l’histoire de notre pays »",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "路上で200万円奪われた「被害者」　詐欺の「受け子」容疑で逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Seven eateries in Kochi inspected",
+    "hindu": "Police record UDF leader’s statement in Kozhikode Corporation anthem row",
     "str": "Norway’s King Harald, 89, hospitalised: Palace",
-    "nat": "37 suspected gang members arrested over Homa Bay rally chaos",
+    "nat": "Ndindi Nyoro joins United Opposition after UDA exit",
     "lmaf": "En Libye, l’autorité du maréchal Haftar écornée par la rivalité entre ses fils",
-    "smh": "Six simple exercises physios wish everyone would do for lifelong strength",
-    "nzh": "Disputes Tribunal orders Kmart to pay Christchurch couple over contaminated sand",
-    "alj": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-    "arab": "Fire breaks out at Libya’s Zawiya refinery"
+    "smh": "More than 2.6 million Australians will be living with cancer diagnosis by 2050, say scientists",
+    "nzh": "Aged-care report calls for major systemic reform - but at what cost?",
+    "alj": "Death toll from capsized ferry in Zimbabwe rises to 92",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
