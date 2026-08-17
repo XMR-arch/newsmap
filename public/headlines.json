@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-17T20:58:47.927Z",
+  "timestamp": "2026-08-17T21:29:02.431Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
+    "nyt": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
     "lat": "Poll showing Bass leading Raman by double digits was bogus, company says",
-    "glob": "MPs to examine security screening process after arrest of Canadian NATO intern",
-    "clar": "Ely Burke, acompañante en una app de alquiler de amigos: “Usualmente no te dicen directamente por qué te contratan, pero por la forma en que se abren, te das cuenta de que se sienten solos”",
-    "lnac": "Milei dio un discurso en homenaje a San Martín: “Hay algunos que quieren volver al pasado”",
-    "folh": "De loja popular a gigante do varejo em crise: veja a trajet�ria da Casas Bahia",
-    "tiemp": "Cali cierra el paso a más de 40 zonas de colapso tras el terremoto y despliega registro casa por casa",
-    "univ": "Inicia nuevo ciclo escolar en la UNAM; regresan a clases 215 mil estudiantes de licenciatura y posgrado",
+    "glob": "Alberta data centre plan rejected by commission",
+    "clar": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, lunes 17 de agosto",
+    "lnac": "Daniel López Rosetti, médico cardiólogo: “El movimiento no es sólo salud física, también es tratamiento”",
+    "folh": "Demitidos da Casas Bahia podem ter desconto nas verbas da rescis�o; entenda o pagamento",
+    "tiemp": "Tres vidas caucanas entre las víctimas del terremoto que estremeció a Cali, Manizales y Pereira: estas son sus identidades",
+    "univ": "Vinculan a proceso a cinco supuestos integrantes de “Los Deltas”, célula violenta del CJNG; poseían armas y narcóticos",
     "lemon": "Piratage du fisc : le gouvernement empêtré dans une cyberattaque dénoncée par l’opposition comme « la plus grave de l’histoire de notre pays »",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -28,12 +28,12 @@
     "asahi": "赤字で書かれた「甘ったれんな」ゴルフプロ夢見た19歳は命を絶った",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "How Congo's Ebola outbreak became the second-most lethal on record",
-    "str": "US pauses construction of border project in Texas national park",
+    "str": "Trump says Iran won’t make deal he thinks is needed, threatens to bomb Oman",
     "nat": "37 suspected gang members arrested over Homa Bay rally chaos",
     "lmaf": "En Libye, l’autorité du maréchal Haftar écornée par la rivalité entre ses fils",
-    "smh": "Aussie teen stabbed in New York",
+    "smh": "‘The money will come’: Why Pritchard brothers turned down PNG riches to stay in rugby",
     "nzh": "Disputes Tribunal orders Kmart to pay Christchurch couple over contaminated sand",
-    "alj": "Why did Trump scale back war games with South Korea?",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Palestinian American reunites with family under siege in West Bank",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
