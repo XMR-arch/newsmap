@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-18T20:28:19.048Z",
-  "fetched": 23,
+  "timestamp": "2026-08-18T20:50:41.032Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,11 +16,11 @@
     "nyt": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
     "lat": "&#x27;The young ones are the best ones&#x27;: Meta on trial for alleged effort to hook kids",
     "glob": "The metrics that reveal the human cost of a wildfire season",
-    "clar": "Ucrania acelera el desarrollo de misiles balísticos y planea usarlos para atacar a Rusia muy pronto",
-    "lnac": "Las acusaciones de Nadia Beller contra Fernando Cerimedo: cajones con billetes, negociados y una “élite policial”",
-    "folh": "Ex-ministro demitido por Zelenski critica governo e pede elei��es",
-    "tiemp": "Este fue el último mensaje que envió Juan Felipe Giraldo a su prometida antes de morir bajo los escombros en Pereira tras el terremoto en Colombia",
-    "univ": "Monreal recomienda acuerdo entre ministros de la Corte para elegir presidente; no ve viable prolongar cargo de Hugo Aguilar",
+    "clar": "Destituyeron a un juez federal por expresiones antisemitas y el Presidente lo destacó en las redes",
+    "lnac": "Se filtró el llamado al 911 por Hayden Panettiere que menciona una sobredosis",
+    "folh": "Primeira Turma do STF torna r�u deputado do PL que disse querer a morte de Lula",
+    "tiemp": "¿Qué viene para el Valle, tras terremoto que deja 189 fallecidos y 488 edificios colapsados?: &#039;Reconstrucción tiene que empezar ya&#039;, dijo gobernadora",
+    "univ": "Harfuch participa en conferencia de la DEA en Argentina; comparte resultados de seguridad",
     "lemon": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "両親就寝の自宅に放火、殺人未遂容疑などで中学生逮捕　福岡・大牟田",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
+    "hindu": "Tata Sons AGM put off over lack of quorum",
     "str": "France to expel two Iranian diplomats in coming days, foreign minister says",
-    "nat": "Ministry of Health - Kenya Health Summit",
     "lmaf": "« Si j’ai mis ma fille dans une bouée et que je l’ai poussée dans l’eau, c’est pour son avenir » : l’horizon bouché de cette jeunesse du Maroc qui veut rejoindre Ceuta",
-    "smh": "Meta on trial at US federal court",
-    "nzh": "How his father's support helped Hunter Biden recover from addiction",
+    "smh": "Australia news LIVE: Gambling reform package passes House of Representatives; Sweeping NDIS cuts expected to become law this week",
+    "nzh": "Spotlight falls on China’s new immigration regulations",
     "alj": "US sanctions International Criminal Court president and trial lawyer",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
