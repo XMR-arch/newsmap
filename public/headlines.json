@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-18T11:30:08.019Z",
-  "fetched": 23,
+  "timestamp": "2026-08-18T11:52:42.161Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,10 +15,10 @@
   "headlines": {
     "nyt": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
     "lat": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
-    "glob": "Canada 'pivotal' to peace, must act, Palestine envoy says",
+    "glob": "Canada ‘pivotal’ in Mideast peace, Palestine envoy says, as she urges more action",
     "clar": "Confirmed | Florida government will inspect driver's licenses car by car that lack the \"NC\" stamp: what it means",
-    "lnac": "Para mayores de 60: cohousing, el sueño de la generación silver",
-    "folh": "R�ssia mata 10 na Ucr�nia; Kiev faz mega-ataque a Moscou",
+    "lnac": "Efemérides del 18 de agosto: ¿qué pasó un día como hoy?",
+    "folh": "Laura Cardoso foi um exemplo de mulher e de artista, diz Fernanda Torres",
     "tiemp": "Tembló en Chocó: Servicio Geológico Colombiano reportó un nuevo sismo durante la madrugada de este 18 de agosto; conozca magnitud y profundidad",
     "univ": "Taddei arma equipo en el INE con cercanos a Morena; también incluye a paisanos",
     "lemon": "Rentrée scolaire : pourquoi les prix des fournitures sont en baisse, mais devraient augmenter après septembre",
@@ -25,15 +26,14 @@
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
     "elpais": "La Moncloa y Ceuta pactan espacios para encarrilar la crisis humanitaria en medio de una gran tensión política",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "豪雨で路上に残る車両まだ600台　国や千葉県など官民、撤去で連携",
+    "asahi": "SNSで知り合った10代女児に性的暴行か　カレー店経営者を逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Coast Guard steps up search for eight fishermen missing off Konaseema, Andhra Pradesh",
-    "str": "Israeli settler confronts Palestinian American at his besieged West Bank home",
-    "nat": "Zambia&apos;s Hichilema re-elected amid chaotic opposition surge",
-    "lmaf": "VIDEO CAN : les Lionnes indomptables accueillies en héroïnes au Cameroun",
-    "smh": "Best of cartoons, August 19, 2026",
+    "hindu": "K. Saveshan explores the human-earth relationship through dance",
+    "str": "WHO says Congo Ebola outbreak can still be brought under control within three months",
+    "lmaf": "Au Nigeria, au moins 24 morts dans des attaques communautaires dans l’Etat du Plateau",
+    "smh": "Melbourne High School principal quits for new role",
     "nzh": "Meola Reef harbour crossing: Mayor could use own fund to pay for study",
-    "alj": "Tupac Shakur murder trial begins thirty years after his death",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Premier League what to know: Schedule, prediction, transfers and more",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
