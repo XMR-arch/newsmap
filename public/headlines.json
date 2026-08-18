@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-18T21:36:08.689Z",
-  "fetched": 22,
+  "timestamp": "2026-08-18T21:54:24.414Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,25 +14,26 @@
   "headlines": {
     "nyt": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
     "lat": "Trump administration advances plan to rescind &#x27;Roadless Rule&#x27; protecting national forests",
-    "glob": "Man who threw trailer hitch at Indigenous woman, killing her, is granted full parole, First Nations group says",
-    "clar": "Objetivo de la operación del ICE en tiroteo mortal en Maine no iba a ser deportado, dice congresista",
-    "lnac": "Murió Eduardo Maglioni, gloria de Independiente y autor de un hat trick que todavía es récord",
-    "folh": "Star quality de Gl�ria Menezes moldou as novelas brasileiras",
-    "tiemp": "Cárcel para &#039;Los Dinos Duros&#039;, la banda de asaltantes y depredadores sexuales que sembraba el terror en la vía Cartagena-Barú",
-    "univ": "Taddei respalda a consejeros electorales ante denuncia de Alito Moreno en EU; defiende independencia del INE",
-    "lemon": "EN DIRECT, guerre en Ukraine : Mykhaïlo Fedorov, le populaire ex-ministre de la défense écarté par Volodymyr Zelensky, demande d’ouvrir la voie à des élections",
+    "glob": "Canadians think Ottawa should be tougher in U.S. trade talks, poll shows",
+    "clar": "Tragedia de luna de miel: una pareja de recién casados murió al estrellarse su helicóptero justo antes de aterrizar en Grecia",
+    "lnac": "Diputados: el peronismo exigió interpelar a Caputo por los fondos viales y planteó coparticipar el impuesto a las provincias",
+    "folh": "Nem Gl�ria, nem Menezes: saiba o nome verdadeiro e outras curiosidades da vida da artista",
+    "tiemp": "Estos son los puntos temporales que habilitó la Registraduría Nacional en Pereira tras graves daños que dejó el terremoto de magnitud 7,4 en Colombia",
+    "univ": "PT en San Lázaro asegura que no pueden acusar a Andy López sin pruebas; hace llamado contra la injerencia",
+    "lemon": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
     "elpais": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "両親就寝の自宅に放火、殺人未遂容疑などで中学生逮捕　福岡・大牟田",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Gold mine collapses in Central African Republic, killing at least 30 miners",
-    "str": "Meta rejects allegations it sought to hook children as landmark trial begins",
+    "hindu": "West Asia war LIVE: UAE accuses Iran of firing ballistic missiles at its territory",
+    "str": "Unions, advocacy groups sue to overturn US visa rule for foreign students, journalists",
+    "nat": "Ministry of Health - Kenya Health Summit",
     "lmaf": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
     "smh": "Australia news LIVE: Gambling reform package passes House of Representatives; Sweeping NDIS cuts expected to become law this week",
     "nzh": "Auckland man accused of murdering parents and attempting to murder brother named",
     "alj": "Trump administration moves to end rule protecting swaths of forest land",
-    "arab": "Fire breaks out at Libya’s Zawiya refinery"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
