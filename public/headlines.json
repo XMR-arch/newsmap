@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-19T05:49:01.984Z",
-  "fetched": 23,
+  "timestamp": "2026-08-19T06:17:53.101Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -16,7 +17,7 @@
     "lat": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
     "glob": "Alberta Premier acknowledges foreign influence campaigns are targeting separatist referendum",
     "clar": "Proverbio vikingo: “No hay mejor equipaje para llevar encima que la cordura y la mente clara. En tierras lejanas es más útil que el oro y saca al pobre de los apuros”",
-    "lnac": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la detención de Cerimedo",
+    "lnac": "“No es bienvenida”. La llamada del príncipe Carlos que impidió a Meghan despedir a Isabel II en Balmoral",
     "folh": "Trump pressiona por encontro com Kim Jong Un ainda este ano",
     "tiemp": "Barranquilla | Defensa de alcalde Alejandro Char busca que denuncia contra Gustavo Petro pase a la Fiscalía tras su salida de la Presidencia",
     "univ": "INE alista ceremonia por arranque de proceso electoral 2026-2027; se renueva Cámara de Diputados y 17 gubernaturas",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "万博工事費水増し自宅改装に使用か　背任容疑で竹中工務店元所長逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Donald Trump pauses 50% tariffs on Canadian goods for three days",
+    "hindu": "Expired medicine, products bearing forged MNC labels, injection vials worth ₹3.38 crore among drugs seized in Bengaluru",
     "str": "As campaigns begin in Nigeria, Tinubu's re-election bid puts his party on trial",
-    "nat": "The cost of political goonism",
-    "lmaf": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
-    "smh": "Celebrate 20 years of this hatted CBD diner with paella and tapas at Prahran Market",
-    "nzh": "Damning report into fatal Mount Maunganui landslide shows tragedy was preventable",
+    "lmaf": "En Zambie, le président sortant Hakainde Hichilema réélu, son principal adversaire conteste le résultat",
+    "smh": "Erin Patterson appeal LIVE: Mushroom killer seeks to challenge guilty verdict",
+    "nzh": "Govt inquiry into fatal landslides 'will reach its own conclusions' - chair",
     "alj": "Lebanon no longer a safe haven for former Syrian regime officials",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "arab": "Gaza Board of Peace official says plan is still operative"
   }
 }
