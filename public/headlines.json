@@ -1,26 +1,28 @@
 {
-  "timestamp": "2026-08-19T22:28:36.940Z",
-  "fetched": 23,
+  "timestamp": "2026-08-19T22:52:15.678Z",
+  "fetched": 21,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
-    "haar"
+    "haar",
+    "arab"
   ],
   "headlines": {
     "nyt": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-    "lat": "As Lake Mead shrinks, its body count rises",
+    "lat": "Hollywood triple slaying suspect was once a convicted murderer turned congressional candidate",
     "glob": "B.C.’s Bald Range wildfire remains active as residents return",
-    "clar": "La deuda nacional de EEUU alcanza los 40 billones de dólares",
-    "lnac": "Internaron a Alejandro Stoessel, el papá de Tini: qué se sabe de su salud",
-    "folh": "Alcolumbre despacha PEC do fim da 6x1, e governo tenta emplacar aliado na relatoria",
+    "clar": "Escándalo en Francia por el hackeo al fisco: quedan expuestos los datos de 700 mil personas y empresas",
+    "lnac": "El príncipe Harry y Meghan volverán a vivir en Gran Bretaña",
+    "folh": "Amiga de Lulinha disse falar em nome do filho do presidente, aponta PF",
     "tiemp": "El plan que Antioquia le planteó al Presidente De la Espriella para reconstruir el país: una propuesta de $15 billones anuales",
     "univ": "UNAM \"cacha\" a 22 intentos de trampa en examen de control en CDMX; usan celulares y lentes con cámara",
-    "lemon": "« Quand on leur dit que les grossesses doivent faire l’objet d’un suivi médical, les talibans ricanent » : la santé des femmes mise en danger en Afghanistan",
+    "lemon": "EN DIRECT, guerre en Ukraine : Iryna Mudra, directrice adjointe du cabinet de Volodymyr Zelensky, démissionne",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Five Americans among seven killed in safari helicopter crash in Kenya",
     "elpais": "Moderna y Merck anuncian el éxito de la primera vacuna personalizada contra el melanoma y sus acciones se disparan en Bolsa",
@@ -28,12 +30,10 @@
     "asahi": "秋篠宮ご夫妻、日本人移住90周年でパラグアイに到着　栄誉礼受ける",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
-    "str": "Prince Harry and Meghan to move back to Britain, media reports say",
-    "nat": "Dr Mutiso murder: Lawyer Angela Mulwa released on bond",
+    "str": "Key moments in Prince Harry and Meghan's six years in California",
     "lmaf": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé",
     "smh": "Prince Harry ‘would love reconciliation’ with family",
-    "nzh": "Space, the next frontier in NZ and global fight against wildfires",
-    "alj": "“I get along with him very well.”",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "nzh": "Independent Police Conduct Authority finds police justified in shooting fugitive Tom Phillips",
+    "alj": "What the social media addiction lawsuit could cost Meta"
   }
 }
