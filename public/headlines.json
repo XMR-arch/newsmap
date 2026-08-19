@@ -1,25 +1,24 @@
 {
-  "timestamp": "2026-08-19T20:48:19.380Z",
-  "fetched": 22,
+  "timestamp": "2026-08-19T21:11:17.494Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
-    "lat": "State approves &#x27;Zone Zero&#x27; fire-safe landscaping rules, reshaping yards for millions of Californians",
+    "lat": "Nearly $30,000 worth of Lego sets recovered from cargo train burglary, officials say",
     "glob": "Elections Alberta seeks help from other provinces to run fall referendum",
-    "clar": "Su voz llegó al mundo a través del cine y Netflix: qué pasó con la nena palestina Hind Rajab y por qué Israel investiga ahora su muerte",
-    "lnac": "Un hincha de Juventus entró a la cancha tras un amistoso y lesionó sin querer a un defensor de su equipo",
-    "folh": "Aplica��o da reciprocidade contra os EUA n�o sai antes do fim do ano, diz ministro",
-    "tiemp": "Atentado sicarial en Bucaramanga atemorizó a conductores en plena carrera 15: agresores dispararon en más de 10 ocasiones a un vehículo blindado",
+    "clar": "Luz verde para un RIGI por US$ 6.400 millones: es el segundo destinado a un proyecto petrolero en Vaca Muerta",
+    "lnac": "El diputado Maximiliano Ferraro denunció que utilizaron su nombre para redirigir a usuarios a una página de apuestas",
+    "folh": "Paolla Oliveira e Fabiula Nascimento estrelam &apos;M�e Imperfeita&apos;, nova novela da Netflix",
+    "tiemp": "Denuncian aumento desmedido de arriendos en Risaralda, Chocó, Caldas, Quindío y Valle tras el terremoto: autoridades piden solidaridad y empatía",
     "univ": "Permanente avala renuncia de magistrada Mónica Soto; oposición cuestiona que no existe \"causa grave\" de su salida",
     "lemon": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
@@ -30,10 +29,11 @@
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "RSS-linked academics in NCERT textbook panel",
     "str": "Ex-Meta executive says CEO Mark Zuckerberg put growth before child safety",
+    "nat": "Dr Mutiso murder: Lawyer Angela Mulwa released on bond",
     "lmaf": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé",
-    "smh": "Australia news LIVE: Lambie demands government abandon cap on allied health spending for veterans; Senior Swan Isaac Heeney revealed as focus of police investigation",
+    "smh": "Wong outraged as Israel clears soldiers over strike that killed Australian Zomi Frankcom",
     "nzh": "Watch: Shelter bags for homeless 'the starting block' to cope with frigid nights",
     "alj": "What’s behind Israel’s latest attack on Syria?",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
