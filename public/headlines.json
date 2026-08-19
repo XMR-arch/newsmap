@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-19T21:11:17.494Z",
-  "fetched": 23,
+  "timestamp": "2026-08-19T21:39:46.121Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,12 +15,12 @@
   "headlines": {
     "nyt": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
     "lat": "Nearly $30,000 worth of Lego sets recovered from cargo train burglary, officials say",
-    "glob": "Elections Alberta seeks help from other provinces to run fall referendum",
-    "clar": "Luz verde para un RIGI por US$ 6.400 millones: es el segundo destinado a un proyecto petrolero en Vaca Muerta",
-    "lnac": "El diputado Maximiliano Ferraro denunció que utilizaron su nombre para redirigir a usuarios a una página de apuestas",
-    "folh": "Paolla Oliveira e Fabiula Nascimento estrelam &apos;M�e Imperfeita&apos;, nova novela da Netflix",
+    "glob": "B.C.’s Bald Range wildfire remains active as residents return",
+    "clar": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, miércoles 19 de agosto",
+    "lnac": "La abogada de Fernando Cerimedo acusó a Nadia Beller de orquestar un “autoatentado”",
+    "folh": "PRF diz que caminh�o teria invadido faixa contr�ria em acidente com 23 mortos",
     "tiemp": "Denuncian aumento desmedido de arriendos en Risaralda, Chocó, Caldas, Quindío y Valle tras el terremoto: autoridades piden solidaridad y empatía",
-    "univ": "Permanente avala renuncia de magistrada Mónica Soto; oposición cuestiona que no existe \"causa grave\" de su salida",
+    "univ": "Higinio Martínez recomienda a Inzunza pedir licencia al Senado; \"hay momentos en que podemos retirarnos un poco\", expresa",
     "lemon": "EN DIRECT, guerre en Ukraine : le nouveau ministre de la défense ukrainien promet d’intensifier les attaques en profondeur en Russie",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "博多の老舗焼き肉店から白煙、客らが避難　「大東園」4年前にも火事",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "RSS-linked academics in NCERT textbook panel",
-    "str": "Ex-Meta executive says CEO Mark Zuckerberg put growth before child safety",
-    "nat": "Dr Mutiso murder: Lawyer Angela Mulwa released on bond",
+    "hindu": "Action against drivers without Marathi knowledge from August 20: Maharashtra Minister",
+    "str": "Ugandan UN candidate stresses reform, invokes St Francis",
     "lmaf": "L’arrestation de deux journalistes français au Togo, reflet de la dégradation des relations entre Paris et Lomé",
-    "smh": "Wong outraged as Israel clears soldiers over strike that killed Australian Zomi Frankcom",
+    "smh": "Jacqui Lambie&#39;s impassioned plea to PM",
     "nzh": "Watch: Shelter bags for homeless 'the starting block' to cope with frigid nights",
-    "alj": "What’s behind Israel’s latest attack on Syria?",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "alj": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
