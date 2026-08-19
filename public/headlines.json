@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-19T23:35:01.643Z",
-  "fetched": 22,
+  "timestamp": "2026-08-19T23:54:23.852Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,12 +14,12 @@
   "headlines": {
     "nyt": "U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues",
     "lat": "Amid controversy, California officials release long-awaited Delta water plan",
-    "glob": "Smith acknowledges foreign influence campaigns targeting Alberta referendum",
-    "clar": "China logra la proeza espacial de aterrizar un cohete en reversa: el video",
-    "lnac": "Abel, decorador: “Para reparar una pared afectada por la humedad, lo primero es sanearla”",
-    "folh": "Alvaro Costa e Silva lan�a colet�nea de cr�nicas publicadas na Folha em livraria de SP",
-    "tiemp": "No caiga en el engaño: autoridades de Cali advierten sobre modalidad de estafa y aclaran que no solicitan transferencias de dinero por teléfono",
-    "univ": "Con charola en mano, Lilly Téllez pide a legisladores mostrar apoyo a Andy López; los reta a entregar sus visas",
+    "glob": "B.C.’s Bald Range wildfire remains active as residents return",
+    "clar": "Trump dice que EEUU y Canadá tienen un acuerdo comercial, pero se desconocen detalles clave",
+    "lnac": "Grabois cruzó a Espert por redes después del descargo del exdiputado libertario: “Contate otro”",
+    "folh": "Durigan deve se encontrar com economistas do governo FHC para falar sobre eventual Lula 4",
+    "tiemp": "Así fue el rescate de Leidy, hija de &#039;Paisa Ayuda&#039;: el Gaula siguió el rastro hasta una zona rural de Maicao, cerca a la frontera Colombo – Venezolana",
+    "univ": "“Rompería mi visa, pero tengo la mano fracturada”; Noroña acusa presunta embestida contra AMLO",
     "lemon": "EN DIRECT, guerre en Ukraine : des bombardements nocturnes russes font deux morts à Kiev",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Five Americans among seven killed in safari helicopter crash in Kenya",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "秋篠宮ご夫妻、日本人移住90周年でパラグアイに到着　栄誉礼受ける",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Ecuador intel chief, five Americans killed in Kenya helicopter crash",
-    "str": "Key moments in Prince Harry and Meghan's six years in California",
+    "hindu": "Congress backs two-stanza Vande Mataram; launches campaign against Ram temple funds row",
+    "str": "Key moments in Prince Harry and Meghan’s six years in California",
+    "nat": "Dr Mutiso murder: Lawyer Angela Mulwa released on bond",
     "lmaf": "Le chef du renseignement équatorien, proche du président Noboa, meurt dans un accident d’hélicoptère au Kenya",
-    "smh": "Australia news LIVE: Lambie demands government abandon cap on allied health spending for veterans; Senior Swan Isaac Heeney revealed as focus of police investigation",
-    "nzh": "Pair charged over death of man shot at Lower Hutt property",
-    "alj": "What the social media addiction lawsuit could cost Meta",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "smh": "CBA punishes Qantas customers in reward points overhaul",
+    "nzh": "'We are the best at being ourselves': Māori-Pasifika choir wins gold at World Choir Games",
+    "alj": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
