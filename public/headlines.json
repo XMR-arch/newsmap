@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-19T08:59:02.953Z",
-  "fetched": 22,
+  "timestamp": "2026-08-19T09:38:02.787Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,10 +14,10 @@
   "headlines": {
     "nyt": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
     "lat": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
-    "glob": "Alberta Premier acknowledges foreign influence campaigns are targeting separatist referendum",
-    "clar": "Novato George Klassen deslumbra con 7 entradas en blanco y Angelinos vencen 3-1 a Astros",
-    "lnac": "El delito que pone en alerta a la CBP: incautan más de US$8 millones en productos falsificados en menos de un mes",
-    "folh": "Minist�rio P�blico Federal afirma que igreja hist�rica em Salvador corre o risco de desabar",
+    "glob": "National monument for LGBTQ community opening Friday in Ottawa",
+    "clar": "¿Vender o alquilar? Qué conviene hacer hoy con un departamento vacío",
+    "lnac": "Chocaron un colectivo y un auto en la General Paz y hay corte total en ambas manos",
+    "folh": "Moda penitenci�ria: Busca por roupas para quem vai visitar detentos cresce nas redes",
     "tiemp": "Pico y placa en Cali para el miércoles 19 de agosto de 2026: así funciona la medida extraordinaria por la emergencia del terremoto en Colombia",
     "univ": "Jefe de la DEA y García Harfuch se desviven en elogios; secretario de Seguridad destaca estrategia de México",
     "lemon": "La hausse du chômage enterre la promesse d’Emmanuel Macron de retrouver le plein-emploi",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "電車止め「何分遅らせたか」競った疑い　撮り鉄の中高生7人立件",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "West Asia war LIVE: Iran's armed forces warn Gulf countries against assisting U.S. military",
+    "hindu": "India vs Pakistan hockey World Cup 2026: Where to watch in India, live stream, squads",
     "str": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
+    "nat": "Trump contradicts aides as Strait of Hormuz standoff deepens",
     "lmaf": "Angélique Kidjo devient la première chanteuse africaine à avoir son étoile sur le Walk of Fame d’Hollywood",
-    "smh": "Kyrgios tests positive to cocaine, faces lengthy ban from tennis",
+    "smh": "‘Deeply sorry to everyone involved’: Suspended Swans speak out for first time",
     "nzh": "Airbnb crisis or economic boom? Methven grapples with housing tensions",
-    "alj": "Who won and lost in Florida primaries: Key takeaways",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
