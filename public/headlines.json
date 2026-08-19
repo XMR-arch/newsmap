@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-19T02:44:18.201Z",
+  "timestamp": "2026-08-19T03:30:38.762Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Byron Donalds Wins Republican Nomination for Florida Governor",
+    "nyt": "Tariffs on Hold as Trump Claims Deal With Canada Is Near",
     "lat": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
     "glob": "Alberta Premier acknowledges foreign influence campaigns are targeting separatist referendum",
-    "clar": "Encuesta de empresa misteriosa en EEUU subraya peligro de sondeos electorales no verificados",
-    "lnac": "Estudiantes venció a Universidad Católica y se clasificó para los cuartos de final de la Copa Libertadores",
-    "folh": "Ju�za diz que medidas cautelares n�o s�o suficientes para proteger mulher do marido empres�rio em SP",
-    "tiemp": "Alivios o quiebra: el salvavidas tributario que propone el sector gastronómico del Valle para no apagar sus cocinas",
-    "univ": "INE pide 31 mil mdp para 2027; remite al Ejecutivo para su inclusión en el proyecto para el Presupuesto de Egresos",
+    "clar": "Marcelo Polino reveló una supuesta mala actitud de Lali Espósito en las grabaciones de la serie de Moria Casán: la respuesta de la cantante",
+    "lnac": "Activan una Alerta Sofía por la desaparición de una niña de tres años en San Luis",
+    "folh": "TSE encerra a��o do PT ap�s desist�ncia e destrava repasses do fundo eleitoral",
+    "tiemp": "La vida que sigue después de perderlo todo: los rostros de los damnificados que duermen en albergues y salen a trabajar",
+    "univ": "Somos México exige al INE fiscalizar recursos rumbo a 2027; presentará queja para investigar actos anticipados de campaña",
     "lemon": "« Vous n’imaginez pas comme les Afghanes se battent et inventent des stratégies pour survivre » : une radio féminine et des écoles clandestines comme lueurs d’espoir",
     "spieg": "Moaning for the Mainland: How Taiwan Satisfies China's Lust for Pornography",
     "guar": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
     "elpais": "Trump declara el estrecho de Ormuz “nuevo territorio de Estados Unidos”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "建物全壊相次いだ熊本・八代　公開されていた地震危険度マップ",
+    "asahi": "万博工事費水増し自宅改装に使用か　背任容疑で竹中工務店元所長逮捕",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Sacked Ukraine Defence Minister urges path to elections",
-    "str": "Trump administration antisemitism probes into universities lacked evidence, ex-DOJ attorney says",
+    "hindu": "Kolkata hotel fire kills 9 Bangladeshi nationals",
+    "str": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID-19 records",
     "nat": "The cost of political goonism",
     "lmaf": "Deux Français arrêtés et détenus au Togo depuis le 27 juillet, selon le Quai d’Orsay",
-    "smh": "Boss of racing regulator sacked after alleged unwanted ‘massage’, documents reveal",
-    "nzh": "Fiji must revamp its school rugby system, former Fiji U20 captain Durutalo says",
-    "alj": "US refineries taking in half of Venezuela’s oil output, official says",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "smh": "Erin Patterson appeal LIVE: Mushroom killer seeks to challenge guilty verdict",
+    "nzh": "Damning report into fatal Mount Maunganui landslide shows tragedy was preventable",
+    "alj": "US, Canada reach trade deal to avert steep tariffs, Trump says",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
