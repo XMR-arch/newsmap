@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T14:17:50.749Z",
+  "timestamp": "2026-08-20T14:58:08.114Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "How Trump Is Trying to Crush California’s Climate Policies",
+    "nyt": "Treasury Turns to Interventionist Tactics to Lower Interest Rates",
     "lat": "Key takeaways from investigation into Edison&#x27;s role in the deadly Eaton fire",
-    "glob": "Morning Update: Trade clock keeps ticking",
-    "clar": "\"Si ese es el precio para transformar el país, lo acepto\": el fuerte mensaje del presidente de la Cámara de Comercio sobre el cierre de empresas",
-    "lnac": "Rodrigo Lussich apuntó contra Fernando Cerimedo: “Era un estafador que ya delinquía en 2012”",
-    "folh": "Alice Ruiz � premiada pela Uni�o Brasileira de Compositores",
-    "tiemp": "Atlántico moviliza 80 toneladas de ayuda para damnificados del terremoto en Chocó: avión de EE. UU. se suma a la operación humanitaria",
-    "univ": "Sheinbaum presenta Olinia Carga, modelo para transporte de mercancías; tiene capacidad de hasta 650 kg",
-    "lemon": "EN DIRECT, guerre en Ukraine : près de 40 000 personnes se sont réfugiées dans le métro de Kiev lors de l’attaque russe dans la nuit de mercredi à jeudi",
+    "glob": "Alberta to host second town hall on AI data centres after jeers, boos at Wednesday event",
+    "clar": "Rating del miércoles: cómo fue el debut de los famosos en \"Es mi sueño\" vs. las multibodas de Gran Hermano y el regreso de Andrea del Boca",
+    "lnac": "La reacción de Messi con un rival que podría ser sancionada por el Comité Disciplinario de la MLS",
+    "folh": "Petr�leo dispara mais de 3%, fica perto de US$ 95 e tem maior valor em quase um m�s",
+    "tiemp": "Trabajadora de un hotel en Neiva sorprendió a delincuente al defenderse con un arma de fuego",
+    "univ": "La mañanera de Sheinbaum, 20 de agosto, minuto a minuto",
+    "lemon": "Le massif du Mont-Blanc déstabilisé par un été caniculaire et des chutes de pierres qui le défigurent",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "More than 100 dead after goldmine collapses in Central African Republic",
     "elpais": "El Gobierno reubica a 1.800 migrantes de la playa de El Trampolín y prevé habilitar nuevos espacios",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "東武特急4人死亡事故、専門家「異例」　原因究明の三つのポイントは",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "World Bank team, GVMC hold talks on development of Visakhapatnam Economic Region",
-    "str": "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage",
-    "nat": "Stop or face jail: Court win for Kitisuru residents against developer",
+    "hindu": "₹62.46 crore sanctioned for livelihood support scheme for fishers in Keralam",
+    "str": "Overloaded boat capsizes in Nigeria, around 40 children's bodies recovered",
+    "nat": "Comedian Flaqo opens up on fame and mental health battles",
     "lmaf": "Ebola en RDC : l’OMS déploie 70 000 doses du vaccin Ervebo",
     "smh": "Superquiz, Friday, August 21",
     "nzh": "Wellington residents march on Parliament in bid to get rising water bills lowered",
-    "alj": "Funeral for 50 Palestinians recovered from Gaza rubble",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
