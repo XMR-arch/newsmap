@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-20T19:59:40.532Z",
+  "timestamp": "2026-08-20T20:36:05.168Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields",
-    "lat": "Eric Swalwell briefly detained as feds seize his phone at S.F. airport, source says",
-    "glob": "N.S. minister Marco MacLeod apologizes for ‘harmful’ rap lyrics",
-    "clar": "José Coronado, a sus 69 años: \"Desayuno siempre con aceite de oliva. Es salud para el cuerpo y es fantástico para prevenir enfermedades\"",
-    "lnac": "Robin Sharma, experto en desarrollo personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
-    "folh": "Elei��es 2026 e o protagonismo jovem contra a desinforma��o",
-    "tiemp": "Buenaventura tendrá apoyo para cirugías y para atender heridos del terremoto que sacudió a Colombia: especialistas viajaron desde Santander",
-    "univ": "SRE mantiene atención tras sismo de 7.2 en Perú; ofrece asistencia consular a mexicanos",
+    "nyt": "How Big Tech’s A.I. Borrowing Binge Is Driving Up Bond Yields",
+    "lat": "Eric Swalwell briefly detained as feds seize his phone at San Francisco airport, source says",
+    "glob": "Corus confirms more layoffs in TV and radio operations",
+    "clar": "\"Quiero ver a mis hijos\": Fernando Cerimedo rompió en llanto y habló ante la prensa en Bolivia",
+    "lnac": "Un sismo de magnitud 6.7 sacudió varias regiones de Perú",
+    "folh": "Carlos Alcaraz anuncia retorno �s quadras dez dias antes do US Open",
+    "tiemp": "Valledupar: investigan disciplinariamente al concejal Oswaldo Díaz Ortiz tras polémico video en el que intimida con un arma a ‘petristas’",
+    "univ": "Sheinbaum alista su Segundo Informe de Gobierno; define con su gabinete presentación en los estados",
     "lemon": "Le ministère de l’intérieur piraté depuis la boîte mail d’un fonctionnaire : autopsie d’une intrusion qui révèle les failles informatiques de l’Etat",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "東武特急4人死亡事故、専門家「異例」　原因究明の三つのポイントは",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Roads to be priority in new development zones, says DDA V-C",
-    "str": "Strong earthquake strikes central Peru, no damage reported",
+    "hindu": "The Vanashakti verdict is balanced and pragmatic",
+    "str": "Tunisia opposition protests against president amid economic discontent",
     "nat": "Sossion declares Sh65m wealth, says his time at Knut strengthened TSC",
     "lmaf": "Au Nigeria, plus de 50 morts après le chavirement d’un bateau surchargé",
-    "smh": "China was making too many cars. They turned to Australia to offload them",
-    "nzh": "Whangārei stump grinder death: Kevin Barry pulled into spinning blade",
-    "alj": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "smh": "‘Heinous’ crime: China’s disgraced king of real estate sentenced to life in jail",
+    "nzh": "Consumers fed up with power companies making billions as bills rise, market commentators say",
+    "alj": "Four railway workers killed by express train at station in Japan",
+    "arab": "Fire breaks out at Libya’s Zawiya refinery"
   }
 }
