@@ -1,9 +1,8 @@
 {
-  "timestamp": "2026-08-21T17:46:10.847Z",
-  "fetched": 21,
+  "timestamp": "2026-08-21T18:14:10.173Z",
+  "fetched": 22,
   "failed": [
     "wapo",
-    "univ",
     "terc",
     "com",
     "volk",
@@ -14,26 +13,27 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "How Harvard’s Epic Fight With Trump Is Costing the University",
+    "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
     "lat": "Grammy-winning songwriting legend Diane Warren adopts &#x27;Wilbur&#x27; the rogue WeHo pig",
-    "glob": "The dark legacy of Ontario’s institutions for people with developmental disabilities",
-    "clar": "Juana Repetto lanzó su propia línea de anteojos: todos los detalles de su nuevo emprendimiento",
-    "lnac": "Las Leonas vs. España, por el Mundial 2026: día, horario, TV y cómo ver online",
-    "folh": "Festival The Town, em S�o Paulo, anuncia datas da edi��o de 2027",
-    "tiemp": "Gobernación del Tolima hace un llamado urgente para apagar los graves incendios que se presentan en varias zonas del departamento: hay 24 incendios",
-    "lemon": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
+    "glob": "Montreal police to get body cameras and new powers",
+    "clar": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, viernes 21 de agosto",
+    "lnac": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
+    "folh": "Jogos de poder",
+    "tiemp": "Cali cierra fase de búsqueda tras terremoto y se prepara para la reconstrucción: 150 muertos y más de 1.500 heridos",
+    "univ": "CNDH ve negligencia médica en muerte de adulto mayor en penal de Oaxaca; falleció sin atención adecuada, dice",
+    "lemon": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
     "elpais": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "劇物入りマフィンで殺人未遂容疑、女を逮捕　「殺すつもりなかった」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "GCL chairperson expects Bengaluru edition to be well received",
-    "str": "First migrants buried in Spain's Ceuta after deadly border rush",
+    "hindu": "DC directs to conduct survey on CMC properties, fence them, protect them",
+    "str": "Migrants flown to Equatorial Guinea after resisting Liberia deportation under Trump deal, sources say",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
     "smh": "Labor and Coalition unite to ringfence AI from One Nation backlash",
     "nzh": "MBIE backs council ruling that Christchurch Airbnb owners need to get consent or stop",
-    "alj": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "alj": "How is drought hitting UK farming?",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
