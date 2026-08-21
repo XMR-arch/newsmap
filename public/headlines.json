@@ -1,24 +1,25 @@
 {
-  "timestamp": "2026-08-21T20:33:21.639Z",
-  "fetched": 23,
+  "timestamp": "2026-08-21T20:54:19.794Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
-    "lat": "Reporters and military members detained at gunpoint by security at Vandenberg Space Force Base",
-    "glob": "What we know about the Meta lawsuit so far, and how it could turn into a ‘Big Tobacco’ moment",
-    "clar": "Un nene de 6 años recibió un cachetazo de su maestra, se descompensó y murió en la India",
-    "lnac": "El mejor precio en un año: se aceleraron las ventas de soja y todavía quedan US$11.000 millones en grano por comercializar",
-    "folh": "PEC que acaba com a escala 6x1 chega � CCJ, e governo Lula emplaca aliado na relatoria",
-    "tiemp": "Despliegue de ayudas por 1,7 millones de dólares tras terremotos: kits, retroexcavadoras y una brigada médica para Chocó, Caldas y el Valle del Cauca",
+    "lat": "Pit Stop Pursuit: L.A. burglary suspect hits the gas station before hitting CHP cruiser",
+    "glob": "The dark legacy of Ontario’s institutions for people with developmental disabilities",
+    "clar": "Nicole Neumann reveló que un famoso actor la acosó cuando era menor de edad: “Qué ganas de verte\"",
+    "lnac": "El oficialismo convocó a una sesión el miércoles 26 para tratar la reforma del Banco Central",
+    "folh": "Aluno de 13 anos � esfaqueado nas costas por colega no recreio em Ribeir�o Preto (SP)",
+    "tiemp": "Gobernación de Antioquia y sector privado adelantan en Andes y Ciudad Bolívar un piloto integral para la reconstrucción tras el terremoto",
     "univ": "Detienen en Chiapas a 8 personas ligadas a grupos delictivos; \"Cadenudo\" e integrantes de \"Los Cuatetes\", entre ellos",
     "lemon": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "劇物入りマフィンで殺人未遂容疑、女を逮捕　「殺すつもりなかった」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Cochin Shipyard delivers INS Mangrol to Indian Navy",
-    "str": "Migrants who resisted deportation to Liberia under Trump deal sent to Equatorial Guinea, sources say",
-    "nat": "Pangas and goons: How humble farm tool became a weapon of choice",
+    "hindu": "Neeraj Chopra finishes second, Pathirage wins title in Lausanne Diamond League",
+    "str": "Fauci's lawyers set up legal defense fund as US probes multiply",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
     "smh": "Steven King promised his team would be selfless, ruthless, connected. But there’s one word that defines his Demons",
     "nzh": "Country Life: Taranaki dairy farm's herd home",
-    "alj": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Tunisian protesters call for President Kais Saied to step down",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
