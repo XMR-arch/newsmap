@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-21T23:13:27.126Z",
-  "fetched": 22,
+  "timestamp": "2026-08-21T23:39:56.561Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,12 +14,12 @@
   "headlines": {
     "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
     "lat": "&#x27;The Emperor is a fan&#x27;: Darth Vader backs San Diego Flock surveillance cams",
-    "glob": "Manitoba school board criticized for motion limiting students’ privacy",
-    "clar": "Se viene una sesión maratónica en Diputados con la reforma del Banco Central, Inocencia Fiscal y la ley de Patentes",
+    "glob": "Man arrested after two people injured in stabbing at Edmonton Sikh temple, police say",
+    "clar": "Un veterano de 80 años navegaba solo, pasó dos días sin dormir para visitar a su madre de 101, se quedó dormido al tercero y acabó en un arrecife: \"Oí un ruido terrible y no sabía dónde había despertado\"",
     "lnac": "Javier Milei y sus medidas, en vivo: el Presidente habla en la Bolsa de Comercio de Rosario",
-    "folh": "Margareth Menezes, ao ignorar Festa de Barretos, desdenha do pa�s sertanejo",
-    "tiemp": "‘Quiero que los 365 días del año todos seamos iguales’: así fueron las primeras palabras de Salwa Maloof como reina del Carnaval de Barranquilla 2027",
-    "univ": "Oposición rechaza regreso de Rocha Moya como gobernador; es un acto de cinismo, dicen",
+    "folh": "Memes marcam debates eleitorais com &apos;padre de festa junina&apos; em 2022 e cadeirada em 2024; relembre",
+    "tiemp": "Moda con propósito en Cali tras el terremoto: la pasarela que reconstruye la esperanza para el ícono de los niños ciegos y sordos del Valle del Cauca",
+    "univ": "Morena se deslinda del regreso de Rocha Moya a gubernatura de Sinaloa; es una decisión personal, afirma",
     "lemon": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "大学定員の23区規制、全国知事会が延長主張「東京一極集中を抑制」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "T.N. Government places orders with two jewellers for supply of gold rings scheme",
-    "str": "Lula retains lead over Flavio Bolsonaro ahead of Brazil election, Datafolha shows",
+    "hindu": "A dry spell along the Cauvery",
+    "str": "Girl dies in hospital days after family drowned off English coast, police say",
+    "nat": "How once-profitable pyrethrum sector lost farmers and markets",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
-    "smh": "Inside Operation Rosny",
-    "nzh": "Fleeing driver in Palmerston North leaves officer in critical condition",
-    "alj": "US Vice President JD Vance holds midterm election rally in Ohio hometown",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "smh": "‘It was a shock to them’: The families who turned their backs on Sydney and embraced the bush",
+    "nzh": "Work underway on roof of 204-year-old Kemp House in Kerikeri",
+    "alj": "US debt tops $40 trillion, Americans left with the bill",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
