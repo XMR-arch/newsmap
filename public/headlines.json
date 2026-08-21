@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-21T21:42:13.654Z",
-  "fetched": 23,
+  "timestamp": "2026-08-21T21:59:29.126Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,12 +15,12 @@
   "headlines": {
     "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
     "lat": "&#x27;The Emperor is a fan&#x27;: Darth Vader backs San Diego Flock surveillance cams",
-    "glob": "Proposed U.S.-Canada trade deal would introduce steel quota with lower 25% tariff, sources say",
-    "clar": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, viernes 21 de agosto",
-    "lnac": "La MLS multó a Lionel Messi por violar una regla en el partido ante Philadelphia Union",
-    "folh": "Lu�sa Sonza � pedida em casamento por Luis Ribeirinho na Alemanha",
-    "tiemp": "Desgarrador relato del padre del bebé que fue rescatado bajo los escombros de un edificio que colapsó por terremoto en Cali: &#039;No sentía los golpes&#039;",
-    "univ": "Morena se deslinda del regreso de Rocha Moya a gubernatura de Sinaloa; es una decisión personal, afirma",
+    "glob": "Trump says he expects to close trade deal with Canada as negotiators barrel toward deadline",
+    "clar": "Quiniela de la Provincia: resultado del sorteo de la Vespertina de hoy, viernes 21 de agosto",
+    "lnac": "Jannik Sinner se bajó del US Open al no recuperarse de una lesión de rodilla derecha",
+    "folh": "Show de Anitta e debates na Feira do Livro: o que ver na TV e no streaming s�bado",
+    "tiemp": "La India Catalina vuelve a brillar en Cartagena y es el rostro del renovado sector de Puerto Duro",
+    "univ": "Así operaba red de huachicol “Los Primos”, operada presuntamente por Fernando Farías; agentes aduanales adulteraban muestras: FGR",
     "lemon": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins quinze morts, dont plusieurs enfants",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -29,11 +30,10 @@
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "West Asia war highlights: Iran’s President says time to end war while in position of strength",
     "str": "Sweden’s police order Tiktok and Meta to remove 30 ads for criminal services",
-    "nat": "How once-profitable pyrethrum sector lost farmers and markets",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
-    "smh": "Retired Sydney Swans player reportedly linked to Melbourne hotel incident",
+    "smh": "Letter written by US president’s closest aides to Trump dominates news cycle",
     "nzh": "Three hurt in Lindis Pass crash",
-    "alj": "One killed, three wounded in sword attack at Swedish high school",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "alj": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
