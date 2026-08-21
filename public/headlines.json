@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-21T18:14:10.173Z",
-  "fetched": 22,
+  "timestamp": "2026-08-21T18:57:33.960Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,11 +14,11 @@
   "headlines": {
     "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
     "lat": "Grammy-winning songwriting legend Diane Warren adopts &#x27;Wilbur&#x27; the rogue WeHo pig",
-    "glob": "Montreal police to get body cameras and new powers",
-    "clar": "Quiniela Nacional: resultado del sorteo de la Vespertina de hoy, viernes 21 de agosto",
-    "lnac": "Javier Milei y sus medidas, en vivo: el aumento de la morosidad bancaria y las primeras alianzas de cara a 2027",
-    "folh": "Jogos de poder",
-    "tiemp": "Cali cierra fase de búsqueda tras terremoto y se prepara para la reconstrucción: 150 muertos y más de 1.500 heridos",
+    "glob": "Proposed U.S.-Canada trade deal would introduce steel quota with lower 25% tariff, sources say",
+    "clar": "Procesaron por asociación ilícita a un policía retirado y dos hackers que espiaron a jueces que investigaron o procesaron a Cristina Kirchner",
+    "lnac": "El alimento que se destaca por sus propiedades para reducir la inflamación y aportar probióticos",
+    "folh": "Prefeitura do Rio emite alerta severo para ventos fortes nesta sexta-feira",
+    "tiemp": "Los sabores que pasan de padres a hijos tienen su homenaje en Sabor Barranquilla",
     "univ": "CNDH ve negligencia médica en muerte de adulto mayor en penal de Oaxaca; falleció sin atención adecuada, dice",
     "lemon": "Au MuCEM, des pratiques de harcèlement sexuel et de favoritisme dénoncées par un rapport de l’inspection générale des affaires culturelles",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "劇物入りマフィンで殺人未遂容疑、女を逮捕　「殺すつもりなかった」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "DC directs to conduct survey on CMC properties, fence them, protect them",
+    "hindu": "Concerns of youth should be understood and addressed: RSS leaders",
     "str": "Migrants flown to Equatorial Guinea after resisting Liberia deportation under Trump deal, sources say",
+    "nat": "How once-profitable pyrethrum sector lost farmers and markets",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
     "smh": "Labor and Coalition unite to ringfence AI from One Nation backlash",
     "nzh": "MBIE backs council ruling that Christchurch Airbnb owners need to get consent or stop",
-    "alj": "How is drought hitting UK farming?",
+    "alj": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
     "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
