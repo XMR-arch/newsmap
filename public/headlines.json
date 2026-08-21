@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-08-21T22:30:30.614Z",
-  "fetched": 22,
+  "timestamp": "2026-08-21T22:53:14.822Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,12 +14,12 @@
   "headlines": {
     "nyt": "Trump Threatens Defamation Suit Over National Guard Report, Aiming to Intimidate a Critic",
     "lat": "&#x27;The Emperor is a fan&#x27;: Darth Vader backs San Diego Flock surveillance cams",
-    "glob": "Border agency alleges Montreal resident helped dozens enter Canada illegally",
+    "glob": "Trump says he expects to close trade deal with Canada as negotiators barrel toward deadline",
     "clar": "El representante de Julián Álvarez y un sugestivo posteo: \"Nunca le preguntes a un mentiroso por qué mintió\"",
-    "lnac": "Qué se sabe de la muerte del niño de 6 años en Santa Fe y por qué sigue detenida la madre",
-    "folh": "&apos;Pablo e Luis�o &apos;encerra temporada com alta audi�ncia na Globo",
-    "tiemp": "Antioquia declara la calamidad pública tras el terremoto del 10 de agosto: esta es la millonaria inversión para reconstruir las estructuras afectadas",
-    "univ": "Rosa Icela reacciona a la campaña de espectaculares en Chihuahua; letreros de “IMSS y nada es lo mismo” llegan a la mañanera",
+    "lnac": "Murió otra integrante de la familia que cayó con su camioneta en un barranco de Jujuy",
+    "folh": "Mulher descobre gravidez um m�s ap�s hospital confirmar aborto e fazer curetagem com feto vivo",
+    "tiemp": "Incendio forestal en Yumbo, Valle del Cauca, amenaza varias viviendas mientras Bomberos mantienen las labores de control de la emergencia",
+    "univ": "Oposición rechaza regreso de Rocha Moya como gobernador; es un acto de cinismo, dicen",
     "lemon": "EN DIRECT, guerre en Ukraine : à Kryvy Rih, une frappe russe visant un centre commercial fait au moins quinze morts, dont des enfants",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -28,12 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "劇物入りマフィンで殺人未遂容疑、女を逮捕　「殺すつもりなかった」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "West Asia war highlights: Iran’s President says time to end war while in position of strength",
-    "str": "Sweden’s police order Tiktok and Meta to remove 30 ads for criminal services",
+    "hindu": "Nagaland inks deal for first private-sector solar plant",
+    "str": "While You Were Sleeping: 5 stories you might have missed, Aug 22, 2026",
+    "nat": "Pangas and goons: How humble farm tool became a weapon of choice",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
     "smh": "Inside Operation Rosny",
-    "nzh": "How immigration has been used to win votes in New Zealand elections",
+    "nzh": "Fleeing driver in Palmerston North leaves officer in critical condition",
     "alj": "TikTok settles with US Justice Department for $400m over child privacy laws",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
