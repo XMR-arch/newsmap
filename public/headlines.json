@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-08-21T13:53:23.123Z",
+  "timestamp": "2026-08-21T14:23:22.628Z",
   "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
-    "corr",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -15,25 +15,25 @@
   "headlines": {
     "nyt": "How Harvard’s Epic Fight With Trump Is Costing the University",
     "lat": "Bass hit brakes on new bike lanes near Forest Lawn. Raman is now slamming her for it",
-    "glob": "How Russia exposes Ukrainian defences with ballistic missile attacks",
-    "clar": "Así va estar el clima para para la Media Maratón de Buenos Aires: ráfagas de viento y frio durante los 21 k en Palermo",
-    "lnac": "Fecha de cobro de Anses: el cronograma de pagos para este viernes 21 de agosto",
-    "folh": "Pol�cia Civil procura mais dois entregadores suspeitos de linchar ciclista em Copacabana",
-    "tiemp": "Imágenes y videos de los incendios forestales en Tolima: el fuego se propaga rápido y ya afecta a más de 10 municipios",
-    "univ": "La mañanera del Pueblo, 21 de agosto, minuto a minuto",
+    "glob": "Canada, U.S. trade teams rush to finalize deal as midnight deadline looms",
+    "clar": "Juan, 29 años, dejó su trabajo para irse a vivir en medio del campo: \"Dejé de pagar un alquiler de 1.000 euros al mes y ahora produzco mi propio aceite de oliva ecológico\"",
+    "lnac": "Robin Sharma, experto en desarrollo personal: “Un mal día para el ego es un buen día para el alma; aprendemos en la dificultad”",
+    "folh": "Onze montadoras anunciam maior recall da China com mais de 4 milh�es de carros el�tricos",
+    "tiemp": "El angustiante llamado de un campesino en Tolima tras voraz incendio: &#039;La vaina está complicada&#039;",
+    "univ": "La Mañanera del Pueblo, 21 de agosto, minuto a minuto",
     "lemon": "Jean Jouzel, climatologue : « Il n’y a pas, chez les candidats à la présidentielle, une véritable prise de conscience de la réalité du réchauffement climatique »",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
     "elpais": "Las mafias encarecen hasta los 9.000 euros lo que cobran a los migrantes por llevarles de Ceuta a la Península",
+    "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "佐賀・鳥栖IC付近で多重事故　高校のバスに乗っていた11人搬送",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Woman, daughter drown in makeshift tank near Karamadai in Coimbatore",
-    "str": "Several people injured in sword attack at Swedish high school",
-    "nat": "The EPL returns and the weekends belong to football again",
-    "lmaf": "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
-    "smh": "Isaako scores with suspect put-down",
+    "hindu": "Telangana looks to GIFT City to fund Hyderabad Metro buyout after IRFC setback",
+    "str": "Bolivia removes economy minister after lawmaker pressure",
+    "lmaf": "En Tunisie, les motifs de mécontentement s’accumulent, mais l’opposition reste inaudible",
+    "smh": "Test your general knowledge with the Good Weekend quiz",
     "nzh": "MBIE backs council ruling that Christchurch Airbnb owners need to get consent or stop",
     "alj": "Several people injured in sword attack at Swedish school",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
