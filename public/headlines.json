@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-08-22T17:47:53.411Z",
-  "fetched": 23,
+  "timestamp": "2026-08-22T18:00:20.719Z",
+  "fetched": 22,
   "failed": [
     "wapo",
+    "univ",
     "terc",
     "com",
     "volk",
@@ -12,14 +13,13 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Canada-U.S. Trade War Escalates as Talks Collapse",
+    "nyt": "U.S. Economy Could Feel the Sting From Trade War With Canada",
     "lat": "&#x27;I always knew the truth&#x27;: Man falsely imprisoned for 18 years exonerated of O.C. robbery",
     "glob": "Live updates: Carney says Canada is ‘at war’ as trade fight with U.S. escalates",
     "clar": "De una tela que nadie quería a un imperio textil: la historia de la madre de 16 hijos que fundó la mayor fabricante de camisas de Latinoamérica",
-    "lnac": "En qué canal pasan Independiente vs. Independiente de Mendoza por el Torneo Clausura 2026 hoy",
-    "folh": "Elenco de &apos;Quem Ama Cuida&apos; muda visual em festa de perucas; veja fotos",
+    "lnac": "Una marca alemana lanzó un descapotable premium en la Argentina",
+    "folh": "Jornalista investigado no STF por textos contra Dino ser� julgado em dezembro por esquema de extors�o",
     "tiemp": "Incendios forestales golpean a cuatro municipios de Nariño de forma simultánea: &#039;Nuestros bomberos tienen las botas quemadas&#039;",
-    "univ": "Cae en Oaxaca \"El Abulón\", segundo al mando de \"Los Mezcales\"; grupo delictivo mantiene disputa con el CJNG en Colima",
     "lemon": "Présidentielle 2027 : à Mayotte, Edouard Philippe promet de « fermer les vannes de l’immigration » à des élus lassés par les promesses",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "化学製品メーカーで男性2人倒れ重体　釜の中で研磨作業中に酸欠か",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "TNPL | Mohammed frustrated with Salem Spartans’ planning",
+    "hindu": "KL University Director  P. Sai Vijay receives ‘Change-Maker’ award",
     "str": "Canada to impose retaliatory tariffs across a raft of US sectors, PM Carney says",
     "nat": "Not qualified? I have taught law for 14 years, says incoming IPOA boss Ojwang",
     "lmaf": "Journalistes français détenus au Togo : Lomé affirme disposer d’« indices graves et concordants » à leur encontre",
     "smh": "The next time you check into a hotel, you might not need a key",
     "nzh": "Strong winds hampering firefighters at large Wānaka blaze",
-    "alj": "South Korea sending first container ship through Arctic route",
+    "alj": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
     "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
