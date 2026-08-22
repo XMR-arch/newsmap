@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T05:04:08.142Z",
+  "timestamp": "2026-08-22T05:37:02.323Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,11 +12,11 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Canada-U.S. Trade War Escalates As Talks Collapse",
+    "nyt": "Canada-U.S. Trade War Escalates as Talks Collapse",
     "lat": "&#x27;The Emperor is a fan&#x27;: Darth Vader backs San Diego Flock surveillance cams",
     "glob": "Ottawa fires back after rejecting U.S. trade deal",
-    "clar": "EEUU se dispone a aplicar aranceles del 50% a productos canadienses",
-    "lnac": "La historia detrás del símbolo del racismo que inspiró a Paul McCartney y una reconciliación que no terminó bien",
+    "clar": "Felipe Isidro, experto en educación física: “Es muy importante hacer ejercicio de fuerza porque a partir de los 30 o 35 años empezamos a perderla”",
+    "lnac": "Es oficial: Disneyland California se reinventa con espectáculos que llegan en febrero de 2027 y nuevas atracciones",
     "folh": "Monster Trucks Live chega a SP com carros gigantes e muito barulho; ainda h� ingressos",
     "tiemp": "&#039;El fuego crece frente a nuestros ojos&#039;: habitantes de Peñalisa, en Ricaurte, Cundinamarca, alertan por incendios en Tolima visibles desde la zona",
     "univ": "Inédito, deslinde de Morena de Rocha Moya, asegura especialista; ve ingobernabilidad y soledad para el mandatario",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "部下と上司からパワハラ　市役所職員の自死、高裁も「公務災害」認定",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "J.P. Nadda reviews H1N1 situation, healthcare preparedness in Delhi",
-    "str": "US-Canada trade talks collapse, triggering 50% Trump tariffs",
+    "hindu": "Supreme Court dismisses PIL petition that challenged death by hanging | Explained",
+    "str": "Trump heads into midterms short on foreign policy wins",
     "nat": "Drylands are economic assets",
-    "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
-    "smh": "Labuschagne’s woes continue after Starc’s 22-ball masterclass",
-    "nzh": "Fleeing driver in Palmerston North leaves officer in critical condition",
-    "alj": "Palestinian teen shot and killed in West Bank attack, UN responds",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "lmaf": "Au Caire, la longue restauration d’un mausolée soufi : « Ce type de projets ne doivent pas s’adresser aux seuls touristes »",
+    "smh": "AFL LIVE: Bitter finals blow for Pendlebury, Blues move a step closer to dream Pies final",
+    "nzh": "'Hoping for the best': How a police officer was left fighting for his life after a car struck him",
+    "alj": "Inundated Philippine communities seek answers over flood control funds",
+    "arab": "Fire breaks out at Libya’s Zawiya refinery"
   }
 }
