@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-22T04:00:15.776Z",
+  "timestamp": "2026-08-22T04:40:42.323Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "U.S. Says Canada Has Declined a Trade Deal to Stave Off Tariffs",
+    "nyt": "Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs",
     "lat": "&#x27;The Emperor is a fan&#x27;: Darth Vader backs San Diego Flock surveillance cams",
-    "glob": "Canada declines U.S. trade deal, tariffs to come into force",
-    "clar": "Clima hoy en Puerto Limón, Costa Rica: el pronóstico del tiempo para este sábado 22 agosto de 2026",
-    "lnac": "La familia pionera del vino sanjuanino recibe huéspedes en su encantadora posada",
+    "glob": "Ottawa fires back after rejecting U.S. trade deal",
+    "clar": "EEUU se dispone a aplicar aranceles del 50% a productos canadienses",
+    "lnac": "El nuevo juez del caso Insaurralde validó los videos en los que Jesica Cirio aparece rodeada de fajos de dólares",
     "folh": "Monster Trucks Live chega a SP com carros gigantes e muito barulho; ainda h� ingressos",
-    "tiemp": "&#039;Doña Montaña&#039;: la escultura gigante que transformó un intercambio vial en Rionegro, Antioquia",
-    "univ": "Con 4 horas de retraso, inicia audiencia de exmarino Fernando Farías; jueza determina que sea privada",
+    "tiemp": "&#039;El fuego crece frente a nuestros ojos&#039;: habitantes de Peñalisa, en Ricaurte, Cundinamarca, alertan por incendios en Tolima visibles desde la zona",
+    "univ": "Inédito, deslinde de Morena de Rocha Moya, asegura especialista; ve ingobernabilidad y soledad para el mandatario",
     "lemon": "EN DIRECT, guerre en Ukraine : un mort à Kiev dans une nouvelle attaque russe nocturne",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "部下と上司からパワハラ　市役所職員の自死、高裁も「公務災害」認定",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "‘Cooking up’ a challenge for women chefs",
-    "str": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+    "hindu": "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors",
+    "str": "US-Canada trade talks collapse, triggering 50% Trump tariffs",
     "nat": "Drylands are economic assets",
     "lmaf": "Au large de la Somalie, un cargo turc rempli d’armes arraisonné par des pirates",
-    "smh": "AFL LIVE: AFL LIVE: Lethal says Pies should take decision out of Pendles’ hands; Carlton-Dockers in shootout",
+    "smh": "AFL LIVE: Lethal says Pies should take decision out of Pendles’ hands; Blues in charge at Marvel",
     "nzh": "Fleeing driver in Palmerston North leaves officer in critical condition",
-    "alj": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "alj": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+    "arab": "Gaza Board of Peace official says plan is still operative"
   }
 }
