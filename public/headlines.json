@@ -1,23 +1,24 @@
 {
-  "timestamp": "2026-08-23T12:01:28.544Z",
-  "fetched": 23,
+  "timestamp": "2026-08-23T12:55:38.596Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
   ],
   "headlines": {
     "nyt": "The Data Center Backlash Bursts Into the Midterms",
-    "lat": "David Cannom, pioneering L.A. cardiologist, dies at 86",
+    "lat": "Will Trump interfere in the midterms? Democrats and their allies are preparing",
     "glob": "Canada wakes up to a trade war, and comes out fighting",
-    "clar": "Murió luego de estar preso 76 años y salvarse ocho veces de la pena de muerte",
-    "lnac": "Francisco “Bebu” Verón y Lucrecia Manzur ganaron prestigio pese a perder sus peleas",
-    "folh": "Pix apresenta problemas neste domingo",
+    "clar": "Barracas Central vs Platense por el Torneo Clausura 2026, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido",
+    "lnac": "Erling Haaland se rapó y le dijo adiós a su mítica melena rubia",
+    "folh": "Alok homenageia Mar�lia Mendon�a com show de drones em Barretos; veja",
     "tiemp": "Terremoto en Colombia hoy 23 de agosto: últimas noticias, balance de la emergencia y nuevos temblores en el país",
     "univ": "Régimen quiere convertirse en tribunal de la verdad coartando libertades: diputado Monraz Ibarra",
     "lemon": "Présidentielle 2027 : la surenchère sur l’immigration des candidats du bloc central",
@@ -27,13 +28,12 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "ウクライナから避難の母親、大阪に交流拠点「文化を守り、伝えたい」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "‘How long would it have lasted?’: Canadian leader on negotiating a trade deal with Trump",
-    "str": "Wartime election would 'destroy' Ukraine, Zelenskiy says",
-    "nat": "Gor, Tusker clash amidst FKF league kick-off doubts",
+    "hindu": "IND vs SL Day 1: Padikkal century helps India end the day at 300",
+    "str": "Four bodies found after Swiss apartment block fire: Police",
     "lmaf": "La République démocratique du Congo et les combattants du M23 annoncent une feuille de route pour les pourparlers de paix",
     "smh": "Dutch F1 Grand Prix live: Piastri out to make history among the Zandvoort dunes",
     "nzh": "Flights cancelled after severe gales hit parts of the country",
-    "alj": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
