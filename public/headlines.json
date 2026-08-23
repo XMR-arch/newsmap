@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T20:04:11.471Z",
+  "timestamp": "2026-08-23T20:34:46.446Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,13 +13,13 @@
   ],
   "headlines": {
     "nyt": "The Data Center Backlash Bursts Into the Midterms",
-    "lat": "Thousands evacuated as Hawk fire burns over 10,000 acres near Reno",
-    "glob": "Overnight storm brings power outages, travel woes to parts of B.C.",
-    "clar": "Empeoró la salud del rey Harald, de 89 años, y hay extrema preocupación en Noruega",
-    "lnac": "Buenas noticias para trabajadores en Nueva York: Kathy Hochul confirma aumentos de sueldo para 60.000 personas",
-    "folh": "1926: Morre o ator Rodolfo Valentino, aos 31 anos, nos Estados Unidos",
-    "tiemp": "Procuraduría destituye e inhabilita por 17 años a docente de Medellín por abuso sexual a menores",
-    "univ": "Pide Iglesia visibilizar a cuidadores de personas enfermas; su labor es determinante, asegura",
+    "lat": "Thousands evacuated, 6 hurt as Hawk fire grows to over 13,000 acres on California-Nevada border",
+    "glob": "B.C. Conservative MLA resigns, party leader Kerry-Lynne Findlay to run for seat",
+    "clar": "Enviado de EEUU se retracta de declaraciones que contradijeron a Trump sobre los Altos del Golán",
+    "lnac": "Más de dos meses con cortes de luz: el servicio se normaliza en Almagro y Villa Crespo, tras las denuncias y nuevas obras",
+    "folh": "Orlando Luz e Rafael Matos ganham, em Cincinnati, 2� Masters 1000 de t�nis seguido",
+    "tiemp": "Linares, Nariño, entre las llamas de los incendios y las balas de los grupos armados ilegales; su alcalde reconoce que son momentos muy difíciles",
+    "univ": "Harfuch descarta cualquier participación de agentes extranjeros con el gabinete de seguridad federal; “las leyes lo prohíben\"",
     "lemon": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "ウクライナから避難の母親、大阪に交流拠点「文化を守り、伝えたい」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Beyond the gates: how former inmates rebuilt their lives after prison",
+    "hindu": "Syria FM meets Mossad chief in Jordan: sources",
     "str": "Zelensky says Ukraine not behind Nord Stream blasts, cooperating with probe",
-    "nat": "Jefferson-Wooden beats Alfred in Silesia, Seville takes men&apos;s sprint",
+    "nat": "Numeracy errors deepen as children progress through lower primary",
     "lmaf": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
     "smh": "Government, parents, teachers: ‘It is everyone’s responsibility to be part of combating this culture’",
-    "nzh": "'Tragic, preventable': Toddler run over in driveway before Diwali party celebrations",
-    "alj": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
+    "nzh": "Lakapi Samoa CEO warns World Rugby sanctions could end Manu Samoa",
+    "alj": "Is Israel about to split the occupied West Bank in half?",
     "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
