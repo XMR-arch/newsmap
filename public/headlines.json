@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-23T19:13:20.026Z",
+  "timestamp": "2026-08-23T19:35:45.267Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -14,12 +14,12 @@
   "headlines": {
     "nyt": "The Data Center Backlash Bursts Into the Midterms",
     "lat": "Thousands evacuated as Hawk fire burns over 10,000 acres near Reno",
-    "glob": "More than 7,000 lightning strikes spark new blazes across B.C.",
-    "clar": "Cristina, limpiadora en España: \"Piensan que me hacen un favor pagándome 10 euros la hora, pero estudié una carrera”",
-    "lnac": "Cambia la regla del Uscis con el Advance Parole: ya miles de migrantes que viajan arriesgan su estatus en EE.UU.",
-    "folh": "Minerais cr�ticos d�o ao Brasil poder de barganha",
+    "glob": "Overnight storm brings power outages, travel woes to parts of B.C.",
+    "clar": "Empeoró la salud del rey Harald, de 89 años, y hay extrema preocupación en Noruega",
+    "lnac": "Aston Villa, envuelto en la novela de Emiliano Martínez, recibió un golpe tremendo ante Brigthon",
+    "folh": "Ap�s Hayden Panettiere, Melissa Gilbert pede prote��o a atores mirins",
     "tiemp": "Procuraduría destituye e inhabilita por 17 años a docente de Medellín por abuso sexual a menores",
-    "univ": "Anticorrupción sanciona e inhabilita a 17 funcionarios; soborno y uso fraudulento de cédulas, entre las faltas cometidas",
+    "univ": "PRI propone fortalecer prevención y reparación integral por feminicidio; pide fijar estándares de investigación",
     "lemon": "Raphaël Glucksmann annonce être candidat à l’élection présidentielle dans le cadre de la primaire organisée avec le Parti socialiste",
     "spieg": "Boats from Eastern Libya: How Europe Is Bowing to a Libyan Warlord on Migration",
     "guar": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "ウクライナから避難の母親、大阪に交流拠点「文化を守り、伝えたい」",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Retired railway employee duped of ₹30 lakh in digital arrest scam; one held",
-    "str": "Landslide at Guinea landfill kills 30, government says",
+    "hindu": "Abandon incinerator project in Kodungaiyur, say north Chennai residents",
+    "str": "French politician Glucksmann launches presidential bid amid fractured left",
     "nat": "Loan spam lands digital lender Sh1m bill",
     "lmaf": "Guinée : 30 morts dans l’éboulement d’une décharge à Conakry après de fortes pluies",
-    "smh": "‘Tell your child you believe them’: Why young people start to doubt their own bodies",
-    "nzh": "Plumber shortage: Not enough people in the pipeline to fill the gaps",
-    "alj": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
-    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
+    "smh": "Brethren feed Angus Taylor, Tony Abbott days after Nazi revelations",
+    "nzh": "'Absolute nightmare' - patients left waiting in soiled beds at North Shore emergency department",
+    "alj": "Zhou Bo: China’s alternative to Western power",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
