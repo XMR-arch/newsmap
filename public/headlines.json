@@ -1,12 +1,11 @@
 {
-  "timestamp": "2026-08-24T10:47:57.289Z",
-  "fetched": 22,
+  "timestamp": "2026-08-24T11:13:36.009Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
-    "peop",
     "chos",
     "mav",
     "taus",
@@ -15,10 +14,10 @@
   "headlines": {
     "nyt": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
     "lat": "Fighters, survivors of deadly Compton gang wars relive the dark past at Tupac Shakur murder trial",
-    "glob": "Morning Update: ‘You are at war when you get attacked’",
-    "clar": "El antiguo proverbio celta que invita a desconfiar de quienes hablan demasiado: “Los que más abren la boca son los que menos abren el corazón”",
-    "lnac": "Hay alerta amarilla por frío extremo para este lunes 24 de agosto: las provincias afectadas",
-    "folh": "Galerias de arte aumentam apostas antes das elei��es e de mais uma SP-Arte Rotas",
+    "glob": "Housing and infrastructure gaps compromising First Nations during wildfires, report warns",
+    "clar": "Dólar hoy en Venezuela: precio y cotización de la divisa este lunes 24 de agosto de 2026",
+    "lnac": "Dos fuertes terremotos afectaron a Costa Rica",
+    "folh": "Opera��o da pol�cia mira &apos;c�rculo de fogo&apos; que derretia joias roubadas em SP",
     "tiemp": "Tembló de nuevo en Chocó: Servicio Geológico Colombiano reportó más de 7 sismos en la madrugada de este 24 de agosto; el mayor fue de 3,5 de magnitud",
     "univ": "Morena propone incluir la muerte asistida en la Constitución; busca reconocerla como un derecho",
     "lemon": "Présidentielle 2027 : qui sont les 32 candidats déclarés et probables ?",
@@ -26,14 +25,15 @@
     "guar": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",
     "elpais": "Ayuso evita el choque con Feijóo y se niega a hablar de la polémica del ático: “Está a la venta, chao ‘pescao”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "横浜市のマンションからオオトカゲ逃走　体長1.2m、県警が発表",
-    "hindu": "Nainar Nagenthran slams TVK-led government’s decision to drop Parandur airport project",
+    "asahi": "食パン捨てたの誰？　39キロ分、大山の県道に点々「絶対にやめて」",
+    "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
+    "hindu": "Karnataka Legislative Assembly passes 8 Bills in an hour without debate amid BJP protest",
     "str": "Lula, Flavio Bolsonaro neck and neck ahead of Brazil election, Nexus poll shows",
     "nat": "Ruto to Opposition: Think beyond slogans, insults and chants",
     "lmaf": "Bradley Mortin, politiste : « Au Sahel, les groupes djihadistes et criminels financent en partie leurs activités via l’extraction de lithium »",
-    "smh": "Two men stabbed in Perth home invasion",
+    "smh": "A piece o’ cord for bouncers",
     "nzh": "Blaze breaks out in North Canterbury in terrain too rough for ground firefighters",
-    "alj": "US threatens toughest sanctions yet against Iran: What we know",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "India used pellets, grenades on Gen Z protests: What Amnesty report reveals",
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
