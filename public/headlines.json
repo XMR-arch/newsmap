@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T21:55:53.048Z",
+  "timestamp": "2026-08-25T22:22:16.661Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
-    "lat": "Couple accused of killing California teacher caught in Mexico, extradited to face charges",
-    "glob": "Trump mulls renaming Lake Ontario to ‘Lake America’ as trade war escalates",
-    "clar": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, martes 25 de agosto",
+    "nyt": "In Canada and at Home, Deference to Trump Turns to Defiance on Tariffs and Other Issues",
+    "lat": "California teacher beaten to death, sparking hunt for his girlfriend — and her husband",
+    "glob": "Another B.C. Conservative quits, the third this month to exit party",
+    "clar": "Reforma constitucional en San Luis: reelección a la norteamericana, adiós a la elección de medio término y un pedido sobre la IA de la Iglesia",
     "lnac": "Daniel Mecca, escritor: “Recorrer las calles por donde Borges caminaba permite crear una imaginación poética de su figura”",
-    "folh": "Ap�s foto com Nikolas Ferreira, Ana Castela far� show com cach� pago por emenda do PL",
-    "tiemp": "Antioquia envió a sus equipos más especializados para apoyar la emergencia causada por los incendios en Tolima",
-    "univ": "\"Rocha sigue gobernando Sinaloa\"; oposición descalifica nombramiento de Graciela Domínguez y Morena la defiende",
+    "folh": "A vida e os sucessos de Dolly Parton, a lenda da m�sica country que morreu aos 80 anos",
+    "tiemp": "Habrá nuevo comandante de la Policía en Barranquilla: sale general Miguel Camelo en medio de compleja crisis de seguridad en el área metropolitana",
+    "univ": "60 millones de mexicanos tienen empleo: encuesta; ocupación laboral en México registra su nivel más alto en 2026",
     "lemon": "Droits de douane : le Canada riposte et annonce des surtaxes de 15 % à 50 % sur une série de produits américains dès le 8 septembre",
     "spieg": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
     "guar": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
@@ -28,12 +28,12 @@
     "asahi": "出勤停止を「懲戒免職」と…北陸放送に20万円賠償命じる　金沢地裁",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Fifty years ago | WHO to collaborate in Ayurvedic project",
-    "str": "The ‘polite’ face of Germany’s far right: Where can he take the AfD?",
+    "str": "While You Were Sleeping: 5 stories you might have missed, Aug 26, 2026",
     "nat": "Dolly Parton, queen of country music, dies at 80",
     "lmaf": "En RDC, la colère des soignants, en première ligne face à Ebola, mais rarement payés",
-    "smh": "Freddy responds to touching Arrow gesture",
-    "nzh": "'Game changing': DNA clues track hornets in Auckland waterways",
-    "alj": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+    "smh": "Luxury watches, millions in jewellery seized from alleged fake lawyer",
+    "nzh": "Calls for free flu vaccine for under-fives as hospitalisations soar",
+    "alj": "Brazil fines TikTok $30m for child data privacy violations",
     "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
