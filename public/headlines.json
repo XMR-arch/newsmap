@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-25T19:39:05.894Z",
+  "timestamp": "2026-08-25T19:59:51.882Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,13 +13,13 @@
   ],
   "headlines": {
     "nyt": "Hegseth’s Purge of Top Generals Leaves the Army Rudderless",
-    "lat": "Couple accused of killing California man caught in Mexico, extradited to face charges",
+    "lat": "Couple accused of killing California teacher caught in Mexico, extradited to face charges",
     "glob": "Housing and infrastructure gaps compromising First Nations during wildfires, report warns",
-    "clar": "Quiniela de Santa Fe: resultado del sorteo de la Matutina de hoy, martes 25 de agosto",
-    "lnac": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 25 de agosto, minuto a minuto",
-    "folh": "Festival re�ne 40 cervejarias apenas de SP em casa nova",
-    "tiemp": "Hoteleros alertan riesgo en el turismo: cobros por mayor consumo de energía podrían encarecer hospedaje y golpear el empleo en Santa Marta",
-    "univ": "Morena designa a primeros coordinadores de defensa; va Nora Ruvalcaba en Aguascalientes y Gutiérrez Lazarus en Campeche",
+    "clar": "Máximo Huerta, escritor: \"No todas las infancias son felices. Yo la viví con miedo, miedo a que sonaran las llaves”",
+    "lnac": "Encontraron muerto en situación de calle a Max Higgins, el jamaiquino que prometió construir el “Disney argentino”",
+    "folh": "Passando pano para o Banco Central?",
+    "tiemp": "El fenómeno de El Niño intensifica incendios en el Valle: autoridades mantienen activa la alerta departamental",
+    "univ": "PAN y Somos México suman voces en defensa de Ruffo Appel; Fox, Acosta Naranjo y Álvarez Icaza, entre los protestantes",
     "lemon": "Droits de douane : le Canada riposte et annonce des surtaxes de 15 % à 50 % sur une série de produits américains dès le 8 septembre",
     "spieg": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
     "guar": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "教員働き方改革進める自治体を財政支援へ　文科省、教委に計30億円",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
-    "str": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus",
+    "hindu": "Delhi High Court gives six weeks to residents of slums near PM’s residence to move to Savda Ghevra",
+    "str": "U.S. Secret Service aware of Iranian video threat against Barron Trump",
     "nat": "Two tourism agencies set to be collapsed into one in new Bill",
     "lmaf": "En RDC, la colère des soignants, en première ligne face à Ebola, mais rarement payés",
-    "smh": "Measles kills two unvaccinated people as US outbreak approaches 3000",
-    "nzh": "New Zealand's ATM dead zones",
-    "alj": "Two unvaccinated people die of measles in US state of Pennsylvania",
-    "arab": "Fire breaks out at Libya’s Zawiya refinery"
+    "smh": "Environmental watchdog challenges giant data centre project over noise fears",
+    "nzh": "Man found guilty of threatening to kill people at two Auckland schools",
+    "alj": "More than 1,300 people arrested by ICE in Virginia and Maryland",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
