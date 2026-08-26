@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-08-26T11:45:40.194Z",
-  "fetched": 23,
+  "timestamp": "2026-08-26T12:17:34.217Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
     "com",
     "volk",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -14,10 +15,10 @@
   "headlines": {
     "nyt": "Bessent Faces Credibility Test in Quest to Tame Markets",
     "lat": "Ex-Lakers star Byron Scott&#x27;s sexual assault trial nears as Campbell Hall settles with accuser",
-    "glob": "To First Nations that named Lake Ontario, Trump’s threat doesn’t hold water",
-    "clar": "Ferrán Barenblit, nuevo curador de la Bienal de Shanghái: “Estamos entrando en una nueva era”",
-    "lnac": "El Gobierno busca darle media sanción a Inocencia Fiscal II y a la reforma del Banco Central",
-    "folh": "Casas Bahia faz novo leil�o de eletrodom�sticos; lances v�o at� 4 de setembro",
+    "glob": "Canadian Museum for Human Rights board was divided over Nakba exhibit, records show",
+    "clar": "Operación conjunta Camboya-EEUU descubre vínculo de lavado de dinero con el Cártel de Sinaloa",
+    "lnac": "Debate por semillas: el número uno de Bayer en el país dijo que están en juego los próximos 40 años de la agricultura",
+    "folh": "Prefeitura de S�o Paulo adia fiscaliza��o de bikes e autopropelidos em ciclovias",
     "tiemp": "La llamada que permitió interceptar un vehículo en el que un hombre habría sido secuestrado en el sur de Neiva: &#039;Ayúdame&#039;",
     "univ": "Van por ordenar a Somos MX cambio de color",
     "lemon": "Ulrich Siegmund, la figure montante et inquiétante de l’extrême droite allemande",
@@ -28,12 +29,11 @@
     "asahi": "ぶつ切り新幹線どうつなげる？　西九州、アセスへ技術検討会が始動",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Nepal flash floods LIVE: Several feared dead, India to send relief materials",
-    "str": "Prince Harry and family due back in UK as they return from US, BBC reports",
-    "nat": "Statement of intent: Clinical Tusker FC fire a warning shot",
+    "str": "West Nile virus infection causes one death in the Netherlands",
     "lmaf": "Au Maroc, les hackeurs du groupe Jabaroot publient les noms de 70 000 agents des services de sécurité et de renseignement",
-    "smh": "Four men charged over alleged violent home invasion in Perth",
+    "smh": "Aussie star ready for Charlo showdown",
     "nzh": "Person assaulted, vehicle shot at after car crash between Toyota and Volkswagen",
     "alj": "Why India is sharing missile secrets with its private sector",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "arab": "Bird flu kills 13,000 seal pups on remote Australian island"
   }
 }
