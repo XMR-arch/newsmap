@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-08-30T19:29:34.397Z",
+  "timestamp": "2026-08-30T21:59:54.130Z",
   "fetched": 22,
   "failed": [
     "wapo",
@@ -13,13 +13,13 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
-    "lat": "Bear family rescued from large water tank in La Verne during heat wave",
-    "glob": "Toronto Blue Jays unveil Hall of Excellence as part of 50th anniversary season",
-    "clar": "Sonia Díaz, coach: \"La mayoría de las personas no interrumpen porque sean maleducadas, sino porque su cerebro va más rápido que la conversación\"",
-    "folh": "Busca por &apos;sugar daddy&apos; termina em preju�zo de at� R$ 2.000 para mulheres em SC",
-    "tiemp": "Atacaron con explosivos la empresa de aseo Urbaser en Popayán: reportaron daños en camiones que afectarían el servicio público de recolección",
-    "univ": "Rosa Icela Rodríguez lanza advertencia a diputados de Morena; “nadie puede servirse del movimiento para privilegios personales”",
+    "nyt": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods",
+    "lat": "&#x27;We&#x27;re not changing it&#x27;: SoCal-based Mapquest takes stand against Trump&#x27;s &#x27;Lake America&#x27;",
+    "glob": "One Canadian found safe after catastrophic Nepal-Tibet floods, Anand says",
+    "clar": "La mora volvió a subir en julio según datos privados: las familias ya refinanciaron $2,6 billones",
+    "folh": "Brasileiro � encontrado morto com tiro na cabe�a no Paraguai",
+    "tiemp": "Conmoción en Medellín por el asesinato de un menor LGBTIQ+: la mamá lo encontró amordazado, con rasguños y otras heridas en una casa",
+    "univ": "Nuevo ciclo escolar arranca con más días sin clases en 17 estados, advierte estudio; prevé recorte de 73.7% a evaluación",
     "lemon": "Salaires des enseignants : les candidats à la présidentielle multiplient les promesses, les intéressés s’interrogent sur les contreparties",
     "spieg": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
     "guar": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "同志社国際高校、今年度の沖縄研修旅行を中止　保護者説明会で説明",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Neelakurinji-like bloom adds charm to Kudremukh Hills",
-    "str": "Ukraine's former defence chief seeks US investment for defence tech fund, FT reports",
-    "nat": "Niger says it regains control of airbase after soldiers mutiny",
+    "hindu": "FPIs turn buyers for second month, invest ₹30,919 crore in August",
+    "str": "While You Were Sleeping: 5 stories you might have missed, Aug 31, 2026",
+    "nat": "Assist king Fernandes turns from provider to predator in Man United romp",
     "lmaf": "Au Niger, la tentative de coup d’Etat met en lumière les faiblesses de la junte du général Tiani",
-    "smh": "ASX set to slide as Wall Street retreats; Fed chief talks up inflation fight",
-    "nzh": "Police officer charged with sexually abusing child",
-    "alj": "‘Do you miss Mogadishu?’ Inside Sweden’s far-right campaign",
-    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
+    "smh": "E-scooter changes officially the law following death of young teen",
+    "nzh": "Kickboxer Hayden Barnard sentenced to 11 months’ home detention for ‘brutal assault’ in Tasman",
+    "alj": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+    "arab": "Fire breaks out at Libya’s Zawiya refinery"
   }
 }
