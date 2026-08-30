@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-08-30T12:17:24.972Z",
-  "fetched": 21,
+  "timestamp": "2026-08-30T16:46:18.582Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "lnac",
@@ -8,7 +8,6 @@
     "com",
     "volk",
     "chos",
-    "nat",
     "mav",
     "taus",
     "haar"
@@ -16,24 +15,25 @@
   "headlines": {
     "nyt": "How Trump’s Policy Agenda Runs Through One Federal Court, in Texas",
     "lat": "A conservative California upbringing paved Natalie Harp&#x27;s way to Trump",
-    "glob": "Alberta separatists rally ahead of province’s birthday celebrations",
-    "clar": "La NASA lanzó el telescopio Roman que hará un nuevo \"Atlas del Universo\": tiene un campo de visión 100 veces mayor al Hubble",
-    "folh": "Einstein est� com inscri��es abertas para resid�ncia m�dica e de outras �reas da sa�de",
-    "tiemp": "Ministerio de Salud establece medidas para reforzar la preparación hospitalaria ante los posibles efectos del fenómeno de El Niño",
-    "univ": "Dejan el juego por irse a la búsqueda: Niños y niñas exigen localización de sus familiares desaparecidos",
-    "lemon": "L’Islande rejette les négociations d’adhésion à l’UE",
+    "glob": "With Canadians quietly lending a hand, a U.S. spy satellite-turned-telescope takes flight",
+    "clar": "Rating del sábado: Mirtha Legrand repuntó, pero ¿le alcanzó para ganarle a Andy, que además bajó su promedio?",
+    "folh": "Sorridente e com mensagem religiosa, Maduro aparece em fotos na pris�o nos EUA",
+    "tiemp": "Ellas son las niñas que le pidieron casa al presidente Abelardo De La Espriella en Cali por el terremoto: &#039;¡El corazón se me salía de la emoción!&#039;",
+    "univ": "Con elogios a Ebrard, arranca plenaria de Morena en San Lázaro; Rosa Icela Rodríguez inaugura el cónclave guinda",
+    "lemon": "EN DIRECT, présidentielle 2027 : Edouard Philippe veut créer un « parti » ou une « confédération de partis » avec des « candidats uniques » aux législatives de 2027",
     "spieg": "Amodei vs. Altman: How the Race for AI Dominance Is Increasing the Risks",
-    "guar": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
+    "guar": "People fleeing Sudan civil war face ‘dire and deteriorating’ conditions in refuge city",
     "elpais": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "福井3市に一時大雨特別警報、30万人超に緊急安全確保　2人軽傷",
+    "asahi": "同志社国際高校、今年度の沖縄研修旅行を中止　保護者説明会で説明",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "‘Mother was swept away’: Nepal flood survivors cling to hope amid search for missing",
-    "str": "Austria sees record number of heat-related deaths in June and July",
-    "lmaf": "La Tunisie fait face à une grave pénurie de bouteilles d’eau au terme d’un mois d’août caniculaire",
-    "smh": "Bunny on the run as Dees hand Lions record AFLW loss; Blues hang tough; Lamentable jumper clash",
+    "hindu": "‘Anti-national’ graffiti at varsity whitewashed after West Bengal CM’s ultimatum",
+    "str": "NASA launches powerful new Roman Space Telescope from Florida",
+    "nat": "Niger says it regains control of airbase after soldiers mutiny",
+    "lmaf": "Au Niger, la tentative de coup d’Etat met en lumière les faiblesses de la junte du général Tiani",
+    "smh": "Superquiz, Monday, August 31",
     "nzh": "Garage blaze spreads to two homes on Kapiti Coast",
-    "alj": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
-    "arab": "Gaza Board of Peace official says plan is still operative"
+    "alj": "Israeli soldiers participate in Sydney Marathon despite protests",
+    "arab": "Enrollment begins at Saudi-backed school for Gaza children"
   }
 }
