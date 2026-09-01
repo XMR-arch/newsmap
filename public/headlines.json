@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-01T12:03:12.300Z",
+  "timestamp": "2026-09-01T16:31:42.661Z",
   "fetched": 22,
   "failed": [
     "wapo",
@@ -13,27 +13,27 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "China or the U.S.? Two Meetings Offer Competing Showcases of Global Power.",
-    "lat": "Traffic deaths are on the rise. Why is the LAPD pulling over fewer drivers?",
-    "glob": "Morning Update: Shakeups at federal investment agencies",
-    "clar": "La fabulosa casa hecha con contenedores que tiene dos pisos y terraza",
-    "folh": "BNDES anuncia mais R$ 4,1 bi para plano de aux�lio a empresas afetadas por tarifa�o e guerra",
-    "tiemp": "Policía se pronuncia tras el atentado terrorista con un carro bomba sobre la estación de Los Patios que dejó un muerto y 11 heridos",
+    "nyt": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+    "lat": "Could a hurricane send floods to Southern California for Labor Day weekend?",
+    "glob": "U.S. sought to wipe out Canadian industries, Carney says",
+    "clar": "Confirman que Erin Piacenti, vicepresidente del Bank of America, es una de las víctimas apuñaladas mortalmente en Time Square: el hombre de 68 años sigue hospitalizado en estado crítico",
+    "folh": "Lula ganha apoio de grupos evang�licos de influ�ncia restrita no Rio",
+    "tiemp": "Ramiro Castilla es el nuevo interventor de Air-e: conoce la empresa desde Electricaribe y llega al cargo en medio de la crisis financiera",
     "univ": "EN VIVO, Segundo Informe de Gobierno de Claudia Sheinbaum; sigue aquí el mensaje de la Presidenta",
-    "lemon": "Rentrée scolaire 2026 : l’éducation nationale et les élus locaux confrontés à l’accélération du déclin démographique",
+    "lemon": "EN DIRECT, guerre en Ukraine : l’Allemagne accuse la Russie d’être responsable de l’attaque au drone de l’aéroport de Leipzig et va notamment fermer la Maison russe, à Berlin",
     "spieg": "BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge",
     "guar": "South African airline defends dramatic low-level flyby before rugby union clash",
-    "elpais": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El plan de choque del Gobierno para Ceuta incluye más de 100 millones para la acogida de menores",
+    "elpais": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "「みんなで大家さん」販売・運用2社、都と大阪府が事業許可取り消し",
+    "asahi": "関西電力美浜原発3号機、12日にも再稼働　蒸気漏れ対策を実施",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Part with land for Narsapuram port, Andhra Pradesh CM Naidu asks farmers",
-    "str": "Iran presses US to honour deal as truce teeters over Trump threats",
-    "nat": "&apos;Tunahangaika&apos;: Magadi residents hit by water crisis after suspension of Tata Chemicals operations",
-    "lmaf": "En Guinée, des ONG réclament une enquête indépendante après la découverte de six corps dans une fosse commune",
-    "smh": "Australia’s ‘shameful’ cocaine habit prompts $600m Pacific package",
+    "hindu": "SCO Summit: Pakistan PM Sharif says water must never be weaponised",
+    "str": "Dutch police arrest 34 people after shooting in rural village",
+    "nat": "Winning part of Malkia Strikers’ DNA since 1991",
+    "lmaf": "Bombardement de Bouaké en 2004 : les familles des victimes portent plainte contre un marchand d’armes",
+    "smh": "The greatest scientific mystery of our time may have just flashed in a gold mine",
     "nzh": "Will spring cleaning help your wellbeing? The psychology of decluttering",
-    "alj": "‘Hit them hard’: Does Trump have another ‘new’ Iran strategy, can it work?",
-    "arab": "Israeli strikes in Gaza kill three in operation to seize Hamas figure: officials"
+    "alj": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "arab": "Foodics Black, an all-in-one platform for dine-in full-service restaurants"
   }
 }
