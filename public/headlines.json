@@ -1,9 +1,8 @@
 {
-  "timestamp": "2026-09-01T21:56:27.891Z",
-  "fetched": 22,
+  "timestamp": "2026-09-01T23:47:21.105Z",
+  "fetched": 23,
   "failed": [
     "wapo",
-    "lnac",
     "terc",
     "com",
     "volk",
@@ -14,12 +13,13 @@
   ],
   "headlines": {
     "nyt": "U.S. Strikes Iran Over Strait of Hormuz Mines, Trump Says",
-    "lat": "Convicted MAGA election denier declines job in California amid pressure from Newsom",
-    "glob": "Mysterious floating island reappears on B.C. lake",
-    "clar": "Murió el hombre que había sido atropellado por un patrullero de la Policía Bonaerense que iba a asistir una emergencia del 911",
-    "folh": "Motorista de Porsche avan�a sinal e bate em viatura da PM na Faria Lima",
-    "tiemp": "¿Cierres en el Tranvía de Ayacucho? La drástica medida que evalúa Medellín tras cientos de fallas por invasiones",
-    "univ": "Francisco Garduño falta a audiencia por incendio en estación migratoria; acusan falta de sanción tras incumplimiento",
+    "lat": "Coverage for smoke damage, money for protecting homes passed to help wildfire victims",
+    "glob": "Alberta’s revised statement celebrating province’s birthday removes reference to Indigenous peoples",
+    "clar": "Robo al excampeón del TC Walter Hernández: detuvieron a un sospechoso y secuestraron una camioneta vinculada al asalto",
+    "lnac": "Restos hallados en una finca en Salta pertenecen a una docente desaparecida",
+    "folh": "Senado aprova incentivo a data centers com manobra para incluir g�s natural",
+    "tiemp": "De la emergencia a la descentralización: la estrategia regional para proteger la formación médica tras el terremoto en el Valle del Cauca",
+    "univ": "Rosa Icela entrega versión impresa y códigos QR del segundo informe de Sheinbaum en San Lázaro; sigue aquí el minuto a minuto",
     "lemon": "EN DIRECT, guerre en Ukraine : Vladimir Poutine dit qu’on « ne négocie pas avec les terroristes » après l’avertissement de Volodymyr Zelensky sur la sécurité de l’espace aérien russe",
     "spieg": "BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge",
     "guar": "South African airline defends dramatic low-level flyby before rugby union clash",
@@ -28,12 +28,12 @@
     "asahi": "琵琶湖の絶景　天空散歩で　山岳リゾートに国内最長のスカイブリッジ",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
     "hindu": "Pink tickets to continue till Sept. 17; Saheli cards mandatory thereafter, say officials",
-    "str": "UK pledges additional £50 million to help contain Ebola outbreak in Congo",
+    "str": "US defends Trump’s Venezuela oil deal",
     "nat": "Nacada arrests 11 over fake alcohol in Nairobi",
     "lmaf": "En Guinée-Bissau, le passage à un régime présidentiel fort approuvé par référendum",
-    "smh": "Five Aussies found in Nepal, Tibet after floods",
-    "nzh": "Police staffer facing nearly 40 charges including rape and kidnapping",
-    "alj": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+    "smh": "This valley was the last known location of a Sydney family. Then a wave 100 metres high hit",
+    "nzh": "Moa Point disaster caused by systemic leadership failures, damning report finds",
+    "alj": "Fernandez transfers to Man City from Chelsea in joint British record fee",
     "arab": "Foodics Black, an all-in-one platform for dine-in full-service restaurants"
   }
 }
