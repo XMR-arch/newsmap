@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-02T06:12:53.273Z",
-  "fetched": 19,
+  "timestamp": "2026-09-02T11:19:43.177Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "lnac",
@@ -10,30 +10,30 @@
     "chos",
     "mav",
     "taus",
-    "nzh",
-    "alj",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
     "nyt": "At G20 Summit, Some U.S. Allies Push Back on Trump’s Economic Approach",
-    "lat": "Aggressive Plaskett fire outgrows Timber fire as Big Sur wildfires rage",
-    "glob": "Hegseth’s post belittling Canadian cadet program draws bipartisan condemnation",
-    "clar": "Spencer Jones y Jazz Chisholm Jr. respaldan a Gerrit Cole en triunfo de Yankees, 7-3 ante Angelinos",
-    "folh": "Planeta vai exceder limite de 1,5�C e tarefa agora ser� voltar a ele, diz ONU",
+    "lat": "Errol Flynn had a penchant for underage girls. His trial barely tarnished him",
+    "glob": "Sudbury doubles down on mining amid trade war",
+    "clar": "Dólar hoy en Venezuela: precio y cotización de la divisa este miércoles 2 de septiembre de 2026",
+    "folh": "Rafa Kalimann lamenta morte de cachorro da fam�lia: &apos;Virou estrelinha&apos;",
     "tiemp": "Los tentáculos de &#039;Don Berna&#039;, las Auc y &#039;La Oficina&#039; que le permitieron a José Ignacio Mesa llegar a la Alcaldía de Envigado y al Senado",
-    "univ": "Homicidio doloso disminuye 51%, reporta segundo informe de Sheinbaum; baja también robo de autos",
-    "lemon": "Jordan Bardella mal à l’aise pour défendre le programme présidentiel de Marine Le Pen sur le voile et les retraites",
+    "univ": "Sheinbaum llama a la unidad del movimiento",
+    "lemon": "Le réseau électrique européen face aux menaces de sabotage et de cyberattaques : « Le scénario du pire n’a rien d’inéluctable, mais il faut s’y préparer »",
     "spieg": "BYD, Geely, Xpeng: Germany’s Vaunted Auto Industry in Dire Straits Amid Chinese Surge",
-    "guar": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-    "elpais": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
+    "guar": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+    "elpais": "Malestar en el Gobierno contra la policía por ocultarle una información clave sobre la crisis de Ceuta",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "富山の交番襲撃事件、二審も遺族の賠償請求認めず　高裁金沢支部判決",
+    "asahi": "富山の交番襲撃事件、二審も賠償請求認めず　県警対応の過失は指摘",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Are MCQ-based Humanities entrance exams testing the right skills?",
-    "str": "German power grid under fresh sabotage attack, police say",
-    "nat": "Fix mindset, save journalism",
-    "lmaf": "En Guinée-Bissau, le passage à un régime présidentiel fort approuvé par référendum",
-    "smh": "Kyle Sandilands served with subpoena papers live on-air"
+    "hindu": "Chhattisgarh emerges from LWE menace, witnessing new dawn of development: V-P Radhakrishnan",
+    "str": "King Charles and France's Macron to view Bayeux Tapestry at the British Museum",
+    "nat": "Inside Ruto’s ODM deal to win back Western Kenya",
+    "lmaf": "Ebola en RDC : l’épidémie cause plus de 3 000 morts, sur plus de 6 000 cas confirmés",
+    "smh": "&#39;Wake-up call&#39; that saved UFC star&#39;s career",
+    "nzh": "Fewer Kiwis contracting sexually transmitted diseases",
+    "alj": "Nigerian anticorruption agency sacks 40 staff over misconduct allegations",
+    "arab": "Foodics Black, an all-in-one platform for dine-in full-service restaurants"
   }
 }
