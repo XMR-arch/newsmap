@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-06T09:40:46.114Z",
-  "fetched": 22,
+  "timestamp": "2026-09-06T13:07:37.309Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
@@ -9,31 +9,31 @@
     "chos",
     "mav",
     "taus",
-    "haar",
-    "arab"
+    "haar"
   ],
   "headlines": {
-    "nyt": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
-    "lat": "Rare sighting of endangered gray wolf in Lake County brings hope of California comeback",
+    "nyt": "The Battle to Save General Donahue From Hegseth’s Army Purge",
+    "lat": "Backlash over data centers hits California, and the midterms",
     "glob": "Canadian journalists reflect on the triumphs, regrets and lessons learned covering 9/11",
-    "clar": "La heroica resistencia de los libreros para sortear la censura de la Dictadura",
-    "lnac": "Alta Fidelidad: Palito Ortega, obra de arte total",
-    "folh": "&apos;Eles abriram a porta e nos arrastaram para fora&apos;: opera��o do ICE amplia medo em Nova Jersey",
-    "tiemp": "Abelardo De La Espriella anunció medidas para acelerar la reconstrucción de Cali tras el terremoto, con acciones en vivienda, empleo y economía",
+    "clar": "Arsenal vs Chelsea, con Dibu Martínez, EN VIVO, por la Premier League: a qué hora juegan, formaciones y cómo ver el partido",
+    "lnac": "Investigadores argentinos desarrollaron una técnica molecular clave para mejorar el diagnóstico de una enfermedad que afecta a millones de personas en el mundo",
+    "folh": "Sexo com pegada n�o � sexo violento; saiba como diferenciar",
+    "tiemp": "Aviones de combate Kfir sobrevuelan Ocaña y Cúcuta tras ataque terrorista en el Catatumbo",
     "univ": "Birmex opera con red obsoleta y desmantelada",
-    "lemon": "Présidentielle 2027 : les risques d’une campagne à l’ombre de « l’esprit de défaite »",
+    "lemon": "EN DIRECT, guerre en Ukraine : « Les négociations ont commencé » avec les émissaires américains Jared Kushner et Steve Witkoff, déclare Volodymyr Zelensky",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Egyptian TV presenter among 12 sentenced to death for drug crime",
     "elpais": "Marruecos, envalentonado: Mohamed VI se crece gracias al apoyo de Trump (y de Israel)",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "関東や東北、東海で線状降水帯発生の恐れ　7日は運休や臨時休校も",
+    "asahi": "3人死亡のケーキ店火災　男性の遺体に刺し傷、死因は失血死　岐阜",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "London-bound plane makes ‘emergency landing’ at Bengaluru airport after technical snag",
-    "str": "Moscow has not ruled out trilateral meeting between presidents of Russia, US, China, TASS reports",
-    "nat": "Singer Zaituni: My mother didn&apos;t want to be involved in my music",
+    "hindu": "IIT Mandi probes ‘Shudras serve higher classes’ poster; director blames some students’ interpretation",
+    "str": "Iran's Hormuz leverage wanes as US economic squeeze bites",
+    "nat": "Here’s what growing older has taught me…",
     "lmaf": "Au Kenya, l’alcool contrefait envahit le marché et devient une menace sanitaire",
-    "smh": "The Swans’ famous finals win that reclaimed their club",
+    "smh": "Who knew there was an AFLW double-header on?; Pearce’s Eagles slump to 0-4 after loss to Dees",
     "nzh": "Questions about safety of disabled school transportation after review",
-    "alj": "Israel bombards several towns in southern Lebanon"
+    "alj": "Bangladesh protesters demand action over rising costs",
+    "arab": "Mergers and acquisitions drive Saudi growth, competitiveness"
   }
 }
