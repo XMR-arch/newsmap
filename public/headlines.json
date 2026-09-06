@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-06T20:30:16.659Z",
+  "timestamp": "2026-09-06T22:15:29.101Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,13 +13,13 @@
   ],
   "headlines": {
     "nyt": "The Battle to Save General Donahue From Hegseth’s Army Purge",
-    "lat": "L.A. hit by rare September rain and coastal flooding from Hurricane Marie",
-    "glob": "Town of Gander urges calm as Hoekstra’s planned visit for 9/11 anniversary angers locals",
-    "clar": "Un avión de carga de Amazon se estrella en el aeropuerto de Miami",
-    "lnac": "Un avión de carga de Amazon se despistó en el aeropuerto de Miami: demoras y vuelos suspendidos",
-    "folh": "Avi�o de carga da Amazon sai da pista em aeroporto de Miami e atinge ve�culos",
-    "tiemp": "Dos corredores sufrieron complicaciones de salud durante la Maratón Medellín: reporte del alcalde Federico Gutiérrez",
-    "univ": "Secretaría del Trabajo destaca aumento al salario mínimo; ha recuperado 154% de poder adquisitivo, asegura",
+    "lat": "Magnitude 3.2 earthquake strikes along prominent SoCal urban fault line",
+    "glob": "Quebec Premier Fréchette calls cabinet meeting ahead of tariffs",
+    "clar": "“Brillante”: el tremendo elogio de Flavio Briatore a Colapinto tras su remontada en Monza",
+    "lnac": "Newell’s le empató el clásico a Rosario Central en la última pelota: el aplauso de Di María a Messi y... ¿un sueño todavía posible?",
+    "folh": "Na TV alem�, l�der de extrema direita vencedor da elei��o � interrompido em quase todas as respostas",
+    "tiemp": "Barranquilla tendrá nuevas fuentes y refugios climáticos para enfrentar el calor: estos son los sectores donde podrían ubicarse",
+    "univ": "Jorge Romero asegura que Morena se llevará \"la sorpresa de su vida\" en las elecciones 2027; aseguran gane en 7 estados",
     "lemon": "EN DIRECT, élections régionales en Allemagne : Ulrich Siegmund appelle les partis à s’allier avec l’AfD en Saxe-Anhalt ; le parti d’extrême droite n’atteint pas la majorité absolue, selon les dernières estimations",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Egyptian TV presenter among 12 sentenced to death for drug crime",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "東京・新島村にレベル5土砂災害特別警報　山手線や中央線で減便予定",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Satya Niketan: building collapse exposes a student hub grappling with housing crisis",
-    "str": "Fireworks blast in Mexico kills at least 10",
+    "hindu": "At least five dead after Amazon cargo plane barreled off runway at Miami airport",
+    "str": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami",
     "nat": "Gor Mahia down, but not out after home loss to Pyramids",
     "lmaf": "Guerre au Soudan : des preuves supplémentaires de l’existence d’un programme d’armes chimiques en 2024",
-    "smh": "Volcano eruption causes flight delays",
-    "nzh": "Meth-using, speeding driver with baby in car killed two in head-on crash",
-    "alj": "At least five killed in New Delhi building collapse",
+    "smh": "How finals draw now opens up for Swans miracle run",
+    "nzh": "Diesel spill north of Dunedin causes SH1 delays",
+    "alj": "Alcaraz breezes into last eight at US Open",
     "arab": "Mergers and acquisitions drive Saudi growth, competitiveness"
   }
 }
