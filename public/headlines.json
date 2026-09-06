@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-05T23:13:20.067Z",
-  "fetched": 23,
+  "timestamp": "2026-09-06T00:59:31.722Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
@@ -9,31 +9,31 @@
     "chos",
     "mav",
     "taus",
-    "haar"
+    "haar",
+    "arab"
   ],
   "headlines": {
     "nyt": "Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones",
     "lat": "Rare sighting of endangered gray wolf in Lake County brings hope of California comeback",
     "glob": "Quebec parties target health care, affordability and debate referendum as election looms",
-    "clar": "Katie Taylor tuvo una despedida perfecta: ganó ante ¡80 mil personas!, hizo historia y se retiró como campeona indiscutida",
-    "lnac": "Martín Boan, sommelier de cerveza: “Siempre hay que servirla en un vaso porque permite liberar parte de la carbonatación y eso ayuda a reducir la sensación de pesadez”",
-    "folh": "Rock in Rio: &apos;Dane-se o Trump&apos;, diz influenciadora ap�s visto americano sair com g�nero masculino",
-    "tiemp": "La historia no contada detrás del fatal viaje de Pablo Carrizo a Colombia y las horas críticas en carretera que terminaron con su vida",
-    "univ": "Rector informa que Universidad de Zacatecas atraviesa crisis financiera; \"UAZ no tiene la capacidad de resolver deuda de esta magnitud\"",
+    "clar": "Tragedia del helicóptero en San Juan: hubo dos choques contra las rocas antes de la caída final",
+    "lnac": "La Joaqui aseguró que Luck Ra le fue infiel y el artista contraatacó: “Está saliendo con un ex gran amigo mío”",
+    "folh": "Justi�a suspende licen�as da Sigma e paralisa projeto no Vale do L�tio",
+    "tiemp": "Organizaciones denuncian un incremento de feminicidios en la región: &#039;A las mujeres nariñenses nos están matando&#039;",
+    "univ": "¿Tu CURP dice \"Persona con reporte de desaparición\"?; este es el procedimiento que debes seguir para eliminarla",
     "lemon": "Guerre en Ukraine : le RN est un « cheval de Troie des impérialistes » pour Marine Tondelier, le « parti de l’étranger » pour Raphaël Glucksmann",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Egyptian TV presenter among 12 sentenced to death for drug crime",
     "elpais": "El Gobierno toma el control del puerto de Ceuta para ubicar a más de 1.000 inmigrantes ante una nueva resistencia de Vivas",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "ケーキ店で火災、2遺体発見　「人が刺された」と通報　岐阜・本巣",
+    "asahi": "太平洋側を中心に広く大雨の恐れ　首都圏の在来線に影響する可能性も",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "U.S. envoys outlined ‘number of ideas’ on ending Ukraine war to Putin: Kremlin",
-    "str": "While You Were Sleeping: 5 stories you might have missed, Sept 6, 2026",
+    "hindu": "Congress will launch 100-day OBC rights campaign: Koppula Raju",
+    "str": "German rocket reaches space as Europe enters satellite launch race",
     "nat": "How well-oiled Egypt locked Kenya out of 2028 Olympics",
     "lmaf": "VIDEO | voici « l’Octogone », le plus grand centre de commandement militaire au monde construit en Egypte",
-    "smh": "Australian wildcard’s unlikely US Open run comes to end on day of upsets",
-    "nzh": "National promises wider access to low-deposit home loans if re-elected",
-    "alj": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
-    "arab": "stc group concludes LEAP 2026 participation with strategic moves to accelerate Saudi Arabia’s digital future"
+    "smh": "Haaland sends City top of table",
+    "nzh": "Greens vow to break up supermarket duopoly, set up publicly owned 'KiwiMart'",
+    "alj": "German company launches rocket as Europe enters satellite race"
   }
 }
