@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-09-11T13:45:46.422Z",
-  "fetched": 23,
+  "timestamp": "2026-09-11T17:18:33.968Z",
+  "fetched": 22,
   "failed": [
     "wapo",
     "terc",
@@ -9,31 +9,31 @@
     "chos",
     "mav",
     "taus",
-    "haar"
+    "haar",
+    "arab"
   ],
   "headlines": {
-    "nyt": "25 Years After 9/11, Trump Personifies a Nation Moving On",
-    "lat": "VA homeless housing in West L.A. estimated to cost a record $1.25 million per unit",
-    "glob": "Households’ debt-to-income ratio dips as income growth outpaces debt",
-    "clar": "Freno a Trump: Nuevo México le exige a Apple y Google mantener el nombre del estado ante las aspiraciones del presidente de llamarlo \"Nueva América\"",
-    "lnac": "Atentado a las Torres Gemelas, en vivo: los actos y homenajes por el 11 de Septiembre en Estados Unidos",
-    "folh": "PF suspeita que Toffoli tinha dinheiro de Vorcaro em para�so fiscal, diz revista",
-    "tiemp": "Atlántico despliega 1.200 policías para reforzar la seguridad hasta fin de año en municipios: Verano pide fortalecer Fiscalía y justicia",
-    "univ": "La mañanera de Sheinbaum, 11 de septiembre, minuto a minuto",
-    "lemon": "EN DIRECT, 25 ans du 11-Septembre : les cérémonies de commémoration des attentats de 2001 sont en cours à Ground Zero et au Pentagone",
+    "nyt": "C.I.A. Releases Intelligence Sent to Clinton and Bush on Al Qaeda Before 9/11 Attacks",
+    "lat": "&#x27;Relief is coming&#x27;: Hot, humid weather will finally break in Southern California",
+    "glob": "Supreme Court rules no need to set time limit for sentencing proceedings",
+    "clar": "Carlos Alfonsín, el DJ que lo vio todo: auge, caída y resurrección del vinilo",
+    "lnac": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 11 de septiembre, minuto a minuto",
+    "folh": "A��es do ICE nos EUA t�m rela��o direta com ataques terroristas de 11/9",
+    "tiemp": "Niños arriesgan su vida entre hipopótamos para ir al colegio en Antioquia: contundente fallo judicial exige soluciones para evitar una tragedia",
+    "univ": "Sheinbaum, en contra de abucheos a gobernadores opositores en giras de rendición de cuentas; \"no es un acto electoral\", dice",
+    "lemon": "EN DIRECT, 25 ans du 11-Septembre : « Nous n’oublierons jamais, c’est pour ça que nous nous battons aujourd’hui », dit Donald Trump lors des commémorations au Pentagone",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",
     "elpais": "Dimite el jefe de gabinete del delegado de Ceuta tras asegurar que sí informó del aviso del CNI",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "コピーした事件記録の盗撮画像を自宅で所持、検察事務官を略式起訴",
+    "asahi": "岐阜のケーキ店火災、治療中だった店経営の女性死亡　死者4人に",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Immersing PoP, chemically painted Ganesha idols can invite jail term of up to six years, says KSPCB",
-    "str": "ChatGPT invented fake police testimony in murder appeal, New Mexico high court says",
-    "nat": "Doping cases fall, but Adak not rejoicing yet",
+    "hindu": "Farmers protest demanding uninterrupted power supply in Karimnagar district",
+    "str": "British man encouraged group chat members to abuse partners, exchange images",
+    "nat": "Ole Ntimama: The unlikely king who united the Maasai nation",
     "lmaf": "Ebola en RDC : l’épidémie a causé plus de 3 300 morts sur plus de 6 800 cas confirmés et s’étend à une septième province du pays",
-    "smh": "AFL LIVE: Dockers avoid a violet crumble, advance to a prelim final after Chris Scott left fuming from no-goal call",
+    "smh": "‘These were people like you and me going to work’: America remembers 9/11 victims 25 years on",
     "nzh": "Close libraries for a day or kill animals - Christchurch councillor says over Orana Park financial woes",
-    "alj": "The vanishing pharmacy of the Sundarbans",
-    "arab": "Israel kills Hamas commander in Gaza strike, military and militants say"
+    "alj": "Houthis declare Red Sea shipping safe except for Saudi vessels"
   }
 }
