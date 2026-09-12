@@ -1,8 +1,9 @@
 {
-  "timestamp": "2026-09-12T15:39:58.499Z",
-  "fetched": 22,
+  "timestamp": "2026-09-12T17:50:03.015Z",
+  "fetched": 21,
   "failed": [
     "wapo",
+    "univ",
     "terc",
     "com",
     "volk",
@@ -14,26 +15,25 @@
   ],
   "headlines": {
     "nyt": "How Trump Is Wielding Power to Stifle Speech",
-    "lat": "UCLA chancellor rebukes law school event featuring 9/11 &#x27;mastermind&#x27; attorney",
+    "lat": "Boxer Fernando Vargas Jr. arrested on suspicion of DUI at Universal Studios",
     "glob": "AI has changed the calculus for computer-science students, and schools that hope to teach them",
-    "clar": "La Argentina verde: fabrican durmientes para el ferrocarril de plástico reciclado",
-    "lnac": "Confirmado por el ICE: la cifra récord de mexicanos detenidos en redadas migratorias durante la era Trump",
-    "folh": "Cunhado de Vorcaro vendeu im�vel a advogado envolvido em fraude no INSS com des�gio de R$ 2 milh�es",
-    "tiemp": "Flypass rompe el silencio sobre demanda por cobros en peajes: admite falla tecnológica, anuncia devoluciones y defiende su modelo de operación",
-    "univ": "VIDEO: Liberan a oso negro \"Ba'wi\" en Chihuahua; en 2025 fue rescatado con lesiones tras los incendios forestales",
-    "lemon": "EN DIRECT, présidentielle 2027 : Bruno Retailleau défend un « combat de civilisation » devant Les Jeunes Républicains ; Jean-Luc Mélenchon veut « une révolution citoyenne » à la Fête de « L’Huma »",
+    "clar": "La psicología dice que revisar la puerta principal dos veces sabiendo que la cerraste con llave no es ansiedad; una acción realizada de forma automática nunca se archiva como recuerdo, por lo que realmente no hay nada que recuperar",
+    "lnac": "La exitosa miniserie neerlandesa de Netflix que atrapa con su drama y suspenso psicológico",
+    "folh": "Pesquisadores revelam novo fator decisivo para a felicidade",
+    "tiemp": "Así operaba la peligrosa estructura criminal de alcance transnacional dedicada al tráfico de migrantes entre Colombia y Ecuador",
+    "lemon": "Budget 2027 : le gouvernement propose des mesures pour faciliter les transmissions familiales",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
     "elpais": "El analista jefe del Informe PISA: “La IA está dando a los alumnos la experiencia opuesta al aprendizaje”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "鍼灸・指圧治療院兼住宅が火災、男女2人死亡　埼玉・寄居町",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Arrest of Deiva Tamil Peravai members in Madurai condemned",
-    "str": "Iran got Chinese satellite images before deadly strike on US troops: Report",
+    "hindu": "We will achieve a huge victory in byelections, says Minister Sengottaiyan",
+    "str": "Ukraine braces for harsh winter as Russian attacks hit economy",
     "lmaf": "La raffinerie nigériane d’Aliko Dangote au seuil de la plus grande entrée en Bourse d’Afrique",
     "smh": "Fagan got ‘nasty’ at four players for the first time this year. It sparked carnage for the Crows",
     "nzh": "Section of Auckland's Northwestern motorway closes after crash",
-    "alj": "US court rejects Trump’s emergency order keeping Michigan coal plant open",
-    "arab": "Iran got Chinese satellite images before deadly strike on US troops: report"
+    "alj": "India vs Sri Lanka: Women’s T20 Asia Cup 2026 final – schedule, teams, form",
+    "arab": "Gulf of Oman oil spill doubles in size"
   }
 }
