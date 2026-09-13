@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-12T23:21:57.934Z",
+  "timestamp": "2026-09-13T01:10:44.619Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -13,13 +13,13 @@
   ],
   "headlines": {
     "nyt": "Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown",
-    "lat": "Encino collision leaves 1 dead, 5 wounded",
-    "glob": "Quebec party leaders talk transport, health care on campaign trail as first debate looms",
-    "clar": "Es oficial | Dallas es la meca de los centros de datos, según un informe",
-    "lnac": "Elena Rybakina venció a Aryna Sabalenka y es la nueva campeona del US Open",
-    "folh": "Leitores falam de gangues quebra-vidros e roubos de celulares",
+    "lat": "Three Montecito County fires near Big Sur have burned nearly 60,000 acres",
+    "glob": "A Quebec golf course, once a hangout for the Anglo-American elite, now reflects 150 years of change",
+    "clar": "Es oficial y está confirmado | Newsom firma una orden ejecutiva para hacerle frente a la Inteligencia Artificial",
+    "lnac": "Últimas encuestas en Florida: Jolly mantiene la ventaja frente a Donalds y se acerca la elección del 3 de noviembre",
+    "folh": "A nuvem da IA tem chamin�",
     "tiemp": "Video | Turista extranjera es víctima de raponazo en el Centro Histórico de Cartagena: el ladrón le arrancó la cadena del cuello y huyó a pie",
-    "univ": "Diputado del Verde busca destitución del cónsul Rutilio Escandón; acusa que está bajo investigación por nexos con el narco",
+    "univ": "\"Ninguna potencia extranjera ni élite define el destino de México\"; Sheinbaum defiende el legado de AMLO y llama a la unidad",
     "lemon": "IA : le patron d’Anthropic, Dario Amodei, appelle à ralentir la vitesse de développement de l’intelligence artificielle avant que des agents soient « capables de prendre le contrôle d’internet »",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
@@ -27,13 +27,13 @@
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "「安全な日本でなぜ…」人助けで事故死の留学生　その日も母に電話",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Ruthless Rybakina dethrones Sabalenka to claim first U.S. Open crown",
-    "str": "While You Were Sleeping: 5 stories you might have missed, Sept 13, 2026",
-    "nat": "Ruto concludes four-day South Rift tour, launches multi-billion projects",
+    "hindu": "One dead, 30 missing after ferry sinks off Vanuatu",
+    "str": "Revolut says some customer data were exposed in email-based scam",
+    "nat": "Tackle shortcomings to enhance learning",
     "lmaf": "La raffinerie nigériane d’Aliko Dangote au seuil de la plus grande entrée en Bourse d’Afrique",
-    "smh": "Sabalenka holds back tears after defeat",
-    "nzh": "Nelson City Council set to scuttle speed bumps on Tāhunanui Hills",
-    "alj": "Arteta seethes at Sunderland penalty decision despite Arsenal win",
-    "arab": "Three Iranian security force members killed in clashes with gunmen"
+    "smh": "‘Feather in everybody’s cap’: Trump says he’d love to see a ‘unified’ Ireland",
+    "nzh": "The whānau legacy behind the NZ White Sox",
+    "alj": "Trump says he would ‘love to see’ a united Ireland during Irish visit",
+    "arab": "‘Unknown’ wins Golden Lion, Malkovich ‘humbled’ by best actor award at Venice Film Festival"
   }
 }
