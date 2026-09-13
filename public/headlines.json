@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-13T20:44:05.196Z",
+  "timestamp": "2026-09-13T22:38:39.331Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers",
-    "lat": "One L.A. school trades asphalt for trees and grass",
-    "glob": "Despite the trade war, some consumer prices are better in Canada than in the U.S.",
-    "clar": "A medida que aumentan los temores a una catástrofe de IA, Washington se agita, pero en su mayoría duerme",
-    "lnac": "Al Di Meola brilló en La Trastienda: de Piazzolla a The Beatles, todo el universo sonoro de un guitarrista notable",
-    "folh": "Ataques em Ormuz e na Ar�bia Saudita soam alerta; expans�o da guerra afeta abastecimento de petr�leo",
-    "tiemp": "Tres integrantes del frente &#039;Yair Bermúdez&#039; de las disidencias en el Valle del Cauca fueron capturados en Sevilla con armas y una granada",
-    "univ": "Grupo de jóvenes da portazo en evento de rendición de cuentas de Sheinbaum en Hidalgo; exigen comedores y aulas dignas",
+    "nyt": "Top Lawmakers Agree A.I.’s Risks Are Rising but Say They Have No Quick Fix",
+    "lat": "Newsom brushes aside escalating federal probe into travel expenses as Trump retribution",
+    "glob": "Crowds from multiple events create security challenges for investment summit, experts say",
+    "clar": "Cómo será el final de Gran hermano: cuándo termina y a qué juegan las tres finalistas",
+    "lnac": "Independiente vs. San Lorenzo, en vivo por el torneo Clausura: minuto a minuto del partido",
+    "folh": "Flamengo vence o Corinthians no fim e retoma a lideran�a do Brasileiro",
+    "tiemp": "Se conocen los nombres del tripulante y las pasajeras que iban en la aeronave que se estrelló, mientras continúa la búsqueda de su ubicación en Chocó",
+    "univ": "Octavio Romero Oropeza justifica patrimonio de 44 años de trabajo; explica por qué su declaración no aparece en Declaranet",
     "lemon": "Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d’un électorat inquiet et en colère",
     "spieg": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
     "guar": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",
     "elpais": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "悠仁さま、初めて東北の震災遺構に　質問通して津波の威力確かめる",
+    "asahi": "部活外の練習会、週に200円が払えない　DVから逃げた母親の思い",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Talks between Iran and Gulf countries in Oman postponed ‘in the interests of consensus’",
-    "str": "Trump says he will consider request to release more 9/11 records",
-    "nat": "Two dead after leisure boat capsizes in Mombasa",
+    "hindu": "Crash and burn: Pakistan cricket at a new low after England humiliation",
+    "str": "Dozens arrested in major anti-LGBTQ raids in Turkey",
+    "nat": "Russian athletes appeal for end to World Athletics ban",
     "lmaf": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »",
-    "smh": "Bodies recovered as rescuers search for more than 100 missing from capsized Indonesian ferry",
-    "nzh": "Live: Auckland's City Rail Link opens for first rush hour",
-    "alj": "Swedes vote in election that could see far-right in government",
-    "arab": "What We Are Reading Today: ‘Into the Great Wide Ocean’ by Sonke Johnsen"
+    "smh": "Australia exposed to growing risk from deepening China-Russia-North Korea alliance",
+    "nzh": "New apple variety grown in New Zealand makes world debut in Vietnam",
+    "alj": "Could AI really kill us within a decade?",
+    "arab": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men"
   }
 }
