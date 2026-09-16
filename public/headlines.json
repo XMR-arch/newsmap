@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-16T21:36:44.391Z",
+  "timestamp": "2026-09-16T23:48:43.529Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Fed Signals Another Rate Increase Could Be Coming",
-    "lat": "Commentary: News helicopters are very L.A. It&#x27;s a dangerous job",
-    "glob": "Confederation’s PEI birthplace gets a new face in a fraught time",
-    "clar": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, miércoles 16 de septiembre",
-    "lnac": "Secuestraron 52 kilos de MDMA, droga para fabricar un millón de dosis de éxtasis valuadas en US$16,2 millones",
-    "folh": "Brasil lidera ranking de juros reais mesmo ap�s corte da Selic",
-    "tiemp": "Estudiantes de un colegio de Barrancabermeja se salvaron de milagro luego de que se les cayera un ventilador encima en un salón de clase",
-    "univ": "\"Mi sueño es ser soldado\"; niños asisten a desfile con uniformes de las Fuerzas Armadas",
+    "nyt": "Fed Raises Rates in First Major Step by Warsh to Contain Inflation",
+    "lat": "LAUSD faces tough choices: Which schools to close, update or rebuild as enrollment dives",
+    "glob": "Ford government says cities must not deviate from Buy Ontario rules",
+    "clar": "Grupos alineados con Trump canalizan dinero a las elecciones de mitad de mandato",
+    "lnac": "Lionel Messi con Inter Miami vs. Cruz Azul, en vivo",
+    "folh": "At� onde a Selic pode cair?",
+    "tiemp": "En su día de descanso, una patrullera de la Policía fue asesinada en la zona urbana del municipio de El Charco, Nariño",
+    "univ": "Iglesia condena asesinato de sacerdote Román de la Cruz en Huejutla, Hidalgo; exigen investigación exhaustiva",
     "lemon": "Qui sont les morts de la canicule ?  « Le Monde » raconte des vies derrière les chiffres",
     "spieg": "The Future of Europe: Canada in the EU Sounds Crazy. Is It?",
     "guar": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
-    "elpais": "La Comunidad de Madrid redobla sus ataques al cirujano que denunció las listas de espera: “Él mismo las manipuló para trabajar menos”",
+    "elpais": "Los documentos que prueban que Madrid manipuló la lista de espera del Ramón y Cajal: “Evitad anotarlos como preferentes”",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "市立小の特別支援学級教員、児童から蹴られ数回蹴り返す　鎌倉",
+    "asahi": "早明浦ダム迫る貯水率0%　過酷な「平六渇水」経て造られた水源の力",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Govt. cuts windfall tax on export of petrol, diesel and ATF",
-    "str": "Israel, Morocco agree to upgrade diplomatic ties, Israeli government says",
-    "nat": "Aviation workers strike threat: Union split over fresh ultimatum",
-    "lmaf": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, annonce la diplomatie israélienne",
-    "smh": "World in pictures, September 17, 2026",
-    "nzh": "'No one builds libraries anymore': Tokoroa opens hub instead",
-    "alj": "Rescue workers search for survivors after Gaza building collapse",
-    "arab": "20 years in prison for Afghan member of group behind Kabul airport bombing"
+    "hindu": "Himachal’s policy uncompromising toward those involved in illegal drug trade: CM Sukhu",
+    "str": "Fed’s Warsh heeds own advice with record short press conference",
+    "nat": "Kalonzo: Restore Sh204bn Safaricom stake",
+    "lmaf": "Israël et le Maroc vont ouvrir des ambassades dans leurs pays respectifs, annonce la diplomatie de l’Etat hébreu",
+    "smh": "Queensland parliament updates: Youth ‘circuit breaker’ bill to pass",
+    "nzh": "Labour promises visa-free travel for Pacific as overstayer rates rise",
+    "alj": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+    "arab": "Netanyahu steps up threats against directors of Gaza documentary ‘NAZA’"
   }
 }
