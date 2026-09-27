@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-27T00:53:39.795Z",
+  "timestamp": "2026-09-27T05:59:40.723Z",
   "fetched": 23,
   "failed": [
     "wapo",
@@ -12,28 +12,28 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Nor’easter Live Updates: Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
-    "lat": "Newsom signs bill that seeks to help abused dogs and cats avoid long shelter stays",
+    "nyt": "Heavy Rain and Wind Batter Northeast, Bringing Coastal Flooding",
+    "lat": "Hurricanes bring heavy surf to Southern California, rain to parts of the Southwest",
     "glob": "Four dead in helicopter crash near Montreal",
-    "clar": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, sábado 26 de septiembre",
-    "lnac": "Santiago del Moro sorprendió a todos con un radical cambio de look tras terminar Gran Hermano: “Se vienen vacaciones”",
-    "folh": "Antonio Fagundes lembra cr�tica por Rei do Gado: &apos;Diziam que eu tinha um ovo na boca&apos;",
-    "tiemp": "EL TIEMPO Casa Editorial se traslada a su sede del futuro",
-    "univ": "Marchan en CDMX por 12 aniversario de Ayotzinapa; sigue aquí el minuto a minuto",
+    "clar": "Acusan a un influencer de matar a cientos de aves protegidas y subirlo a sus redes",
+    "lnac": "Arnold Schwarzenegger, sobre su rutina a los 79 años: “No necesitas 15 ejercicios y 90 minutos”",
+    "folh": "Mister Olympia 2026: Nick Walker vence a categoria Men&apos;s Bodybuilding (Open)",
+    "tiemp": "Explosión de artefacto en vía férrea del Magdalena causó daños materiales en Aracataca; autoridades convocaron PMU permanente y no reportaron heridos",
+    "univ": "Embajador Johnson reconoce a Maru Campos por su \"compromiso con la seguridad\"; comunidades están más seguras, dice",
     "lemon": "Léon XIV, en pape tranquille et rassembleur, fait le plein à Paris pour la messe de la Concorde",
     "spieg": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
     "guar": "Rebel offensive against Ethiopian army stokes fears of return to civil war",
-    "elpais": "La indignación por la vivienda toma la calle y se planta en Sol",
+    "elpais": "Maricarmen fuerza un giro del Gobierno y sus socios sobre vivienda",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "佳子さま、鳥取のローカル線でSL体験　福祉施設で105歳と交流も",
+    "asahi": "台風被害のJR内房線、代行バス足りず取りやめ　他路線は28日開始",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Asian Games 2026 LIVE: Sindhu, Manu Bhaker, Shaili Singh in medal hunt",
-    "str": "Iran insists on diplomatic solution after Trump rejects peace plan",
-    "nat": "Africa’s health future must move from dialogue to delivery",
+    "hindu": "Jharkhand CID arrests three candidates in recruitment exam irregularities case",
+    "str": "Thousands protest ahead of Mexican president’s report on missing students",
+    "nat": "El Nino: Nairobi residents relive tragic losses from past floods",
     "lmaf": "Afrique, Palestine, Ukraine… L’UE annonce 710 millions d’euros d’aide dans plusieurs régions du monde en crise",
-    "smh": "Brisbane star who won them the grand final",
-    "nzh": "More rain, snow forecast as severe weather system moves north",
-    "alj": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-    "arab": "US Treasury chief claims successes in isolating Iran"
+    "smh": "&#39;Missing it&#39;: Brown opens up ahead of Knights clash",
+    "nzh": "One dead after two-car crash on Massey road",
+    "alj": "Several killed in South Africa shooting",
+    "arab": "Thousands protest ahead of Mexican president’s report on missing students"
   }
 }
