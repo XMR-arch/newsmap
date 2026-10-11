@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-11T13:26:15.980Z",
-  "fetched": 23,
+  "timestamp": "2026-10-11T18:17:05.135Z",
+  "fetched": 19,
   "failed": [
     "wapo",
     "terc",
@@ -8,32 +8,32 @@
     "volk",
     "chos",
     "mav",
+    "smh",
     "taus",
-    "haar"
+    "nzh",
+    "alj",
+    "haar",
+    "arab"
   ],
   "headlines": {
     "nyt": "Threats of Political Violence Have America’s Elected Officials Living in Fear",
-    "lat": "How the GOP weaponized trans issues and left Democrats searching for a strategy",
+    "lat": "As thousands sit in ICE detention, one woman is fighting to bring her husband home",
     "glob": "Ontario township of Centre Wellington grapples with controversial AI data centre proposal",
-    "clar": "Súper Niño 2026 en Argentina, EN VIVO: cuándo será el pico de las fuertes lluvias y cómo cambiará el clima",
-    "lnac": "Cómo le fue a Franco Colapinto en el GP de Singapur de Fórmula 1 2026",
-    "folh": "&apos;Quem Ama Cuida&apos;: Heitor revela que est� vivo e atormenta fam�lia Brand�o em reuni�o",
-    "tiemp": "Atentado contra dos guardianes del Inpec en Barranquilla desata alerta del Gobierno: amenazas alcanzarían al presidente y al ministro de Justicia",
-    "univ": "Partidos desaparecidos chupan miles de millones en los estados",
-    "lemon": "Défense : les Etats-Unis entravent les efforts de leurs alliés européens tout en attendant qu’ils augmentent leurs capacités",
+    "clar": "El 64 por ciento de los chilenos desaprueba la gestión del gobierno de José Antonio Kast",
+    "lnac": "Aterosclerosis y trombosis: alimentaron animales con remolacha forrajera y el resultado fue sorprendente",
+    "folh": "Globo fecha neg�cio in�dito com a BBC e vende s�rie &apos;Vermelho Sangue&apos; para Reino Unido",
+    "tiemp": "Atlántico: plastiqueras en Galapa tenían 14 transformadores ilegales y deudas por $2.700 millones: conexiones afectan servicio de familias vulnerables",
+    "univ": "Sheinbaum llama a la población a resguardarse por huracán Simón categoría 4; pide esperar a que el peligro termine",
+    "lemon": "EN DIRECT, primaire à gauche : après la large victoire de Raphaël Glucksmann, Olivier Faure déclare : « A nous tous de forger ensemble cet esprit de victoire »",
     "spieg": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
     "guar": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau",
-    "elpais": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
+    "elpais": "Gabriel Rufián será candidato por Esquerra Republicana el 29-N",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
     "asahi": "駅エレベーターで幼児の腕挟まりけが　扉開いた直後、すき間に　西鉄",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Security guard dies after allegedly falling from moving train near Srikakulam",
-    "str": "Deutsche Bank chief warns German election results worrying foreign investors",
-    "nat": "The church we want: Why young people are walking away",
-    "lmaf": "Derrière le site complotiste Géopolitique profonde, plagiat, IA et sous-traitance à Madagascar",
-    "smh": "Superquiz, Monday, October 12",
-    "nzh": "Marine biologist fears effects of increasing carbon dioxide levels on sealife",
-    "alj": "India’s crackdown on youth protesters: What next?",
-    "arab": "The new measure of competitiveness"
+    "hindu": "IND vs WI 3rd T20: Abhishek, Arshdeep to the fore as India wins a batathon to go 2-1 up",
+    "str": "US threatens to block arms for Ukraine over refinery attacks, FT reports",
+    "nat": "Why court sank Mombasa county’s Sh190,000 ship waste levy",
+    "lmaf": "ICE, de la chasse à l’homme au trafic vers l’Afrique : deux documentaires implacables diffusés sur France 5 et France 24"
   }
 }
