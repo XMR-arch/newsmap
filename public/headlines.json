@@ -1,6 +1,6 @@
 {
-  "timestamp": "2026-10-18T23:23:56.745Z",
-  "fetched": 23,
+  "timestamp": "2026-10-19T01:27:04.873Z",
+  "fetched": 19,
   "failed": [
     "wapo",
     "terc",
@@ -8,32 +8,32 @@
     "volk",
     "chos",
     "mav",
+    "smh",
     "taus",
-    "haar"
+    "nzh",
+    "alj",
+    "haar",
+    "arab"
   ],
   "headlines": {
     "nyt": "Trump Hits Campaign Trail as White House Turmoil Weighs on GOP Midterm Prospects",
-    "lat": "LAPD responds to two stabbings, unruly crowd near Crenshaw street festival",
+    "lat": "Airplane crushed after nosediving onto California street. Somehow, 2 adults and a child survive",
     "glob": "In town linked closely to base, shocked residents of Wainwright react to grim news",
-    "clar": "Malvinas: una mediación de los Estados Unidos orientada a la triple bandera",
-    "lnac": "Belgrano vs. River, en vivo, por el torneo Clausura: el minuto a minuto del partido",
-    "folh": "Petr�leo abre em queda ap�s Ir� dizer que oferta para reabrir Hormuz continua de p�",
+    "clar": "Horóscopo Piscis de hoy, 19 de octubre de 2026: las predicciones para la salud, el amor y el dinero",
+    "lnac": "Lula y Bolsonaro se enfrentaron en su primer debate a una semana del balotaje en Brasil",
+    "folh": "Bate-boca entre Fl�vio Bolsonaro e Lula gera calor, n�o luz",
     "tiemp": "A un adulto mayor le negaron subirse a un bus con su perro en El Santuario, Antioquia; empresa se pronunció y ofreció disculpas",
-    "univ": "Ramírez Cuéllar propone coordinación entre gobiernos para mejorar ciudades; combatirán extorsión y corrupción",
-    "lemon": "EN DIRECT, mobilisation du 17 octobre : l’allocution d’Emmanuel Macron critiquée ; situation toujours tendue à Paris ; Sébastien Lecornu chargé de réunir partis politiques et syndicats",
+    "univ": "Caen “El Talibán” y cuatro miembros del Cártel del Pacífico en Sinaloa; los relacionan con secuestros de mineros y turistas",
+    "lemon": "EN DIRECT, mobilisation du 17 octobre : l’allocution d’Emmanuel Macron critiquée ; Sébastien Lecornu chargé de réunir partis politiques et syndicats",
     "spieg": "Leaving the US: The Erosion of My American Dream",
     "guar": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
     "elpais": "Macron acusa a la “extrema izquierda” de inflamar la calle",
     "corr": "Codice della strada, ecco cosa cambia e perché non ridurrà il numero delle vittime",
-    "asahi": "なぜ、赤字の姫路独協大を引き継ぐのか　徳洲会理事長が描く将来像は",
+    "asahi": "「誰かが窓を」目が合ったニット帽の男　標的になった住人が語る恐怖",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Centre committed to meeting demands of the region,  says Ladakh Chief Secretary",
-    "str": "Obama defends Ilhan Omar amid Trump administration inquiry",
+    "hindu": "HMWSSB imposes a fine of ₹20,000 on pub in Jubilee Hills for wasting water",
+    "str": "Russian strike kills woman, hits Kyiv subway station, mayor says",
     "nat": "Battling Tusker suffer home defeat to Singida Black Stars",
-    "lmaf": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international",
-    "smh": "Ben Simmons was on the verge of an NBA comeback after 538 days. A serious injury has derailed it",
-    "nzh": "Samoan PM accused of being 'a leader who believes he is above the law'",
-    "alj": "Venezuela opposition renews support for Maria Corina Machado as leader",
-    "arab": "Fight for US Congress stirs global stakes over Trump’s stance on Russia and Ukraine"
+    "lmaf": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international"
   }
 }
