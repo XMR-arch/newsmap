@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-25T22:02:37.264Z",
+  "timestamp": "2026-10-26T00:08:25.153Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -12,14 +12,14 @@
   ],
   "headlines": {
     "nyt": "María Corina Machado Returns to Venezuela",
-    "lat": "Two bicyclists killed by alleged drunk driver during pre-Halloween ride",
-    "glob": "Soldier killed in CFB Wainwright fire remembered for his commitment and humour",
-    "clar": "La agenda de Milei esta semana: recibe a un príncipe, viaja a Catamarca e inaugurará el auditorio de una iglesia evangélica en Neuquén",
-    "lnac": "Resultados en vivo de las elecciones en Brasil: cómo va el balotaje presidencial 2026",
-    "folh": "� uma elei��o do Vasco no auge do Eurico Miranda, diz professor",
-    "tiemp": "Lo que se sabe del fatal accidente de tránsito entre un carro particular y una moto en Cali: ¿quiénes eran las víctimas de una empresa de transporte?",
-    "univ": "Taddei, víctima de campaña neofascista: Noroña; \"Que dé un paso al costado\", dice senador Manuel Huerta",
-    "lemon": "Après l’attentat raciste de Trappes, le maire, Ali Rabeh déclare : « Le président de la République n’a pas été le protecteur qu’il aurait dû être »",
+    "lat": "9th Circuit panel questions basis for feds&#x27; request to block 20,000 California ballots",
+    "glob": "Shuffling of U.S. tariffs will offer little relief to Canada, experts say",
+    "clar": "El Gobierno avanza con la revisión de pensiones por invalidez y evalúa dar de baja 20.000 beneficios",
+    "lnac": "Elecciones en Brasil 2026, EN VIVO: Lula vs. Flavio Bolsonaro y las últimas noticias del balotaje, voto a voto",
+    "folh": "Veja as promessas feitas por Lula para a economia durante a campanha",
+    "tiemp": "&#039;Colombia pierde a una mujer valiente&#039;, dijo el director de la Policía por el asesinato de la patrullera María José Recuero en una balacera en Cali",
+    "univ": "¿Qué sigue tras la renuncia de Taddei al INE?; así será el proceso para elegir a su sucesor",
+    "lemon": "EN DIRECT, élection présidentielle au Brésil : reprise du dépouillement après la prolongation des votes dans la confusion",
     "spieg": "Leaving the US: The Erosion of My American Dream",
     "guar": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
     "elpais": "Elecciones en Brasil, en vivo |Lula pide ampliar el horario de voto por problemas con el transporte: “No permitiremos que haya robo”",
@@ -27,13 +27,13 @@
     "volk": "Oppositieleider Machado is terug in Venezuela na maanden ballingschap",
     "asahi": "「せめて奪うのは物だけに…」山口・美祢強盗殺人、長男が無念さ語る",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Govt. to set up medical rooms in all schools: Sood",
-    "str": "Serbian longtime leader Aleksandar Vucic concedes defeat to student-led movement in election",
-    "nat": "Junior Starlets thrash Samoa to reach round of 16 at Women&apos;s U-17 World Cup",
+    "hindu": "Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports",
+    "str": "Aleksandar Vucic: Serbia’s veteran ruler felled by student-led movement",
+    "nat": "Rwanda’s costly Formula 1 gamble",
     "lmaf": "En Algérie, le Parlement autorise l’envoi d’unités militaires au Niger",
-    "smh": "Australia news LIVE: Haines tributes to open parliamentary proceedings today; One in three households experiencing food insecurity, new research finds",
+    "smh": "First home buyers snap up Richmond terrace for $1,286,000",
     "nzh": "'I said no': Samoan PM told Luxon treaty refresh must wait until new NZ government elected",
-    "alj": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
-    "arab": "France’s Le Pen launches presidential bid vowing to restore ‘rule of law’"
+    "alj": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+    "arab": "Real Madrid beat Barcelona in La Liga Clasico"
   }
 }
