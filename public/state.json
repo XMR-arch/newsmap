@@ -1,40 +1,40 @@
 {
-  "timestamp": "2026-10-30T15:52:40.272Z",
-  "headline": "Swim Mistress — Convergence point",
-  "intensity": 0.06,
+  "timestamp": "2026-10-30T20:19:56.549Z",
+  "headline": "Swim Mistress — Pressure building",
+  "intensity": 0.3,
   "ui_theme": {
-    "bar_color": "#00f2ff",
-    "bar_glow": "rgba(0, 242, 255, 0.5)",
-    "transition_speed": "2s"
+    "bar_color": "#2a9d8f",
+    "bar_glow": "rgba(42, 157, 143, 0.4)",
+    "transition_speed": "1s"
   },
   "region_weights": {
-    "namerica": 46,
-    "europe": 56,
-    "latam": 40,
-    "asia": 41,
-    "mideast": 20,
-    "oceania": 12,
-    "africa": 10
+    "namerica": 43,
+    "europe": 59,
+    "latam": 36,
+    "asia": 44,
+    "mideast": 24,
+    "oceania": 16,
+    "africa": 9
   },
   "layout": [
-    {
-      "id": "clar",
-      "cat": "latam",
-      "name": "Clarín",
-      "weight": 26,
-      "x": 0,
-      "y": 0,
-      "w": 290,
-      "h": 367
-    },
     {
       "id": "nyt",
       "cat": "namerica",
       "name": "New York Times",
       "weight": 25,
       "x": 0,
+      "y": 0,
+      "w": 272,
+      "h": 367
+    },
+    {
+      "id": "guar",
+      "cat": "europe",
+      "name": "The Guardian",
+      "weight": 24,
+      "x": 0,
       "y": 367,
-      "w": 290,
+      "w": 272,
       "h": 353
     },
     {
@@ -42,100 +42,100 @@
       "cat": "asia",
       "name": "People's Daily",
       "weight": 24,
-      "x": 290,
+      "x": 272,
       "y": 0,
-      "w": 256,
-      "h": 384
-    },
-    {
-      "id": "wapo",
-      "cat": "namerica",
-      "name": "Washington Post",
-      "weight": 21,
-      "x": 290,
-      "y": 384,
-      "w": 256,
-      "h": 336
-    },
-    {
-      "id": "lemon",
-      "cat": "europe",
-      "name": "Le Monde",
-      "weight": 20,
-      "x": 546,
-      "y": 0,
-      "w": 336,
-      "h": 244
+      "w": 266,
+      "h": 360
     },
     {
       "id": "alj",
       "cat": "mideast",
       "name": "Al Jazeera",
-      "weight": 20,
-      "x": 546,
-      "y": 244,
-      "w": 336,
-      "h": 244
+      "weight": 24,
+      "x": 272,
+      "y": 360,
+      "w": 266,
+      "h": 360
     },
     {
-      "id": "guar",
+      "id": "clar",
+      "cat": "latam",
+      "name": "Clarín",
+      "weight": 22,
+      "x": 537,
+      "y": 0,
+      "w": 332,
+      "h": 264
+    },
+    {
+      "id": "asahi",
+      "cat": "asia",
+      "name": "Asahi Shimbun",
+      "weight": 20,
+      "x": 537,
+      "y": 264,
+      "w": 332,
+      "h": 240
+    },
+    {
+      "id": "wapo",
+      "cat": "namerica",
+      "name": "Washington Post",
+      "weight": 18,
+      "x": 537,
+      "y": 504,
+      "w": 332,
+      "h": 216
+    },
+    {
+      "id": "lemon",
       "cat": "europe",
-      "name": "The Guardian",
-      "weight": 19,
-      "x": 546,
-      "y": 488,
-      "w": 336,
-      "h": 232
+      "name": "Le Monde",
+      "weight": 18,
+      "x": 870,
+      "y": 0,
+      "w": 211,
+      "h": 341
     },
     {
       "id": "spieg",
       "cat": "europe",
       "name": "Der Spiegel",
       "weight": 17,
-      "x": 882,
-      "y": 0,
-      "w": 199,
-      "h": 350
-    },
-    {
-      "id": "asahi",
-      "cat": "asia",
-      "name": "Asahi Shimbun",
-      "weight": 17,
       "x": 1081,
       "y": 0,
       "w": 199,
-      "h": 350
+      "h": 341
+    },
+    {
+      "id": "smh",
+      "cat": "oceania",
+      "name": "Sydney Morning Herald",
+      "weight": 16,
+      "x": 870,
+      "y": 341,
+      "w": 315,
+      "h": 202
     },
     {
       "id": "folh",
       "cat": "latam",
       "name": "Folha de S.Paulo",
       "weight": 14,
-      "x": 882,
-      "y": 350,
-      "w": 288,
-      "h": 199
-    },
-    {
-      "id": "smh",
-      "cat": "oceania",
-      "name": "Sydney Morning Herald",
-      "weight": 12,
-      "x": 882,
-      "y": 549,
-      "w": 288,
-      "h": 171
+      "x": 870,
+      "y": 543,
+      "w": 315,
+      "h": 177
     },
     {
       "id": "nat",
       "cat": "africa",
       "name": "Daily Nation",
-      "weight": 10,
-      "x": 1169,
-      "y": 350,
-      "w": 111,
-      "h": 370
+      "weight": 9,
+      "x": 1185,
+      "y": 341,
+      "w": 95,
+      "h": 379
     }
   ]
 }

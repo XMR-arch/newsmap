@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-30T15:52:48.452Z",
+  "timestamp": "2026-10-30T20:20:04.751Z",
   "fetched": 24,
   "failed": [
     "wapo",
@@ -11,15 +11,15 @@
     "haar"
   ],
   "headlines": {
-    "nyt": "Tech Stocks Tumble, but Broader Market Is Holding On",
-    "lat": "&#x27;They come in droves&#x27;: How robotaxis hog EV chargers in one corner of Southern California",
-    "glob": "Quebec Premier fires opening salvo at Ottawa with refusal to attend Canada-EU summit",
-    "clar": "Racing borró del plantel al Pacha Espino por una discusión con Sebastián Saja: qué fue lo que pasó entre el defensor y el exarquero",
-    "lnac": "El secretario de Culto dijo que Milei recibirá al Papa en el aeropuerto y habló de una cadena nacional",
-    "folh": "Assessor de Trump que ajudou Fl�vio a fugir viu apura��o das elei��es ao lado de Eduardo Bolsonaro",
-    "tiemp": "Así fueron las más de 8 horas de batalla de cuerpos de bomberos de cuatro municipios contra voraz incendio en Cartagena que consumió cuatro comercios",
-    "univ": "Inicia comparecencia de contralor del INE en Diputados; enfrenta 13 expedientes y 24 investigaciones",
-    "lemon": "EN DIRECT, midterms 2026 : « Donald Trump a diffusé le poison du doute sur le processus électoral »",
+    "nyt": "The Justice Department’s Unusual Election-Year Activity",
+    "lat": "LAPD officer accused of holding girlfriend at gunpoint is also charged with abusing kids",
+    "glob": "Ottawa designates B.C. port expansion as project of national interest",
+    "clar": "La Corte Suprema avaló la prisión preventiva de un exjefe de la SIDE ligado a Los Monos",
+    "lnac": "Patrick Stewart: la mujer que lo acompañó hasta el final y por qué el actor confesó que no tenía relación con sus hijos",
+    "folh": "&apos;Por Voc�&apos;: Z� insinua a Vanessa que sabe mais sobre o acidente do Gabriel",
+    "tiemp": "El centro de Cali registra 20 días sin homicidios y una reducción de hurtos en medio de la emergencia sísmica y los recientes desafíos de seguridad",
+    "univ": "\"Guadalupe Taddei debe de ir a la cárcel\", exige Ramírez Cuéllar; pide investigación de oficio a la FGR",
+    "lemon": "Manifestation du 31 octobre à Paris : le tribunal administratif suspend l’arrêté de la Préfecture de police interdisant le parcours entre Bastille et Nation, souhaité par l’intersyndicale",
     "spieg": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
     "guar": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
     "elpais": "Óscar Puente descarta dimitir: “Mi forma de ser responsable es dar la cara”",
@@ -27,13 +27,13 @@
     "volk": "In Amsterdamse moskee hebben vrouwen het over de lauwe reacties op dood gevonden Hajar: ‘Ik voel me als Arabische vrouw onveilig’",
     "asahi": "歌舞伎町や中洲で窃盗の罪　米海兵隊2人、初公判で起訴内容認め結審",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "Supreme Court seeks report from ECI on Form 7 misuse allegations",
-    "str": "Israel demolishes gunmen's homes in West Bank operation that has displaced thousands",
-    "nat": "Education CS Ogamba says all is set for KCSE next week as KJSEA exams end today",
-    "lmaf": "L’Ouganda, premier pays africain à adopter « Protego », programme scolaire et de santé façonné par les réactionnaires américains",
-    "smh": "‘I’m deeply hurt’: Christa Pike releases first statement since botched execution",
-    "nzh": "Government shelves proposed system to 'transform' responses to family violence",
-    "alj": "Swiss foreign minister talks political ties on rare visit to North Korea",
-    "arab": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea"
+    "hindu": "Can India and China coexist peacefully?",
+    "str": "Thousands gather in Paris suburb in tribute to victims of shooting",
+    "nat": "From Raila to Matiang’i and now Sifuna: Richard Onyonka’s political acrobatics",
+    "lmaf": "La Coupe d’Afrique des nations continuera à se tenir tous les deux ans, au grand bonheur des clubs africains",
+    "smh": "Former prince faces new police investigations",
+    "nzh": "Can the health system deliver parties' election promises?",
+    "alj": "EU and Canada seek deeper ties amid worsening global uncertainty",
+    "arab": "SAB, Playbook join forces to empower female entrepreneurs with fintech"
   }
 }
