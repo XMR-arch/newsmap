@@ -1,11 +1,12 @@
 {
-  "timestamp": "2026-10-31T22:30:38.289Z",
-  "fetched": 24,
+  "timestamp": "2026-11-01T01:24:09.461Z",
+  "fetched": 23,
   "failed": [
     "wapo",
     "terc",
     "com",
     "chos",
+    "nat",
     "mav",
     "taus",
     "haar"
@@ -13,12 +14,12 @@
   "headlines": {
     "nyt": "Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.",
     "lat": "Massive sewage main break prompts closure of all coastal waters off Long Beach",
-    "glob": "Toronto cyclists protest bike lane removals as province wraps up first phase of effort",
-    "clar": "El riesgo país marcha acorde al plan",
+    "glob": "Endangered North Atlantic right whale entangled in gear spotted in the Gulf of St. Lawrence",
+    "clar": "Horóscopo de hoy, domingo 01 de noviembre: las predicciones para la salud, el amor y el dinero",
     "lnac": "Se casaron Lali Espósito y Pedro Rosemblat: del primer mensaje en Instagram a dar el sí, así es su historia de amor",
-    "folh": "Johnny Massaro vai protagonizar primeiro longa-metragem de Ailton Krenak; saiba mais",
-    "tiemp": "Hermano de Kbeto Zuleta entregó nuevos detalles del estado de salud del cantante tras grave accidente de tránsito: &#039;En proceso de mejoría&#039;",
-    "univ": "Sheinbaum reporta avance de 32% de Tren México-Querétaro; prevén construir 2 mil 500 kilómetros de vías",
+    "folh": "Promessa de governar para as mulheres �, tamb�m, governar com as mulheres",
+    "tiemp": "Trabajo sí hay: más de 20.000 vacantes en el Empleo Fest 2026 que se llevará a cabo en Medellín en el centro de convenciones Plaza Mayor",
+    "univ": "Sheinbaum ordena eliminar cuotas de escuelas; \"no se debe pagar absolutamente nada para ir, son gratuitas\", reitera",
     "lemon": "EN DIRECT, manifestations du 31 octobre : plusieurs centaines de milliers de personnes ont défilé contre la vie chère en France, des couvre-feux partiels prévus cette nuit dans certaines grandes villes",
     "spieg": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
     "guar": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -27,13 +28,12 @@
     "volk": "In Amsterdamse moskee hebben vrouwen het over de lauwe reacties op dood gevonden Hajar: ‘Ik voel me als Arabische vrouw onveilig’",
     "asahi": "ボンネットに男性乗せて2キロ走行、殺人未遂の疑いで女を逮捕　奈良",
     "peop": "Young actors imbue old art of Qunqu opera with modernity in central China's Hunan",
-    "hindu": "IOA’s election Code of Conduct bars criticism of ‘private life’ of candidates, publicity",
-    "str": "Police, protesters clash in Germany after ‘Gen Z’ demonstrations",
-    "nat": "Police rule out Likoni curfew as hunt for suspects, missing AK-47 intensifies",
+    "hindu": "Stage set for polling in 92 urban local bodies in Andhra Pradesh | LIVE",
+    "str": "Salvadoran families demand fair trials, mourn prison dead on Day of the Dead",
     "lmaf": "L’Afrique, l’autre champ de bataille de la droite religieuse américaine",
-    "smh": "Piastri falters to 13th in Mexico qualifying",
-    "nzh": "Christchurch commuter rail trial gets green light",
-    "alj": "Palestine Action supporters arrested outside US embassy in London",
-    "arab": "Rioters loot stores in Frankfurt as Gen Z-led protests in Germany turn violent"
+    "smh": "Two teenagers dead, two in hospital after Perth car crash",
+    "nzh": "Firefighters checking possible chlorine gas leak in Mount Maunganui",
+    "alj": "Polish president holds crisis talks in court standoff",
+    "arab": "Lewis Hamilton wins pole for Ferrari at the Mexico City Grand Prix"
   }
 }
